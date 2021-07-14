@@ -1,0 +1,322 @@
+apiVersion: workstream.initiatives.a6i.io/v1a
+assertion:
+  entity_type: Theme
+  estimatedBy: joe.theworkstreamlead@mycorp.com
+  estimatedOn: &id001 2021-04-29 00:00:00
+  initiative: S1
+  program: Amplify
+  recordedBy: jill.theinitiativepmo@mycorp.com
+  scenario: Default
+  scoringCycle: Dec 2020
+  scoringMaturity: Draft
+  theme:
+    T1:
+      Milestone:
+        M1:
+          Date due: 2021-11-30 00:00:00
+          Task:
+            TA1:
+              Task Date: 2021-08-31 00:00:00
+              UID: T1.M1.TA1
+              name: Skills assessment
+            TA1-name: Skills assessment
+            TA2:
+              Task Date: 2021-11-30 00:00:00
+              UID: T1.M1.TA2
+              name: Role segmentation
+            TA2-name: Role segmentation
+          UID: T1.M1
+          name: Talent Development / sourcing plan in place
+        M1-name: Talent Development / sourcing plan in place
+        M2:
+          Date due: 2022-05-31 00:00:00
+          Task:
+            TA1:
+              Task Date: 2022-02-28 00:00:00
+              UID: T1.M2.TA1
+              name: Meet target of 5% of new hires
+            TA1-name: Meet target of 5% of new hires
+          UID: T1.M2
+          name: Deliver FY 22 skills-for-the future roadmap
+        M2-name: Deliver FY 22 skills-for-the future roadmap
+        M3:
+          Date due: 2023-05-31 00:00:00
+          Task:
+            TA1:
+              Task Date: 2023-05-31 00:00:00
+              UID: T1.M3.TA1
+              name: Meet target of 15% of new hires
+            TA1-name: Meet target of 15% of new hires
+          UID: T1.M3
+          name: Deliver FY 23 skills-for-the future roadmap
+        M3-name: Deliver FY 23 skills-for-the future roadmap
+        M4:
+          Date due: 2024-05-31 00:00:00
+          Task:
+            TA1:
+              Task Date: 2024-05-31 00:00:00
+              UID: T1.M4.TA1
+              name: Meet target of 30% of new hires
+            TA1-name: Meet target of 30% of new hires
+          UID: T1.M4
+          name: Deliver FY 24 skills-for-the future roadmap
+        M4-name: Deliver FY 24 skills-for-the future roadmap
+      UID: T1
+      name: Skills fit for future
+    T1-name: Skills fit for future
+    T2:
+      Milestone:
+        M1:
+          Date due: 2022-09-28 00:00:00
+          Task:
+            TA1:
+              Task Date: 2021-11-30 00:00:00
+              UID: T2.M1.TA1
+              name: Start mapping
+            TA1-name: Start mapping
+            TA2:
+              Task Date: 2022-02-28 00:00:00
+              UID: T2.M1.TA2
+              name: First 3 products mapped and dashboard 50% automated
+            TA2-name: First 3 products mapped and dashboard 50% automated
+            TA3:
+              Task Date: 2022-05-31 00:00:00
+              UID: T2.M1.TA3
+              name: All priority products mapped and dashboard 90% automated
+            TA3-name: All priority products mapped and dashboard 90% automated
+          UID: T2.M1
+          name: 'Dashboard mapping incidents to revenue at risk '
+        M1-name: 'Dashboard mapping incidents to revenue at risk '
+        M2:
+          Date due: 2023-02-28 00:00:00
+          Task:
+            TA1:
+              Task Date: 2022-05-31 00:00:00
+              UID: T2.M2.TA1
+              name: Prioritize scope
+            TA1-name: Prioritize scope
+            TA2:
+              Task Date: 2022-10-31 00:00:00
+              UID: T2.M2.TA2
+              name: Complete Phase I
+            TA2-name: Complete Phase I
+            TA3:
+              Task Date: 2023-06-28 00:00:00
+              UID: T2.M2.TA3
+              name: Complete Phase II
+            TA3-name: Complete Phase II
+          UID: T2.M2
+          name: Service status
+        M2-name: Service status
+        M3:
+          Date due: 2023-02-28 00:00:00
+          Task:
+            TA1:
+              Task Date: 2022-05-31 00:00:00
+              UID: T2.M3.TA1
+              name: Prioritize high-impact recurring events as a good fit for automation
+            TA1-name: Prioritize high-impact recurring events as a good fit for automation
+            TA2:
+              Task Date: 2022-10-31 00:00:00
+              UID: T2.M3.TA2
+              name: Complete Phase I
+            TA2-name: Complete Phase I
+            TA3:
+              Task Date: 2023-06-28 00:00:00
+              UID: T2.M3.TA3
+              name: Complete Phase II
+            TA3-name: Complete Phase II
+          UID: T2.M3
+          name: Automation
+        M3-name: Automation
+        M4:
+          Date due: 2023-05-31 00:00:00
+          Task:
+            TA1:
+              Task Date: 2023-05-31 00:00:00
+              UID: T2.M4.TA1
+              name: Address 70% of priority products
+            TA1-name: Address 70% of priority products
+          UID: T2.M4
+          name: Deliver FY 23  incident optimization roadmap
+        M4-name: Deliver FY 23  incident optimization roadmap
+        M5:
+          Date due: 2024-05-31 00:00:00
+          Task:
+            TA1:
+              Task Date: 2024-05-31 00:00:00
+              UID: T2.M5.TA1
+              name: Address 95% of priority products
+            TA1-name: Address 95% of priority products
+          UID: T2.M5
+          name: Deliver FY 24  incident optimization roadmap
+        M5-name: Deliver FY 24  incident optimization roadmap
+      UID: T2
+      name: Incident optimisation
+    T2-name: Incident optimisation
+    T3:
+      Milestone:
+        M1:
+          Date due: 2021-09-28 00:00:00
+          Task:
+            TA1:
+              Task Date: 2021-10-31 00:00:00
+              UID: T3.M1.TA1
+              name: "Agreement on network operating model & prioritization of network\_"
+            TA1-name: "Agreement on network operating model & prioritization of network\_"
+          UID: T3.M1
+          name: Definition of priorities and target state
+        M1-name: Definition of priorities and target state
+        M2:
+          Date due: 2022-05-31 00:00:00
+          Task:
+            TA1:
+              Task Date: 2021-11-30 00:00:00
+              UID: T3.M2.TA1
+              name: 20% of network priorities delivered
+            TA1-name: 20% of network priorities delivered
+            TA2:
+              Task Date: 2022-05-31 00:00:00
+              UID: T3.M2.TA2
+              name: 10% of clients onboarded to modernized network
+            TA2-name: 10% of clients onboarded to modernized network
+          UID: T3.M2
+          name: Deliver modernization network roadmap for FY 22
+        M2-name: Deliver modernization network roadmap for FY 22
+        M3:
+          Date due: 2023-05-31 00:00:00
+          UID: T3.M3
+          name: Deliver modernization network roadmap for FY 23
+        M3-name: Deliver modernization network roadmap for FY 23
+        M4:
+          Date due: 2024-05-31 00:00:00
+          UID: T3.M4
+          name: Deliver modernization network roadmap for FY 24
+        M4-name: Deliver modernization network roadmap for FY 24
+      UID: T3
+      name: Modernized network
+    T3-name: Modernized network
+    T4:
+      Milestone:
+        M1:
+          Date due: 2023-06-02 00:00:00
+          Task:
+            TA1:
+              Dependency:
+                D1:
+                  Dependent on: ''
+                  UID: T4.M1.TA1.D1
+                  name: W0
+                D1-name: W0
+              Task Date: 2022-01-27 00:00:00
+              UID: T4.M1.TA1
+              name: Prioritise products / solutions for reporting
+            TA1-name: Prioritise products / solutions for reporting
+            TA2:
+              Task Date: 2022-03-27 00:00:00
+              UID: T4.M1.TA2
+              name: Create standardised scorecard
+            TA2-name: Create standardised scorecard
+            TA3:
+              Task Date: 2023-06-02 00:00:00
+              UID: T4.M1.TA3
+              name: Automate data gathering and visualization
+            TA3-name: Automate data gathering and visualization
+            TA4:
+              Task Date: 2021-12-31 00:00:00
+              UID: T4.M1.TA4
+              name: Agree framework for TCO
+            TA4-name: Agree framework for TCO
+          UID: T4.M1
+          name: TCO system and process implementation roadmap
+        M1-name: TCO system and process implementation roadmap
+        M2:
+          Date due: 2022-05-01 00:00:00
+          UID: T4.M2
+          name: TCO reporting for 1st product
+        M2-name: TCO reporting for 1st product
+        M3:
+          Date due: 2022-08-01 00:00:00
+          UID: T4.M3
+          name: TCO reporting 2nd product
+        M3-name: TCO reporting 2nd product
+        M4:
+          Date due: 2023-05-31 00:00:00
+          UID: T4.M4
+          name: TCO rollout for additional priority products in FY 23
+        M4-name: TCO rollout for additional priority products in FY 23
+        M5:
+          Date due: 2024-05-31 00:00:00
+          UID: T4.M5
+          name: TCO rollout for additional priority products in FY 24
+        M5-name: TCO rollout for additional priority products in FY 24
+      UID: T4
+      name: TCO
+    T4-name: TCO
+    T5:
+      Milestone:
+        M1:
+          Date due: TBD
+          Task:
+            TA1:
+              Dependency:
+                D1:
+                  Dependent on: ''
+                  UID: T5.M1.TA1.D1
+                  name: W0
+                D1-name: W0
+              Task Date: ''
+              UID: T5.M1.TA1
+              name: Identify use cases and lead to cash models with stakeholders
+            TA1-name: Identify use cases and lead to cash models with stakeholders
+            TA2:
+              Dependency:
+                D1:
+                  Dependent on: ''
+                  UID: T5.M1.TA2.D1
+                  name: 42
+                D1-name: 42
+              Task Date: ''
+              UID: T5.M1.TA2
+              name: Define & deliver Phase I
+            TA2-name: Define & deliver Phase I
+            TA3:
+              Dependency:
+                D1:
+                  Dependent on: ''
+                  UID: T5.M1.TA3.D1
+                  name: 43
+                D1-name: 43
+              Task Date: ''
+              UID: T5.M1.TA3
+              name: Define & deliver Phase II
+            TA3-name: Define & deliver Phase II
+          UID: T5.M1
+          name: Adjust our corporate applications to adopt and support different methods
+            of revenue and lead to cash
+        M1-name: Adjust our corporate applications to adopt and support different
+          methods of revenue and lead to cash
+      UID: T5
+      name: 'E2E Lead to cash '
+    T5-name: 'E2E Lead to cash '
+  workstreamTitle: IT role in cloud native solutions
+  workstreamUID: W7
+kind: workstream-milestone
+metadata:
+  labels:
+    environment: Production
+    estimatedBy: joe.theworkstreamlead@mycorp.com
+    estimatedOn: *id001
+    initiative: S1
+    organization: My Corp
+    program: Amplify
+    recordedBy: jill.theinitiativepmo@mycorp.com
+    scenario: Default
+    scoringCycle: Dec 2020
+    scoringMaturity: Draft
+    version: 1
+    workstreamTitle: IT role in cloud native solutions
+    workstreamUID: W7
+  name: default.dec-2020.w7.s1
+  namespace: my-corp.production
+  version: 1

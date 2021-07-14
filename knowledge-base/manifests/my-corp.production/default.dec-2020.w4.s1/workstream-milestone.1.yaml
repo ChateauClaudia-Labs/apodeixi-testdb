@@ -1,0 +1,137 @@
+apiVersion: workstream.initiatives.a6i.io/v1a
+assertion:
+  entity_type: Theme
+  estimatedBy: joe.theworkstreamlead@mycorp.com
+  estimatedOn: &id001 2021-04-29 00:00:00
+  initiative: S1
+  program: Amplify
+  recordedBy: jill.theinitiativepmo@mycorp.com
+  scenario: Default
+  scoringCycle: Dec 2020
+  scoringMaturity: Draft
+  theme:
+    T1:
+      Milestone:
+        M1:
+          Date due: Will be determined based on each sales opportunity that requires
+            a new multi-cloud certification.
+          Task:
+            TA1:
+              Dependency:
+                D1:
+                  Dependent on: W1, W2
+                  UID: T1.M1.TA1.D1
+                  name: 'CPTO organization has to schedule this work in response to
+                    an opportunity identified by FMS/AMS. Expectation: first time
+                    a product is considered, CPTO should complete within 3 months.
+                    After that completion/refreshing of analsys should happen within
+                    2 weeks.'
+                D1-name: 'CPTO organization has to schedule this work in response
+                  to an opportunity identified by FMS/AMS. Expectation: first time
+                  a product is considered, CPTO should complete within 3 months. After
+                  that completion/refreshing of analsys should happen within 2 weeks.'
+              Task Date: ''
+              UID: T1.M1.TA1
+              name: 'Per cloud platform and per product, need to get:
+
+                1. The product''s sizing model to support N users on each cloud platform
+
+                2. The additional cost in USD (both one-time and on-going) to modify
+                and /or be able to support the product as incurred by CPTO (i.e.,
+                funding that FMS/AMS would need to bake into the deal to fund CPTO
+                costs)
+
+                3. Statement to Enterprise Architecture that product has been tested
+                and works on the platform on the stated configuration.
+
+                4. Statement from CTPO that it is able and willing to support the
+                product in question on the cloud platform in question, and authorizes
+                FMS/AMS to initiate sales activity.'
+            TA1-name: 'Per cloud platform and per product, need to get:
+
+              1. The product''s sizing model to support N users on each cloud platform
+
+              2. The additional cost in USD (both one-time and on-going) to modify
+              and /or be able to support the product as incurred by CPTO (i.e., funding
+              that FMS/AMS would need to bake into the deal to fund CPTO costs)
+
+              3. Statement to Enterprise Architecture that product has been tested
+              and works on the platform on the stated configuration.
+
+              4. Statement from CTPO that it is able and willing to support the product
+              in question on the cloud platform in question, and authorizes FMS/AMS
+              to initiate sales activity.'
+          UID: T1.M1
+          name: 'Multi product/ multi cloud certification (4 x 3 certifications: LIQ,
+            GPP, TI, Kondor certified on AWS, Azure, Google) defined as: we can sell
+            and deliver those FMS/AMS for those products on those cloud platforms'
+        M1-name: 'Multi product/ multi cloud certification (4 x 3 certifications:
+          LIQ, GPP, TI, Kondor certified on AWS, Azure, Google) defined as: we can
+          sell and deliver those FMS/AMS for those products on those cloud platforms'
+      UID: T1
+      name: Multi cloud strategy
+    T1-name: Multi cloud strategy
+    T2:
+      Milestone:
+        M1:
+          Date due: Ongoing
+          Task:
+            TA1:
+              Task Date: Quarterly
+              UID: T2.M1.TA1
+              name: Participate in FusionOperate roadmap feedback session
+            TA1-name: Participate in FusionOperate roadmap feedback session
+            TA2:
+              Task Date: 2021-08-31 00:00:00
+              UID: T2.M1.TA2
+              name: Present for potential re-use in product the CBA automated tests
+                scripts that allow CBA to upgrade with no CBA personnel having to
+                test
+            TA2-name: Present for potential re-use in product the CBA automated tests
+              scripts that allow CBA to upgrade with no CBA personnel having to test
+          UID: T2.M1
+          name: Provide feedback and suggested priorities from FMS/AMS to the FusionOperate
+            and modernization roadmaps.
+        M1-name: Provide feedback and suggested priorities from FMS/AMS to the FusionOperate
+          and modernization roadmaps.
+        M2:
+          Date due: TBD - once FusionOperate is available
+          Task:
+            TA1:
+              Dependency:
+                D1:
+                  Dependent on: W1, W2
+                  UID: T2.M2.TA1.D1
+                  name: Modernized product
+                D1-name: Modernized product
+              Task Date: ''
+              UID: T2.M2.TA1
+              name: Draft migration plan - handle separately "new" vs "old" customers
+            TA1-name: Draft migration plan - handle separately "new" vs "old" customers
+          UID: T2.M2
+          name: Migration to Fusion Operate
+        M2-name: Migration to Fusion Operate
+      UID: T2
+      name: FusionOperation Adoption
+    T2-name: FusionOperation Adoption
+  workstreamTitle: FMS / AMS
+  workstreamUID: W4
+kind: workstream-milestone
+metadata:
+  labels:
+    environment: Production
+    estimatedBy: joe.theworkstreamlead@mycorp.com
+    estimatedOn: *id001
+    initiative: S1
+    organization: My Corp
+    program: Amplify
+    recordedBy: jill.theinitiativepmo@mycorp.com
+    scenario: Default
+    scoringCycle: Dec 2020
+    scoringMaturity: Draft
+    version: 1
+    workstreamTitle: FMS / AMS
+    workstreamUID: W4
+  name: default.dec-2020.w4.s1
+  namespace: my-corp.production
+  version: 1

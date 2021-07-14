@@ -1,0 +1,86 @@
+apiVersion: workstream.initiatives.a6i.io/v1a
+assertion:
+  entity_type: Metric
+  estimatedBy: joe.theworkstreamlead@mycorp.com
+  estimatedOn: &id001 2021-04-29 00:00:00
+  initiative: S1
+  metric:
+    M1:
+      Baseline Value: 10.909966399999998
+      Definition of metric: FMS  revenues as per MTP. This is expressed in millions
+        of USD, and excludes FusionCloud and Partner Managed Services (PMS)
+      FY 22 Target: 21.048805933512263
+      FY 23 Target: 39.91300644243797
+      FY 24 Target: 72.11057118657934
+      Frequency of Collection: Quarterly
+      Granularity: ''
+      Metric Type: R
+      Source: ''
+      UID: M1
+      name: FMS revenue
+    M1-name: FMS revenue
+    M2:
+      Baseline Value: 0.22700000000000004
+      Definition of metric: Margins as a % of total operating cost
+      FY 22 Target: 0.33100000000000007
+      FY 23 Target: 0.353
+      FY 24 Target: 0.3619999999999999
+      Frequency of Collection: Quarterly
+      Granularity: ''
+      Metric Type: R
+      Source: ''
+      UID: M2
+      name: Margin
+    M2-name: Margin
+    M3:
+      Baseline Value: TBD
+      Definition of metric: Number of clients in FMS workshop funnel
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: TBD
+      Frequency of Collection: Quarterly
+      Granularity: ''
+      Metric Type: P
+      Source: ''
+      UID: M3
+      name: Clients in pipeline
+    M3-name: Clients in pipeline
+    M4:
+      Baseline Value: TBD
+      Definition of metric: Bookings
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: TBD
+      Frequency of Collection: Quarterly
+      Granularity: ''
+      Metric Type: P
+      Source: ''
+      UID: M4
+      name: Bookings
+    M4-name: Bookings
+  program: Amplify
+  recordedBy: jill.theinitiativepmo@mycorp.com
+  scenario: Default
+  scoringCycle: Dec 2020
+  scoringMaturity: Draft
+  workstreamTitle: FMS / AMS
+  workstreamUID: W4
+kind: workstream-metric
+metadata:
+  labels:
+    environment: Production
+    estimatedBy: joe.theworkstreamlead@mycorp.com
+    estimatedOn: *id001
+    initiative: S1
+    organization: My Corp
+    program: Amplify
+    recordedBy: jill.theinitiativepmo@mycorp.com
+    scenario: Default
+    scoringCycle: Dec 2020
+    scoringMaturity: Draft
+    version: 1
+    workstreamTitle: FMS / AMS
+    workstreamUID: W4
+  name: default.dec-2020.w4.s1
+  namespace: my-corp.production
+  version: 1

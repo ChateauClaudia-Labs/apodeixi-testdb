@@ -1,0 +1,89 @@
+apiVersion: workstream.initiatives.a6i.io/v1a
+assertion:
+  entity_type: Metric
+  estimatedBy: joe.theworkstreamlead@mycorp.com
+  estimatedOn: &id001 2021-04-29 00:00:00
+  initiative: S1
+  metric:
+    M1:
+      Baseline Value: TBD
+      Definition of metric: Pricing approach developed and implemented by the time
+        any cloud product launches
+      FY 22 Target: 1
+      FY 23 Target: 1
+      FY 24 Target: 1
+      Frequency of Collection: ''
+      Granularity: ELT
+      Metric Type: R
+      Source: ''
+      UID: M1
+      name: Pricing readiness
+    M1-name: Pricing readiness
+    M2:
+      Baseline Value: TBD
+      Definition of metric: Pricing plan progress for products that will be launched
+        in the next 6 months
+      FY 22 Target: 1
+      FY 23 Target: 1
+      FY 24 Target: 1
+      Frequency of Collection: ''
+      Granularity: ELT
+      Metric Type: P
+      Source: ''
+      UID: M2
+      name: Pricing definition plan
+    M2-name: Pricing definition plan
+    M3:
+      Baseline Value: TBD
+      Definition of metric: Pricing approach developed and implemented by the time
+        any cloud product launches
+      FY 22 Target: 1
+      FY 23 Target: 1
+      FY 24 Target: 1
+      Frequency of Collection: ''
+      Granularity: Growth products
+      Metric Type: R
+      Source: ''
+      UID: M3
+      name: Pricing readiness per product
+    M3-name: Pricing readiness per product
+    M4:
+      Baseline Value: TBD
+      Definition of metric: Pricing plan progress for products that will be launched
+        in the next 6 months
+      FY 22 Target: 1
+      FY 23 Target: 1
+      FY 24 Target: 1
+      Frequency of Collection: ''
+      Granularity: Growth products
+      Metric Type: P
+      Source: ''
+      UID: M4
+      name: Pricing definition plan per product
+    M4-name: Pricing definition plan per product
+  program: Amplify
+  recordedBy: jill.theinitiativepmo@mycorp.com
+  scenario: Default
+  scoringCycle: Dec 2020
+  scoringMaturity: Draft
+  workstreamTitle: Pricing
+  workstreamUID: W6
+kind: workstream-metric
+metadata:
+  labels:
+    environment: Production
+    estimatedBy: joe.theworkstreamlead@mycorp.com
+    estimatedOn: *id001
+    initiative: S1
+    organization: My Corp
+    program: Amplify
+    recordedBy: jill.theinitiativepmo@mycorp.com
+    scenario: Default
+    scoringCycle: Dec 2020
+    scoringMaturity: Draft
+    version: 1
+    workstreamTitle: Pricing
+    workstreamUID: W6
+  name: default.dec-2020.w6.s1
+  namespace: my-corp.production
+  version: 1

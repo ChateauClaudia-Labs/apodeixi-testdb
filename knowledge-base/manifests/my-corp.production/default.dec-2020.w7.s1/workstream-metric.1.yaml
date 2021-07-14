@@ -1,0 +1,292 @@
+apiVersion: workstream.initiatives.a6i.io/v1a
+assertion:
+  entity_type: Metric
+  estimatedBy: joe.theworkstreamlead@mycorp.com
+  estimatedOn: &id001 2021-04-29 00:00:00
+  initiative: S1
+  metric:
+    M1:
+      Baseline Value: ''
+      Definition of metric: A combination of weighting and progress to give an overall
+        view of R metrics
+      FY 22 Target: 0.1555
+      FY 23 Target: 0.33599999999999997
+      FY 24 Target: 0.5619999999999999
+      Frequency of Collection: Quarterly
+      Granularity: Executive
+      Metric Type: R
+      Source: ''
+      UID: M1
+      Weighting: ''
+      name: Skills, Network, Incident, Costs Overall
+    M1-name: Skills, Network, Incident, Costs Overall
+    M10:
+      Baseline Value: ''
+      Definition of metric: 75% of deployments utilizing
+      FY 22 Target: 0.1
+      FY 23 Target: 0.5
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: R
+      Source: ''
+      UID: M10
+      Weighting: 0.15
+      name: Changes utilizing self-service
+    M10-name: Changes utilizing self-service
+    M11:
+      Baseline Value: ''
+      Definition of metric: 100% prioritized products onboarded to status page
+      FY 22 Target: 0
+      FY 23 Target: 0
+      FY 24 Target: 0
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: P
+      Source: ''
+      UID: M11
+      Weighting: 0.06
+      name: Service Status Page
+    M11-name: Service Status Page
+    M12:
+      Baseline Value: ''
+      Definition of metric: Being driven out in next 90 days
+      FY 22 Target: 0
+      FY 23 Target: 0
+      FY 24 Target: 0
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: P
+      Source: ''
+      UID: M12
+      Weighting: 0.12
+      name: Incident Automation
+    M12-name: Incident Automation
+    M13:
+      Baseline Value: ''
+      Definition of metric: 30% reduction in mean time to engage (TBD - working through
+        roadmap)
+      FY 22 Target: 0
+      FY 23 Target: 0
+      FY 24 Target: 0
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: R
+      Source: ''
+      UID: M13
+      Weighting: 0.12
+      name: Mean time to engage
+    M13-name: Mean time to engage
+    M14:
+      Baseline Value: ''
+      Definition of metric: 40% reduction of mean time to recover (TBD - working through
+        roadmap)
+      FY 22 Target: 0
+      FY 23 Target: 0
+      FY 24 Target: 0
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: R
+      Source: ''
+      UID: M14
+      Weighting: 0.12
+      name: Mean time to recover
+    M14-name: Mean time to recover
+    M15:
+      Baseline Value: ''
+      Definition of metric: '% of products that have been prioritized and agreed as
+        go forward'
+      FY 22 Target: 1
+      FY 23 Target: 1
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: P
+      Source: ''
+      UID: M15
+      Weighting: 0.1
+      name: '# of products identified and prioritized'
+    M15-name: '# of products identified and prioritized'
+    M16:
+      Baseline Value: ''
+      Definition of metric: '% of prioritized products completed'
+      FY 22 Target: 0.15
+      FY 23 Target: 0.5
+      FY 24 Target: 0.8
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: P
+      Source: ''
+      UID: M16
+      Weighting: 0.1
+      name: Products with TCO completed
+    M16-name: Products with TCO completed
+    M17:
+      Baseline Value: ''
+      Definition of metric: TBD
+      FY 22 Target: 0.4
+      FY 23 Target: 0.6
+      FY 24 Target: 0.8
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: R
+      Source: ''
+      UID: M17
+      Weighting: 0.12
+      name: Reporting 1
+    M17-name: Reporting 1
+    M18:
+      Baseline Value: ''
+      Definition of metric: TBD
+      FY 22 Target: 0.5
+      FY 23 Target: 0.7
+      FY 24 Target: 0.8
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: R
+      Source: ''
+      UID: M18
+      Weighting: 0.12
+      name: Reporting 2
+    M18-name: Reporting 2
+    M2:
+      Baseline Value: ''
+      Definition of metric: A combination of weighting and progress to give an overall
+        view of P metrics
+      FY 22 Target: 0.4
+      FY 23 Target: 0.535
+      FY 24 Target: 0.665
+      Frequency of Collection: Quarterly
+      Granularity: Executive
+      Metric Type: P
+      Source: ''
+      UID: M2
+      Weighting: ''
+      name: Skills, Network, Incident, Costs Overall
+    M2-name: Skills, Network, Incident, Costs Overall
+    M3:
+      Baseline Value: ''
+      Definition of metric: Skill based on current and future needs defined and agreed
+      FY 22 Target: 1
+      FY 23 Target: 1
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: P
+      Source: ''
+      UID: M3
+      Weighting: 0.1
+      name: Skills agreed & aligned to PP&T
+    M3-name: Skills agreed & aligned to PP&T
+    M4:
+      Baseline Value: ''
+      Definition of metric: '% of IT staff having assessed to baseline'
+      FY 22 Target: 0.9
+      FY 23 Target: 0.9
+      FY 24 Target: 0.9
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: P
+      Source: ''
+      UID: M4
+      Weighting: 0.1
+      name: Staff assessed
+    M4-name: Staff assessed
+    M5:
+      Baseline Value: ''
+      Definition of metric: Percent of new hires who have the skills needed for the
+        target DevOps operating model
+      FY 22 Target: 0.15
+      FY 23 Target: 0.5
+      FY 24 Target: 0.8
+      Frequency of Collection: Quarterly
+      Granularity: ''
+      Metric Type: R
+      Source: ''
+      UID: M5
+      Weighting: 0.15
+      name: New hires aligned to segmented need
+    M5-name: New hires aligned to segmented need
+    M6:
+      Baseline Value: ''
+      Definition of metric: 95% of prioritized products edge network that is federated
+      FY 22 Target: 0.15
+      FY 23 Target: 0.5
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: P
+      Source: ''
+      UID: M6
+      Weighting: 0.1
+      name: Network federation
+    M6-name: Network federation
+    M7:
+      Baseline Value: ''
+      Definition of metric: Degree of completion of modernization roadmap for the
+        network
+      FY 22 Target: 0.75
+      FY 23 Target: 0.95
+      FY 24 Target: 0.95
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: P
+      Source: ''
+      UID: M7
+      Weighting: 0.1
+      name: Network modernization
+    M7-name: Network modernization
+    M8:
+      Baseline Value: ''
+      Definition of metric: 80% of prioritized products on modernized network
+      FY 22 Target: 0.05
+      FY 23 Target: 0.5
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: P
+      Source: ''
+      UID: M8
+      Weighting: 0.1
+      name: Clients  on modernized network
+    M8-name: Clients  on modernized network
+    M9:
+      Baseline Value: 120
+      Definition of metric: 50% reduction over current
+      FY 22 Target: 0.1
+      FY 23 Target: 0.3
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: IT
+      Metric Type: R
+      Source: ''
+      UID: M9
+      Weighting: 0.1
+      name: Client connections deployment time
+    M9-name: Client connections deployment time
+  program: Amplify
+  recordedBy: jill.theinitiativepmo@mycorp.com
+  scenario: Default
+  scoringCycle: Dec 2020
+  scoringMaturity: Draft
+  workstreamTitle: IT role in cloud native solutions
+  workstreamUID: W7
+kind: workstream-metric
+metadata:
+  labels:
+    environment: Production
+    estimatedBy: joe.theworkstreamlead@mycorp.com
+    estimatedOn: *id001
+    initiative: S1
+    organization: My Corp
+    program: Amplify
+    recordedBy: jill.theinitiativepmo@mycorp.com
+    scenario: Default
+    scoringCycle: Dec 2020
+    scoringMaturity: Draft
+    version: 1
+    workstreamTitle: IT role in cloud native solutions
+    workstreamUID: W7
+  name: default.dec-2020.w7.s1
+  namespace: my-corp.production
+  version: 1

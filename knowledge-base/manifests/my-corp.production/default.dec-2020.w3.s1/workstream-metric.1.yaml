@@ -1,0 +1,202 @@
+apiVersion: workstream.initiatives.a6i.io/v1a
+assertion:
+  entity_type: Metric
+  estimatedBy: joe.theworkstreamlead@mycorp.com
+  estimatedOn: &id001 2021-04-29 00:00:00
+  initiative: S1
+  metric:
+    M1:
+      Baseline Value: TBD
+      Definition of metric: Across all customer environments, compute the N-x, average
+        the "x" values, and report that.
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: ELT
+      Metric Type: R
+      Source: W3 centralized workbook
+      UID: M1
+      name: GA variance
+    M1-name: GA variance
+    M10:
+      Baseline Value: ''
+      Definition of metric: ''
+      FY 22 Target: ''
+      FY 23 Target: ''
+      FY 24 Target: ''
+      Frequency of Collection: ''
+      Granularity: ''
+      Metric Type: ''
+      Source: ''
+      UID: M10
+      name: R = Results metric
+    M10-name: R = Results metric
+    M2:
+      Baseline Value: TBD
+      Definition of metric: 'Count of cloud deals signed.
+
+        Calculate ratio of implementations meeting N-1 (FusionCloud, Partner Managed
+        Services) or N-3 (FMS) compliance. The compliance is measured as of go-live
+        time (i.e., once implementation completes).
+
+        Count begins as of implementation of IT approval gate to capture deal close.
+
+
+        '
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: ELT
+      Metric Type: P
+      Source: W3 centralized workbook
+      UID: M2
+      name: Go-live N-x compliance
+    M2-name: Go-live N-x compliance
+    M3:
+      Baseline Value: TBD
+      Definition of metric: Across all customer environments, compute the N-x, average
+        the "x" values, and report that.
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: Per growth product
+      Metric Type: R
+      Source: W3 centralized workbook
+      UID: M3
+      name: GA variance - FusionCloud
+    M3-name: GA variance - FusionCloud
+    M4:
+      Baseline Value: TBD
+      Definition of metric: Across all customer environments, compute the N-x, average
+        the "x" values, and report that.
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: 3
+      Frequency of Collection: Quarterly
+      Granularity: Per growth product
+      Metric Type: R
+      Source: W3 centralized workbook
+      UID: M4
+      name: GA variance - FMS
+    M4-name: GA variance - FMS
+    M5:
+      Baseline Value: TBD
+      Definition of metric: Across all customer environments, compute the N-x, average
+        the "x" values, and report that.
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: Per growth product
+      Metric Type: R
+      Source: W3 centralized workbook
+      UID: M5
+      name: GA variance - MSP
+    M5-name: GA variance - MSP
+    M6:
+      Baseline Value: TBD
+      Definition of metric: 'Count of FC deals signed.
+
+        Calculate ratio of implementations meeting N-1 compliance, per type vs. deal
+        close.
+
+        Count begins as of implementation of IT approval gate to capture deal close.
+
+
+        '
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: Per growth product
+      Metric Type: P
+      Source: W3 centralized workbook
+      UID: M6
+      name: Compliance at go-live for FusionCloud
+    M6-name: Compliance at go-live for FusionCloud
+    M7:
+      Baseline Value: TBD
+      Definition of metric: 'Count of FMS deals signed.
+
+        Calculate ratio of implementations meeting N-3 compliance, per type vs. deal
+        close.
+
+        Count begins as of implementation of IT approval gate to capture deal close.
+
+
+        '
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: 3
+      Frequency of Collection: Quarterly
+      Granularity: Per growth product
+      Metric Type: P
+      Source: W3 centralized workbook
+      UID: M7
+      name: Compliance at go-live for FMS
+    M7-name: Compliance at go-live for FMS
+    M8:
+      Baseline Value: TBD
+      Definition of metric: 'Count of MSP deals signed.
+
+        Calculate ratio of implementations meeting N-1 compliance, per type vs. deal
+        close.
+
+        Count begins as of implementation of IT approval gate to capture deal close.
+
+
+        '
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: Per growth product
+      Metric Type: P
+      Source: W3 centralized workbook
+      UID: M8
+      name: Compliance at go-live for Partner Managed Services Managed Service Providers
+    M8-name: Compliance at go-live for Partner Managed Services Managed Service Providers
+    M9:
+      Baseline Value: ''
+      Definition of metric: ''
+      FY 22 Target: ''
+      FY 23 Target: ''
+      FY 24 Target: ''
+      Frequency of Collection: ''
+      Granularity: ''
+      Metric Type: ''
+      Source: ''
+      UID: M9
+      name: P = Progress metric
+    M9-name: P = Progress metric
+  program: Amplify
+  recordedBy: jill.theinitiativepmo@mycorp.com
+  scenario: Default
+  scoringCycle: Dec 2020
+  scoringMaturity: Draft
+  workstreamTitle: N-1 (FusionCloud) and N-3 (FMS, Partner hosted) compliance Cloud
+    value proposition
+  workstreamUID: W3
+kind: workstream-metric
+metadata:
+  labels:
+    environment: Production
+    estimatedBy: joe.theworkstreamlead@mycorp.com
+    estimatedOn: *id001
+    initiative: S1
+    organization: My Corp
+    program: Amplify
+    recordedBy: jill.theinitiativepmo@mycorp.com
+    scenario: Default
+    scoringCycle: Dec 2020
+    scoringMaturity: Draft
+    version: 1
+    workstreamTitle: N-1 (FusionCloud) and N-3 (FMS, Partner hosted) compliance Cloud
+      value proposition
+    workstreamUID: W3
+  name: default.dec-2020.w3.s1
+  namespace: my-corp.production
+  version: 1

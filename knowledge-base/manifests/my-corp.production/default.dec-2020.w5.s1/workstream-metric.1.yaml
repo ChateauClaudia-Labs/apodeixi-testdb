@@ -1,0 +1,73 @@
+apiVersion: workstream.initiatives.a6i.io/v1a
+assertion:
+  entity_type: Metric
+  estimatedBy: joe.theworkstreamlead@mycorp.com
+  estimatedOn: &id001 2021-04-29 00:00:00
+  initiative: S1
+  metric:
+    M1:
+      Baseline Value: TBD
+      Definition of metric: Cloud bookings of [$XM]
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: TBD
+      Frequency of Collection: Quarterly
+      Granularity: ELT
+      Metric Type: R
+      Source: ''
+      UID: M1
+      name: Cloud bookings
+    M1-name: Cloud bookings
+    M2:
+      Baseline Value: 225.14258360000002
+      Definition of metric: Fusion Cloud  revenues as per MTP. This is expressed in
+        millions of USD, and excludes FMS and PMS.
+      FY 22 Target: 234.92611660023775
+      FY 23 Target: 289.7192605503712
+      FY 24 Target: 363.3859867469617
+      Frequency of Collection: Quarterly
+      Granularity: ELT
+      Metric Type: R
+      Source: ''
+      UID: M2
+      name: FusionCloud revenue
+    M2-name: FusionCloud revenue
+    M3:
+      Baseline Value: TBD
+      Definition of metric: Cloud pipeline by product by region of [$XM]
+      FY 22 Target: TBD
+      FY 23 Target: TBD
+      FY 24 Target: TBD
+      Frequency of Collection: Quarterly
+      Granularity: ELT
+      Metric Type: P
+      Source: ''
+      UID: M3
+      name: Cloud pipeline
+    M3-name: Cloud pipeline
+  program: Amplify
+  recordedBy: jill.theinitiativepmo@mycorp.com
+  scenario: Default
+  scoringCycle: Dec 2020
+  scoringMaturity: Draft
+  workstreamTitle: Cloud Sales (excl FMS)
+  workstreamUID: W5
+kind: workstream-metric
+metadata:
+  labels:
+    environment: Production
+    estimatedBy: joe.theworkstreamlead@mycorp.com
+    estimatedOn: *id001
+    initiative: S1
+    organization: My Corp
+    program: Amplify
+    recordedBy: jill.theinitiativepmo@mycorp.com
+    scenario: Default
+    scoringCycle: Dec 2020
+    scoringMaturity: Draft
+    version: 1
+    workstreamTitle: Cloud Sales (excl FMS)
+    workstreamUID: W5
+  name: default.dec-2020.w5.s1
+  namespace: my-corp.production
+  version: 1

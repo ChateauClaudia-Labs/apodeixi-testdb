@@ -1,0 +1,191 @@
+apiVersion: workstream.initiatives.a6i.io/v1a
+assertion:
+  entity_type: Theme
+  estimatedBy: joe.theworkstreamlead@mycorp.com
+  estimatedOn: &id001 2021-04-29 00:00:00
+  initiative: S1
+  program: Amplify
+  recordedBy: jill.theinitiativepmo@mycorp.com
+  scenario: Default
+  scoringCycle: Dec 2020
+  scoringMaturity: Draft
+  theme:
+    T1:
+      Milestone:
+        M1:
+          Date due: TBC
+          Task:
+            TA1:
+              Task Date: ''
+              UID: T1.M1.TA1
+              name: Agree which product sales classify as cloud for target selling
+                in the strategic initiative
+            TA1-name: Agree which product sales classify as cloud for target selling
+              in the strategic initiative
+            TA2:
+              Task Date: ''
+              UID: T1.M1.TA2
+              name: Settting-KPIs framework
+            TA2-name: Settting-KPIs framework
+          UID: T1.M1
+          name: Operational framework
+        M1-name: Operational framework
+        M2:
+          Date due: TBC
+          Task:
+            TA1:
+              Task Date: ''
+              UID: T1.M2.TA1
+              name: Document the experiences
+            TA1-name: Document the experiences
+          UID: T1.M2
+          name: Waterfall model to illustrate required timing from idea to first sale
+        M2-name: Waterfall model to illustrate required timing from idea to first
+          sale
+        M3:
+          Date due: 2021-06-30 00:00:00
+          Task:
+            TA1:
+              Task Date: ''
+              UID: T1.M3.TA1
+              name: Identify FFDC apps which drive cloud revenue for Finastra
+            TA1-name: Identify FFDC apps which drive cloud revenue for Finastra
+          UID: T1.M3
+          name: Identify synergictic FFDC apps
+        M3-name: Identify synergictic FFDC apps
+        M4:
+          Date due: 2021-08-01 00:00:00
+          Task:
+            TA1:
+              Task Date: ''
+              UID: T1.M4.TA1
+              name: 'Propose means for faster proposal turnarounds (e.g., ready-made
+                connectors to environments to support customer POCs). Refers to: demo
+                infrastructure + FFDC '
+            TA1-name: 'Propose means for faster proposal turnarounds (e.g., ready-made
+              connectors to environments to support customer POCs). Refers to: demo
+              infrastructure + FFDC '
+            TA2:
+              Task Date: ''
+              UID: T1.M4.TA2
+              name: 'Identification of cloud champions per region/lob (example: if
+                an Essence opportunity comes along, what experts, field staff capacity,
+                etc. are needed)'
+            TA2-name: 'Identification of cloud champions per region/lob (example:
+              if an Essence opportunity comes along, what experts, field staff capacity,
+              etc. are needed)'
+          UID: T1.M4
+          name: Prepare sales readiness
+        M4-name: Prepare sales readiness
+      UID: T1
+      name: Optimize execution today
+    T1-name: Optimize execution today
+    T2:
+      Milestone:
+        M1:
+          Date due: TBC
+          Task:
+            TA1:
+              Task Date: ''
+              UID: T2.M1.TA1
+              name: Document ideas for augmenting/replacing existing/non-existing
+                modules which would better address customer demand for cloud in the
+                enterprise segments
+            TA1-name: Document ideas for augmenting/replacing existing/non-existing
+              modules which would better address customer demand for cloud in the
+              enterprise segments
+          UID: T2.M1
+          name: Ideas for enterprise cloud business
+        M1-name: Ideas for enterprise cloud business
+      UID: T2
+      name: Help product strategy
+    T2-name: Help product strategy
+    T3:
+      Milestone:
+        M1:
+          Date due: 2021-08-30 00:00:00
+          Task:
+            TA1:
+              Task Date: ''
+              UID: T3.M1.TA1
+              name: 'Template that would be subsequently populated for each cloud
+                value proposition to yield an actionable sales model for such value
+                prop. Template would have swimlanes for:'
+            TA1-name: 'Template that would be subsequently populated for each cloud
+              value proposition to yield an actionable sales model for such value
+              prop. Template would have swimlanes for:'
+            TA2:
+              Task Date: ''
+              UID: T3.M1.TA2
+              name: Routes to market
+            TA2-name: Routes to market
+            TA3:
+              Task Date: ''
+              UID: T3.M1.TA3
+              name: First target (incl FMS and other building blocks_ to size the
+                price
+            TA3-name: First target (incl FMS and other building blocks_ to size the
+              price
+            TA4:
+              Task Date: ''
+              UID: T3.M1.TA4
+              name: Demand creation approach
+            TA4-name: Demand creation approach
+            TA5:
+              Task Date: ''
+              UID: T3.M1.TA5
+              name: Pricing
+            TA5-name: Pricing
+            TA6:
+              Task Date: ''
+              UID: T3.M1.TA6
+              name: Accelerators & incentives
+            TA6-name: Accelerators & incentives
+            TA7:
+              Task Date: ''
+              UID: T3.M1.TA7
+              name: Internal communications on how to hug a tree
+            TA7-name: Internal communications on how to hug a tree
+            TA8:
+              Task Date: ''
+              UID: T3.M1.TA8
+              name: People & skills
+            TA8-name: People & skills
+          UID: T3.M1
+          name: Go-to-market plan template
+        M1-name: Go-to-market plan template
+        M2:
+          Date due: TBC
+          Dependency:
+            D1:
+              Dependent on: W1, W2
+              UID: T3.M2.D1
+              name: Need modernized product before SaaS sales can start
+            D1-name: Need modernized product before SaaS sales can start
+          UID: T3.M2
+          name: Create go-to-market model for selected solutions
+        M2-name: Create go-to-market model for selected solutions
+      UID: T3
+      name: Go-to-market model
+    T3-name: Go-to-market model
+  workstreamTitle: Cloud Sales (excl FMS)
+  workstreamUID: W5
+kind: workstream-milestone
+metadata:
+  labels:
+    environment: Production
+    estimatedBy: joe.theworkstreamlead@mycorp.com
+    estimatedOn: *id001
+    initiative: S1
+    organization: My Corp
+    program: Amplify
+    recordedBy: jill.theinitiativepmo@mycorp.com
+    scenario: Default
+    scoringCycle: Dec 2020
+    scoringMaturity: Draft
+    version: 1
+    workstreamTitle: Cloud Sales (excl FMS)
+    workstreamUID: W5
+  name: default.dec-2020.w5.s1
+  namespace: my-corp.production
+  version: 1

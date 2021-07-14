@@ -1,0 +1,60 @@
+apiVersion: workstream.initiatives.a6i.io/v1a
+assertion:
+  entity_type: Metric
+  estimatedBy: joe.theworkstreamlead@mycorp.com
+  estimatedOn: &id001 2021-04-29 00:00:00
+  initiative: S1
+  metric:
+    M1:
+      Baseline Value: 0
+      Definition of metric: Degree of completion product strategy for the year to
+        accelerate cloud revenue
+      FY 22 Target: 1
+      FY 23 Target: 1
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: ELT
+      Metric Type: R
+      Source: ''
+      UID: M1
+      name: Cloud product strategy
+    M1-name: Cloud product strategy
+    M2:
+      Baseline Value: ''
+      Definition of metric: Deliver agreed milestones on agreed dates
+      FY 22 Target: 1
+      FY 23 Target: 1
+      FY 24 Target: 1
+      Frequency of Collection: Quarterly
+      Granularity: ELT
+      Metric Type: P
+      Source: ''
+      UID: M2
+      name: Fidelity to plan
+    M2-name: Fidelity to plan
+  program: Amplify
+  recordedBy: jill.theinitiativepmo@mycorp.com
+  scenario: Default
+  scoringCycle: Dec 2020
+  scoringMaturity: Draft
+  workstreamTitle: Cloud value proposition
+  workstreamUID: W0
+kind: workstream-metric
+metadata:
+  labels:
+    environment: Production
+    estimatedBy: joe.theworkstreamlead@mycorp.com
+    estimatedOn: *id001
+    initiative: S1
+    organization: My Corp
+    program: Amplify
+    recordedBy: jill.theinitiativepmo@mycorp.com
+    scenario: Default
+    scoringCycle: Dec 2020
+    scoringMaturity: Draft
+    version: 1
+    workstreamTitle: Cloud value proposition
+    workstreamUID: W0
+  name: default.dec-2020.w0.s1
+  namespace: my-corp.production
+  version: 1

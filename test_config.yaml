@@ -1,8 +1,15 @@
 integration-tests-results:
   static_data_flows.s_c: 1001
-  entity_type: Milestone
-  estimatedBy: joe@my-org.com
-  estimatedOn: &id001 2021-06-06 00:00:00
+  static_data_flows.products: 1002
+
+  environment_lifecycle: 1501
+  search_big_rocks_postings: 1502
+  search_milestone_postings: 1503
+  search_workstream_postings: 1504
+
+  basic_posting_flows.big_rocks.burnout: 2001
+  basic_posting_flows.big_rocks.explained: 2002
+
 
  
 

@@ -1,0 +1,8 @@
+integration-tests-results:
+  static_data_flows.s_c: 1001
+  entity_type: Milestone
+  estimatedBy: joe@my-org.com
+  estimatedOn: &id001 2021-06-06 00:00:00
+
+ 
+

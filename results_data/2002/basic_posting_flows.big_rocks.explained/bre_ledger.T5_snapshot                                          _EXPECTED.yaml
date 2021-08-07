@@ -6,12 +6,17 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
           (Timestamp omitted) Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1647
+              Size (in bytes):  1244
 
               '
             products.static-data.admin.a6i.xlsx: '
 
               Size (in bytes):  17415
+
+              '
+            scoring-cycles.static-data.admin.a6i.xlsx: '
+
+              Size (in bytes):  17477
 
               '
     journeys:
@@ -27,7 +32,7 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
           OfficialPlan:
             LedgerPro.big-rocks.journeys.a6i.xlsx: '
 
-              Size (in bytes):  9623
+              Size (in bytes):  9624
 
               '
             _ARCHIVE:
@@ -55,7 +60,7 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
             (Timestamp omitted) Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1647
+                Size (in bytes):  1244
 
                 '
               products.static-data.admin.a6i.xlsx: '
@@ -63,9 +68,19 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
                 Size (in bytes):  17415
 
                 '
+              scoring-cycles.static-data.admin.a6i.xlsx: '
+
+                Size (in bytes):  17477
+
+                '
           products.static-data.admin.a6i.xlsx: '
 
             Size (in bytes):  17415
+
+            '
+          scoring-cycles.static-data.admin.a6i.xlsx: '
+
+            Size (in bytes):  17477
 
             '
       journeys:
@@ -116,5 +131,10 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
           product.1.yaml: '
 
             Size (in bytes):  641
+
+            '
+          scoring-cycle.1.yaml: '
+
+            Size (in bytes):  1307
 
             '

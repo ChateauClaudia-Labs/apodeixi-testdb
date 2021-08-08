@@ -1,4 +1,4 @@
-static_data_flows.s_c.scoring_cycles_ENV:
+1001_ENV:
   external-collaboration:
     admin:
       static-data:
@@ -6,12 +6,12 @@ static_data_flows.s_c.scoring_cycles_ENV:
           (Timestamp omitted) Posting:
             FORM_REQUEST_EVENT_LOG.txt: '
 
-              Size (in bytes):  379
+              Size (in bytes):  347
 
               '
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1294
+              Size (in bytes):  1262
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -48,12 +48,12 @@ static_data_flows.s_c.scoring_cycles_ENV:
             (Timestamp omitted) Posting:
               FORM_REQUEST_EVENT_LOG.txt: '
 
-                Size (in bytes):  379
+                Size (in bytes):  347
 
                 '
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1294
+                Size (in bytes):  1262
 
                 '
               scoring-cycles.static-data.admin.a6i.xlsx: '

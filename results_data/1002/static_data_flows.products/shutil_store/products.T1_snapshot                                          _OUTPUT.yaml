@@ -1,4 +1,4 @@
-static_data_flows.products.products_ENV:
+1002_ENV:
   external-collaboration:
     admin:
       static-data:
@@ -6,7 +6,7 @@ static_data_flows.products.products_ENV:
           (Timestamp omitted) Posting:
             FORM_REQUEST_EVENT_LOG.txt: '
 
-              Size (in bytes):  366
+              Size (in bytes):  335
 
               '
         products.static-data.admin.a6i.xlsx: '
@@ -38,6 +38,6 @@ static_data_flows.products.products_ENV:
             (Timestamp omitted) Posting:
               FORM_REQUEST_EVENT_LOG.txt: '
 
-                Size (in bytes):  366
+                Size (in bytes):  335
 
                 '

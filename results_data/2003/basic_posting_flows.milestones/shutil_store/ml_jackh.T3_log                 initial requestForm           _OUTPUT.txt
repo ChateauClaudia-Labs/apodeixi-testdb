@@ -5,4 +5,4 @@ CREATED FORM:
 		 excel_filename  = 'Jack Henry.milestone.journeys.a6i.xlsx'
 		 excel_sheet     = 'Posting Label'
 		 excel_range     = 'B2:C100'
-clientURL =          <MASKED>/apodeixi/test_db/knowledge-base/envs/basic_posting_flows.milestones.ml_jackh_ENV/external-collaboration
+clientURL =          <MASKED>/apodeixi/test_db/knowledge-base/envs/2003_ENV/external-collaboration

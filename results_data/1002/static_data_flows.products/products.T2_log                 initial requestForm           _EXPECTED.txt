@@ -5,4 +5,4 @@ CREATED FORM:
 		 excel_filename  = 'products.static-data.admin.a6i.xlsx'
 		 excel_sheet     = 'Posting Label'
 		 excel_range     = 'B2:C100'
-clientURL =          <MASKED>/apodeixi/test_db/knowledge-base/envs/static_data_flows.products.products_ENV/external-collaboration
+clientURL =          <MASKED>/apodeixi/test_db/knowledge-base/envs/1002_ENV/external-collaboration

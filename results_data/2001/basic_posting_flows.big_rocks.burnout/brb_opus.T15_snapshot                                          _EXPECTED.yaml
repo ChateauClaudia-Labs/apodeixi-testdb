@@ -1,4 +1,4 @@
-basic_posting_flows.big_rocks.burnout.brb_opus_ENV:
+2001_ENV:
   external-collaboration:
     admin:
       static-data:
@@ -27,7 +27,7 @@ basic_posting_flows.big_rocks.burnout.brb_opus_ENV:
               (Timestamp omitted) Posting:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  399
+                  Size (in bytes):  357
 
                   '
                 FusionOpus.big-rocks.journeys.a6i.xlsx: '
@@ -42,7 +42,7 @@ basic_posting_flows.big_rocks.burnout.brb_opus_ENV:
                   '
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2438
+                  Size (in bytes):  2396
 
                   '
         LedgerPro:
@@ -96,7 +96,7 @@ basic_posting_flows.big_rocks.burnout.brb_opus_ENV:
                 (Timestamp omitted) Posting:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  399
+                    Size (in bytes):  357
 
                     '
                   FusionOpus.big-rocks.journeys.a6i.xlsx: '
@@ -111,7 +111,7 @@ basic_posting_flows.big_rocks.burnout.brb_opus_ENV:
                     '
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  2438
+                    Size (in bytes):  2396
 
                     '
     manifests:

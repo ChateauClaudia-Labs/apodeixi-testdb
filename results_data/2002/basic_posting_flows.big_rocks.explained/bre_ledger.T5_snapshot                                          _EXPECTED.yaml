@@ -1,4 +1,4 @@
-basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
+2002_ENV:
   external-collaboration:
     admin:
       static-data:
@@ -39,7 +39,7 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
               (Timestamp omitted) Posting:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  406
+                  Size (in bytes):  360
 
                   '
                 LedgerPro.big-rocks.journeys.a6i.xlsx: '
@@ -49,7 +49,7 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
                   '
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  1956
+                  Size (in bytes):  1910
 
                   '
   kb:
@@ -96,7 +96,7 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
                 (Timestamp omitted) Posting:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  406
+                    Size (in bytes):  360
 
                     '
                   LedgerPro.big-rocks.journeys.a6i.xlsx: '
@@ -106,7 +106,7 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
                     '
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  1956
+                    Size (in bytes):  1910
 
                     '
     manifests:

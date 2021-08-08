@@ -106,7 +106,7 @@ basic_posting_flows.big_rocks.explained.bre_ledger_ENV:
                     '
     manifests:
       my-corp.production:
-        modernization.officialplan.dec-2020.ledgerpro:
+        modernization.dec-2020.ledgerpro.officialplan:
           big-rock-estimate.1.yaml: '
 
             Size (in bytes):  2445

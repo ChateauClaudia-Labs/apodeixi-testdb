@@ -3,21 +3,21 @@ CREATED MANIFEST:
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock'
-		 name           = 'modernization.default.dec-2020.fusionopus'
+		 name           = 'modernization.dec-2020.fusionopus.default'
 		 version        = '1'
 
 CREATED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock-estimate'
-		 name           = 'modernization.default.dec-2020.fusionopus'
+		 name           = 'modernization.dec-2020.fusionopus.default'
 		 version        = '1'
 
 CREATED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'investment'
-		 name           = 'modernization.default.dec-2020.fusionopus'
+		 name           = 'modernization.dec-2020.fusionopus.default'
 		 version        = '1'
 
 ARCHIVED POSTING FROM:   
@@ -40,17 +40,17 @@ PUBLISHED OPTIONAL FORM:
 			 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 			 namespace      = 'my-corp.production'
 			 kind           = 'big-rock'
-			 name           = 'modernization.default.dec-2020.fusionopus'
+			 name           = 'modernization.dec-2020.fusionopus.default'
 			 version        = '1'
 		 *** A ManifestHandle ***
 			 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 			 namespace      = 'my-corp.production'
 			 kind           = 'big-rock-estimate'
-			 name           = 'modernization.default.dec-2020.fusionopus'
+			 name           = 'modernization.dec-2020.fusionopus.default'
 			 version        = '1'
 		 *** A ManifestHandle ***
 			 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 			 namespace      = 'my-corp.production'
 			 kind           = 'investment'
-			 name           = 'modernization.default.dec-2020.fusionopus'
+			 name           = 'modernization.dec-2020.fusionopus.default'
 			 version        = '1'

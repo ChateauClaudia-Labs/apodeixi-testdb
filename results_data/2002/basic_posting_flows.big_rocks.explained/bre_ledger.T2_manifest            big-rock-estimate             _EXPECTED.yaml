@@ -116,6 +116,6 @@ metadata:
     scoringMaturity: Committed
     variant: explained
     version: 1
-  name: modernization.officialplan.dec-2020.ledgerpro
+  name: modernization.dec-2020.ledgerpro.officialplan
   namespace: my-corp.production
   version: 1

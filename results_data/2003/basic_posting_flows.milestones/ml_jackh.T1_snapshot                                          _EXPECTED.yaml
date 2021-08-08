@@ -1,4 +1,4 @@
-basic_posting_flows.milestones.ml_ledger_ENV:
+basic_posting_flows.milestones.ml_jackh_ENV:
   external-collaboration:
     admin:
       static-data:
@@ -103,7 +103,7 @@ basic_posting_flows.milestones.ml_ledger_ENV:
                     '
     manifests:
       my-corp.production:
-        modernization.officialplan.dec-2020.jack-henry:
+        modernization.dec-2020.jack-henry.officialplan:
           big-rock-estimate.1.yaml: '
 
             Size (in bytes):  2604

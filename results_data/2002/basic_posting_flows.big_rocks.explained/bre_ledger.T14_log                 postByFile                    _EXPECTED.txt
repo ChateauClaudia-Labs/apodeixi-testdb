@@ -3,14 +3,14 @@ CREATED MANIFEST:
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock'
-		 name           = 'modernization.officialplan.dec-2020.ledgerpro'
+		 name           = 'modernization.dec-2020.ledgerpro.officialplan'
 		 version        = '2'
 
 CREATED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock-estimate'
-		 name           = 'modernization.officialplan.dec-2020.ledgerpro'
+		 name           = 'modernization.dec-2020.ledgerpro.officialplan'
 		 version        = '2'
 
 ARCHIVED POSTING FROM:   
@@ -33,11 +33,11 @@ PUBLISHED OPTIONAL FORM:
 			 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 			 namespace      = 'my-corp.production'
 			 kind           = 'big-rock'
-			 name           = 'modernization.officialplan.dec-2020.ledgerpro'
+			 name           = 'modernization.dec-2020.ledgerpro.officialplan'
 			 version        = '2'
 		 *** A ManifestHandle ***
 			 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 			 namespace      = 'my-corp.production'
 			 kind           = 'big-rock-estimate'
-			 name           = 'modernization.officialplan.dec-2020.ledgerpro'
+			 name           = 'modernization.dec-2020.ledgerpro.officialplan'
 			 version        = '2'

@@ -1,4 +1,4 @@
-basic_posting_flows.milestones.ml_ledger_ENV:
+basic_posting_flows.milestones.ml_jackh_ENV:
   external-collaboration:
     admin:
       static-data:
@@ -30,18 +30,8 @@ basic_posting_flows.milestones.ml_ledger_ENV:
               '
         Jack Henry:
           OfficialPlan:
-            Jack Henry.milestone.journeys.a6i.xlsx: '
-
-              Size (in bytes):  9617
-
-              '
             _ARCHIVE:
               (Timestamp omitted) Posting:
-                FORM_REQUEST_EVENT_LOG.txt: '
-
-                  Size (in bytes):  398
-
-                  '
                 POST_EVENT_LOG.txt: '
 
                   Size (in bytes):  1858
@@ -101,11 +91,6 @@ basic_posting_flows.milestones.ml_ledger_ENV:
                 '
               _ARCHIVE:
                 (Timestamp omitted) Posting:
-                  FORM_REQUEST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  398
-
-                    '
                   POST_EVENT_LOG.txt: '
 
                     Size (in bytes):  1858
@@ -118,7 +103,7 @@ basic_posting_flows.milestones.ml_ledger_ENV:
                     '
     manifests:
       my-corp.production:
-        modernization.officialplan.dec-2020.jack-henry:
+        modernization.dec-2020.jack-henry.officialplan:
           big-rock-estimate.1.yaml: '
 
             Size (in bytes):  2604

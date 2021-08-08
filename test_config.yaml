@@ -9,6 +9,7 @@ integration-tests-results:
 
   basic_posting_flows.big_rocks.burnout: 2001
   basic_posting_flows.big_rocks.explained: 2002
+  basic_posting_flows.milestones: 2003
 
   aggregate_workstream_metrics: 3001
 

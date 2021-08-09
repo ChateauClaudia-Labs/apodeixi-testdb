@@ -6,6 +6,13 @@ CREATED MANIFEST:
 		 name           = 'modernization.dec-2020.jack-henry.officialplan'
 		 version        = '1'
 
+UNCHANGED MANIFEST:        
+		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
+		 namespace      = 'my-corp.production'
+		 kind           = 'big-rock'
+		 name           = 'modernization.dec-2020.jack-henry.officialplan'
+		 version        = '1'
+
 ARCHIVED POSTING FROM:   
 		 posting_api     = 'milestone.journeys.a6i'
 		 filing_coords   = 'TBD - Submitted from: <MASKED>/apodeixi/test_db/knowledge-base/envs/2003_ENV/external-collaboration/journeys/Dec 2020/Jack Henry/OfficialPlan/Jack Henry.milestone.journeys.a6i.xlsx'
@@ -22,6 +29,12 @@ ARCHIVED POSTING FROM:
 PUBLISHED OPTIONAL FORM: 
 		 posting_api     = 'milestone.journeys.a6i'
 		 filing_coords   = 'Dec 2020.Jack Henry.OfficialPlan'
+		 *** A ManifestHandle ***
+			 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
+			 namespace      = 'my-corp.production'
+			 kind           = 'big-rock'
+			 name           = 'modernization.dec-2020.jack-henry.officialplan'
+			 version        = '1'
 		 *** A ManifestHandle ***
 			 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 			 namespace      = 'my-corp.production'

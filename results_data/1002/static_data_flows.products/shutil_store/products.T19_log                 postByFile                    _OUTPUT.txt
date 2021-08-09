@@ -1,12 +1,12 @@
 
-CREATED MANIFEST:        
+UPDATED MANIFEST:        
 		 apiVersion     = 'static-data.admin.a6i.io/v1a'
 		 namespace      = 'my-corp.testing-area'
 		 kind           = 'product'
 		 name           = 'static-data'
 		 version        = '2'
 
-CREATED MANIFEST:        
+UPDATED MANIFEST:        
 		 apiVersion     = 'static-data.admin.a6i.io/v1a'
 		 namespace      = 'my-corp.testing-area'
 		 kind           = 'line-of-business'

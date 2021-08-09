@@ -1,19 +1,19 @@
 
-CREATED MANIFEST:        
+UPDATED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock'
 		 name           = 'modernization.dec-2020.fusionopus.default'
 		 version        = '2'
 
-CREATED MANIFEST:        
+UPDATED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock-estimate'
 		 name           = 'modernization.dec-2020.fusionopus.default'
 		 version        = '2'
 
-CREATED MANIFEST:        
+UPDATED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'investment'

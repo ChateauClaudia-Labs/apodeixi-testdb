@@ -1,10 +1,10 @@
 
-CREATED MANIFEST:        
+UPDATED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'modernization-milestone'
 		 name           = 'modernization.dec-2020.jack-henry.officialplan'
-		 version        = '1'
+		 version        = '2'
 
 UNCHANGED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
@@ -40,4 +40,4 @@ PUBLISHED OPTIONAL FORM:
 			 namespace      = 'my-corp.production'
 			 kind           = 'modernization-milestone'
 			 name           = 'modernization.dec-2020.jack-henry.officialplan'
-			 version        = '1'
+			 version        = '2'

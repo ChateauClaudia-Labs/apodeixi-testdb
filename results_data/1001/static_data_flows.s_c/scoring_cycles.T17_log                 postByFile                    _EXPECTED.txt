@@ -1,5 +1,5 @@
 
-CREATED MANIFEST:        
+UPDATED MANIFEST:        
 		 apiVersion     = 'static-data.admin.a6i.io/v1a'
 		 namespace      = 'my-corp.testing-area'
 		 kind           = 'scoring-cycle'

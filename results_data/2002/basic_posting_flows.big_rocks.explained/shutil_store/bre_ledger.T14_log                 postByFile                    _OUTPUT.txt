@@ -1,12 +1,12 @@
 
-CREATED MANIFEST:        
+UPDATED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock'
 		 name           = 'modernization.dec-2020.ledgerpro.officialplan'
 		 version        = '2'
 
-CREATED MANIFEST:        
+UPDATED MANIFEST:        
 		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock-estimate'

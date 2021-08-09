@@ -11,7 +11,7 @@ total width		79
 ************** Layout information for Manifest 'modernization-milestone.1' **********
 
 layout span		[[1, 5], [49, 9]]
-hidden columns		[]
+hidden columns		['big-rock']
 column widths		index		{'width': 9, 'nb_lines': 1}
 0		{'width': 13, 'nb_lines': 1}
 1		{'width': 18, 'nb_lines': 1}

@@ -1,0 +1,27 @@
+************** Content of Posting Label **********
+
+manifestAPI		delivery-planning.journeys.a6i.io/v1a
+organization		My Corp
+knowledgeBase		Production
+recordedBy		jill.thearchitect@mycorp.com
+estimatedBy		joe.thedevhead@mycorp.com
+estimatedOn		2021-04-29 00:00:00
+priorVersion.0		1
+product		FusionOpus
+journey		Modernization
+scenario		Default
+scoringCycle		Dec 2020
+scoringMaturity		Draft
+planType		Marathon
+variant		burnout
+priorVersion.1		1
+priorVersion.2		1
+data.kind.0		big-rock
+data.range.0		B2:C7
+data.sheet.0		Assertions
+data.kind.1		big-rock-estimate
+data.range.1		D2:D7
+data.sheet.1		Assertions
+data.kind.2		investment
+data.range.2		F2:G7
+data.sheet.2		Assertions

@@ -1,0 +1,21 @@
+************** Layout information for Manifest 'big-rock.0' **********
+
+layout span		[[1, 6], [4, 52]]
+hidden columns		[]
+column widths		UID		{'width': 4, 'nb_lines': 1}
+big-rock		{'width': 37, 'nb_lines': 1}
+UID-1		{'width': 6, 'nb_lines': 1}
+Breakdown		{'width': 32, 'nb_lines': 1}
+
+total width		79
+************** Layout information for Manifest 'modernization-milestone.1' **********
+
+layout span		[[1, 5], [50, 9]]
+hidden columns		['big-rock']
+column widths		index		{'width': 9, 'nb_lines': 1}
+0		{'width': 13, 'nb_lines': 1}
+1		{'width': 18, 'nb_lines': 1}
+2		{'width': 7, 'nb_lines': 1}
+3		{'width': 12, 'nb_lines': 1}
+
+total width		59

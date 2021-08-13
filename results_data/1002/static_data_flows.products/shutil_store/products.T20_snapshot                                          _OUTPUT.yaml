@@ -16,14 +16,9 @@
               '
             products.static-data.admin.a6i.xlsx: '
 
-              Size (in bytes):  7127
+              Size (in bytes):  18005
 
               '
-        products.static-data.admin.a6i.xlsx: '
-
-          Size (in bytes):  7022
-
-          '
     journeys:
       Dec 2020:
         FusionOpus:
@@ -58,12 +53,12 @@
                 '
               products.static-data.admin.a6i.xlsx: '
 
-                Size (in bytes):  7127
+                Size (in bytes):  18005
 
                 '
           products.static-data.admin.a6i.xlsx: '
 
-            Size (in bytes):  7127
+            Size (in bytes):  18005
 
             '
     manifests:
@@ -74,8 +69,18 @@
             Size (in bytes):  786
 
             '
+          line-of-business.2.yaml: '
+
+            Size (in bytes):  793
+
+            '
           product.1.yaml: '
 
             Size (in bytes):  1025
+
+            '
+          product.2.yaml: '
+
+            Size (in bytes):  1530
 
             '

@@ -131,7 +131,8 @@ NoneType: None
 
 ******** Functional Trace ********
 
-Problem:	Did you forget to define a Posting Label in the Excel spreadsheet? Got this error:
+Problem:	Are you missing the Posting Label, or perhaps you have a typo or missing value in the Posting Label's 'data.sheet' fields? 
+Got this error:
 
 Worksheet named 'Posting Label' not found
 Here are the functional activities that led to the problem (stack trace at the bottom):

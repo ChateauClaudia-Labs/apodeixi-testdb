@@ -1,0 +1,21 @@
+************** Content of Posting Label **********
+
+manifestAPI		delivery-planning.journeys.a6i.io/v1a
+organization		my-corp
+knowledgeBase		production
+recordedBy		yourname.lastname@your_company.com
+estimatedBy		accountableowner.lastname@your_company.com
+estimatedOn		2021-08-04 00:00:00
+priorVersion.0		1
+product		Jack Henry
+journey		modernization
+scenario		OfficialPlan
+scoringCycle		Dec 2020
+scoringMaturity		
+data.kind.0		big-rock
+data.range.0		B5:E51
+data.sheet.0		Assertions
+readOnly.0		True
+data.kind.1		modernization-milestone
+data.range.1		F2:J62
+data.sheet.1		Assertions

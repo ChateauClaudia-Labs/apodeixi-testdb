@@ -19,6 +19,22 @@
               Size (in bytes):  17462
 
               '
+    journeys:
+      Dec 2020:
+        FusionOpus:
+          Default:
+            _ARCHIVE:
+              (Timestamp omitted) Posting:
+                OPUS_big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  25146
+
+                  '
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  2364
+
+                  '
   kb:
     excel-postings:
       admin:
@@ -50,8 +66,45 @@
             Size (in bytes):  17462
 
             '
+      journeys:
+        Dec 2020:
+          FusionOpus:
+            Default:
+              FusionOpus.big-rocks.journeys.a6i.xlsx: '
+
+                Size (in bytes):  25146
+
+                '
+              _ARCHIVE:
+                (Timestamp omitted) Posting:
+                  OPUS_big-rocks.journeys.a6i.xlsx: '
+
+                    Size (in bytes):  25146
+
+                    '
+                  POST_EVENT_LOG.txt: '
+
+                    Size (in bytes):  2364
+
+                    '
     manifests:
       my-corp.production:
+        modernization.dec-2020.fusionopus.default:
+          big-rock-estimate.1.yaml: '
+
+            Size (in bytes):  1258
+
+            '
+          big-rock.1.yaml: '
+
+            Size (in bytes):  1412
+
+            '
+          investment.1.yaml: '
+
+            Size (in bytes):  1306
+
+            '
         static-data:
           line-of-business.1.yaml: '
 

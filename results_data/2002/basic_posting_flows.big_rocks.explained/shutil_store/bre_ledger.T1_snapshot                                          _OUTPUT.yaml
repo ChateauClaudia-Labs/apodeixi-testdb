@@ -1,4 +1,4 @@
-2001_ENV:
+2002_ENV:
   external-collaboration:
     admin:
       static-data:
@@ -6,17 +6,26 @@
           (Timestamp omitted) Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1242
+              Size (in bytes):  1244
 
               '
             products.static-data.admin.a6i.xlsx: '
 
-              Size (in bytes):  16772
+              Size (in bytes):  17415
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
 
-              Size (in bytes):  17462
+              Size (in bytes):  17477
+
+              '
+    journeys:
+      Dec 2020:
+        LedgerPro:
+          OfficialPlan:
+            LedgerPro.big-rocks.journeys.a6i.xlsx: '
+
+              Size (in bytes):  28512
 
               '
   kb:
@@ -27,27 +36,27 @@
             (Timestamp omitted) Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1242
+                Size (in bytes):  1244
 
                 '
               products.static-data.admin.a6i.xlsx: '
 
-                Size (in bytes):  16772
+                Size (in bytes):  17415
 
                 '
               scoring-cycles.static-data.admin.a6i.xlsx: '
 
-                Size (in bytes):  17462
+                Size (in bytes):  17477
 
                 '
           products.static-data.admin.a6i.xlsx: '
 
-            Size (in bytes):  16772
+            Size (in bytes):  17415
 
             '
           scoring-cycles.static-data.admin.a6i.xlsx: '
 
-            Size (in bytes):  17462
+            Size (in bytes):  17477
 
             '
     manifests:
@@ -60,11 +69,11 @@
             '
           product.1.yaml: '
 
-            Size (in bytes):  627
+            Size (in bytes):  641
 
             '
           scoring-cycle.1.yaml: '
 
-            Size (in bytes):  1160
+            Size (in bytes):  1307
 
             '

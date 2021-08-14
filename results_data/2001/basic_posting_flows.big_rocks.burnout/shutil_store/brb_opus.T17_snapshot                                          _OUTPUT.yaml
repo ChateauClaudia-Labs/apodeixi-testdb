@@ -1,4 +1,4 @@
-2003_ENV:
+2001_ENV:
   external-collaboration:
     admin:
       static-data:
@@ -6,43 +6,43 @@
           (Timestamp omitted) Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1235
+              Size (in bytes):  1242
 
               '
             products.static-data.admin.a6i.xlsx: '
 
-              Size (in bytes):  17383
+              Size (in bytes):  16772
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
 
-              Size (in bytes):  17477
+              Size (in bytes):  17462
 
               '
     journeys:
       Dec 2020:
-        Jack Henry:
-          OfficialPlan:
+        FusionOpus:
+          Default:
             _ARCHIVE:
               (Timestamp omitted) Posting:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  362
+                  Size (in bytes):  357
 
                   '
-                Jack Henry.milestone.journeys.a6i.xlsx: '
+                FusionOpus.big-rocks.journeys.a6i.xlsx: '
 
-                  Size (in bytes):  30690
+                  Size (in bytes):  19132
+
+                  '
+                OPUS_big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  25146
 
                   '
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  1928
-
-                  '
-                for_mls.big-rocks.journeys.a6i.xlsx: '
-
-                  Size (in bytes):  20280
+                  Size (in bytes):  2396
 
                   '
   kb:
@@ -53,86 +53,91 @@
             (Timestamp omitted) Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1235
+                Size (in bytes):  1242
 
                 '
               products.static-data.admin.a6i.xlsx: '
 
-                Size (in bytes):  17383
+                Size (in bytes):  16772
 
                 '
               scoring-cycles.static-data.admin.a6i.xlsx: '
 
-                Size (in bytes):  17477
+                Size (in bytes):  17462
 
                 '
           products.static-data.admin.a6i.xlsx: '
 
-            Size (in bytes):  17383
+            Size (in bytes):  16772
 
             '
           scoring-cycles.static-data.admin.a6i.xlsx: '
 
-            Size (in bytes):  17477
+            Size (in bytes):  17462
 
             '
       journeys:
         Dec 2020:
-          Jack Henry:
-            OfficialPlan:
-              Jack Henry.big-rocks.journeys.a6i.xlsx: '
+          FusionOpus:
+            Default:
+              FusionOpus.big-rocks.journeys.a6i.xlsx: '
 
-                Size (in bytes):  20280
-
-                '
-              Jack Henry.milestone.journeys.a6i.xlsx: '
-
-                Size (in bytes):  30690
+                Size (in bytes):  19132
 
                 '
               _ARCHIVE:
                 (Timestamp omitted) Posting:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  362
+                    Size (in bytes):  357
 
                     '
-                  Jack Henry.milestone.journeys.a6i.xlsx: '
+                  FusionOpus.big-rocks.journeys.a6i.xlsx: '
 
-                    Size (in bytes):  30690
+                    Size (in bytes):  19132
+
+                    '
+                  OPUS_big-rocks.journeys.a6i.xlsx: '
+
+                    Size (in bytes):  25146
 
                     '
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  1928
-
-                    '
-                  for_mls.big-rocks.journeys.a6i.xlsx: '
-
-                    Size (in bytes):  20280
+                    Size (in bytes):  2396
 
                     '
     manifests:
       my-corp.production:
-        modernization.dec-2020.jack-henry.officialplan:
+        modernization.dec-2020.fusionopus.default:
           big-rock-estimate.1.yaml: '
 
-            Size (in bytes):  2604
+            Size (in bytes):  1258
+
+            '
+          big-rock-estimate.2.yaml: '
+
+            Size (in bytes):  1424
 
             '
           big-rock.1.yaml: '
 
-            Size (in bytes):  5806
+            Size (in bytes):  1412
 
             '
-          modernization-milestone.1.yaml: '
+          big-rock.2.yaml: '
 
-            Size (in bytes):  1333
+            Size (in bytes):  1794
 
             '
-          modernization-milestone.2.yaml: '
+          investment.1.yaml: '
 
-            Size (in bytes):  1979
+            Size (in bytes):  1306
+
+            '
+          investment.2.yaml: '
+
+            Size (in bytes):  1397
 
             '
         static-data:
@@ -143,11 +148,11 @@
             '
           product.1.yaml: '
 
-            Size (in bytes):  633
+            Size (in bytes):  627
 
             '
           scoring-cycle.1.yaml: '
 
-            Size (in bytes):  1307
+            Size (in bytes):  1160
 
             '

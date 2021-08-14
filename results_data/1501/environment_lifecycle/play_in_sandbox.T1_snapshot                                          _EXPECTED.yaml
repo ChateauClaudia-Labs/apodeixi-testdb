@@ -4,11 +4,6 @@
       Dec 2020:
         FusionOpus:
           Default:
-            OPUS_big-rocks.journeys.a6i.xlsx: '
-
-              Size (in bytes):  25146
-
-              '
             _ARCHIVE:
               (Timestamp omitted) Posting:
                 POST_EVENT_LOG.txt: '
@@ -21,13 +16,6 @@
                   Size (in bytes):  25149
 
                   '
-        LedgerPro:
-          OfficialPlan:
-            LedgerPro.big-rocks.journeys.a6i.xlsx: '
-
-              Size (in bytes):  28512
-
-              '
   kb:
     excel-postings:
       journeys:

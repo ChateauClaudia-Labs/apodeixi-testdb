@@ -21,18 +21,11 @@
               '
     journeys:
       Dec 2020:
-        FusionOpus:
-          Default:
-            OPUS_big-rocks.journeys.a6i.xlsx: '
-
-              Size (in bytes):  25146
-
-              '
         Jack Henry:
           OfficialPlan:
             Jack Henry.milestone.journeys.a6i.xlsx: '
 
-              Size (in bytes):  19432
+              Size (in bytes):  19433
 
               '
             _ARCHIVE:
@@ -52,13 +45,6 @@
                   Size (in bytes):  20280
 
                   '
-        LedgerPro:
-          OfficialPlan:
-            LedgerPro.big-rocks.journeys.a6i.xlsx: '
-
-              Size (in bytes):  28512
-
-              '
   kb:
     excel-postings:
       admin:

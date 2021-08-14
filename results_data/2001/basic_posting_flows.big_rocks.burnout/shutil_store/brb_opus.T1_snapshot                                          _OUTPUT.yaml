@@ -19,6 +19,15 @@
               Size (in bytes):  17462
 
               '
+    journeys:
+      Dec 2020:
+        FusionOpus:
+          Default:
+            OPUS_big-rocks.journeys.a6i.xlsx: '
+
+              Size (in bytes):  25146
+
+              '
   kb:
     excel-postings:
       admin:

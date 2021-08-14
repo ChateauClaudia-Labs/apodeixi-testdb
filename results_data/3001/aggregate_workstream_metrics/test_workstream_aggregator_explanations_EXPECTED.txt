@@ -35,18 +35,18 @@ Here are the functional activities that led to the problem (stack trace at the b
 
 ---->	activity	Applying Excel posting
 
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ---->	activity	Parsing data for 1 manifest
 
             kind                : workstream-milestone
             excel_range         : B2:I100
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ---->	activity	Creating BreakoutTree from Excel
 
             relative_path       : initiatives/FY 22/s1.w2/w2-workstream.initiatives.a6i.xlsx
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ---->	activity	Sanity check that user complied with right schema
 
@@ -90,35 +90,35 @@ Here are the functional activities that led to the problem (stack trace at the b
 
 ---->	activity	Applying Excel posting
 
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ---->	activity	Parsing data for 1 manifest
 
             kind                : workstream-milestone
             excel_range         : B2:I100
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ---->	activity	Creating BreakoutTree from Excel
 
             relative_path       : initiatives/FY 22/s1.w3/w3-workstream.initiatives.a6i.xlsx
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ---->	activity	Processing DataFrame
 
             tree.entity_type    : Theme
             columns             : ['UID', 'Theme', 'Milestone', 'Date due', 'Task', 'Task Date', 'Dependency', 'Dependent on']
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\xli\posting_controller_utils.py
+            signaled_from       : <MASKED>/apodeixi\xli\posting_controller_utils.py
 
 ---->	activity	Processing fragment
 
             excel row           : 5
             interval            : ['Dependency', 'Dependent on']
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\xli\posting_controller_utils.py
+            signaled_from       : <MASKED>/apodeixi\xli\posting_controller_utils.py
 
 ---->	activity	Validating inputs are well-formed
 
             known_entity_types  : ['Theme', 'Milestone', 'Task', 'Dependency']
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\xli\breakdown_builder.py
+            signaled_from       : <MASKED>/apodeixi\xli\breakdown_builder.py
 
 ------------------------------------------------------------	Technical Stack Trace
 
@@ -156,11 +156,11 @@ Here are the functional activities that led to the problem (stack trace at the b
 
 ---->	activity	Applying Excel posting
 
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ---->	activity	Parsing posting label
 
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ---->	activity	Searching in parent environment
 
@@ -213,11 +213,11 @@ Here are the functional activities that led to the problem (stack trace at the b
 
 ---->	activity	Applying Excel posting
 
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ---->	activity	Parsing posting label
 
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\controllers\util\skeleton_controller.py
+            signaled_from       : <MASKED>/apodeixi\controllers\util\skeleton_controller.py
 
 ------------------------------------------------------------	Technical Stack Trace
 

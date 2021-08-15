@@ -1,8 +1,0 @@
-
-CREATED FORM:        
-		 posting_api     = 'big-rocks.journeys.a6i'
-		 filing_coords   = 'Dec 2020.LedgerPro.OfficialPlan'
-		 excel_filename  = 'LedgerPro.big-rocks.journeys.a6i.xlsx'
-		 excel_sheet     = 'Posting Label'
-		 excel_range     = 'B2:C100'
-clientURL =          <KNOWLEDGE BASE ROOT>/envs/2002_ENV/external-collaboration

@@ -1,2 +1,8 @@
 envs/
 *Thumbs.db
+
+*_OUTPUT.yaml
+
+*_OUTPUT.txt
+
+shutil_store/

@@ -1,0 +1,1 @@
+This folder is used in Apodeixi regression tests to simulate the external collaboration area.

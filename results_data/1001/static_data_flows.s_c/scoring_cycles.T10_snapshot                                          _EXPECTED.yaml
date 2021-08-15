@@ -6,12 +6,12 @@
           (Timestamp omitted) Posting:
             FORM_REQUEST_EVENT_LOG.txt: '
 
-              Size (in bytes):  315
+              Size (in bytes):  328
 
               '
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1230
+              Size (in bytes):  1243
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -32,12 +32,12 @@
             (Timestamp omitted) Posting:
               FORM_REQUEST_EVENT_LOG.txt: '
 
-                Size (in bytes):  315
+                Size (in bytes):  328
 
                 '
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1230
+                Size (in bytes):  1243
 
                 '
               scoring-cycles.static-data.admin.a6i.xlsx: '

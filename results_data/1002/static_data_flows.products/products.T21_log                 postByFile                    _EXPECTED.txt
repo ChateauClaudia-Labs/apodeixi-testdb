@@ -15,7 +15,7 @@ UPDATED MANIFEST:
 
 ARCHIVED POSTING FROM:   
 		 posting_api     = 'products.static-data.admin.a6i'
-		 filing_coords   = 'TBD - Submitted from: <MASKED>/envs/1002_ENV/external-collaboration/admin/static-data/products.static-data.admin.a6i.xlsx'
+		 filing_coords   = 'TBD - Submitted from: <KNOWLEDGE BASE ROOT>/envs/1002_ENV/external-collaboration/admin/static-data/products.static-data.admin.a6i.xlsx'
 		 excel_filename  = 'products.static-data.admin.a6i.xlsx'
 		 excel_sheet     = 'Posting Label'
 		 excel_range     = 'B2:C1000'

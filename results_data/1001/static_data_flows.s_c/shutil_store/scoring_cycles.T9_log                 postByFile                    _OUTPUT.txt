@@ -8,7 +8,7 @@ CREATED MANIFEST:
 
 ARCHIVED POSTING FROM:   
 		 posting_api     = 'scoring-cycles.static-data.admin.a6i'
-		 filing_coords   = 'TBD - Submitted from: <MASKED>/envs/1001_ENV/external-collaboration/admin/static-data/scoring-cycles.static-data.admin.a6i.xlsx'
+		 filing_coords   = 'TBD - Submitted from: <KNOWLEDGE BASE ROOT>/envs/1001_ENV/external-collaboration/admin/static-data/scoring-cycles.static-data.admin.a6i.xlsx'
 		 excel_filename  = 'scoring-cycles.static-data.admin.a6i.xlsx'
 		 excel_sheet     = 'Posting Label'
 		 excel_range     = 'B2:C1000'

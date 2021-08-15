@@ -6,7 +6,7 @@
           (Timestamp omitted) Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1244
+              Size (in bytes):  1238
 
               '
             products.static-data.admin.a6i.xlsx: '
@@ -27,7 +27,7 @@
               (Timestamp omitted) Posting:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  328
+                  Size (in bytes):  341
 
                   '
                 LedgerPro.big-rocks.journeys.a6i.xlsx: '
@@ -37,7 +37,7 @@
                   '
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  1872
+                  Size (in bytes):  1885
 
                   '
   kb:
@@ -48,7 +48,7 @@
             (Timestamp omitted) Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1244
+                Size (in bytes):  1238
 
                 '
               products.static-data.admin.a6i.xlsx: '
@@ -84,7 +84,7 @@
                 (Timestamp omitted) Posting:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  328
+                    Size (in bytes):  341
 
                     '
                   LedgerPro.big-rocks.journeys.a6i.xlsx: '
@@ -94,7 +94,7 @@
                     '
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  1872
+                    Size (in bytes):  1885
 
                     '
     manifests:

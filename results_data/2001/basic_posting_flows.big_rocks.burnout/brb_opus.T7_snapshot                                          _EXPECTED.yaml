@@ -6,7 +6,7 @@
           (Timestamp omitted) Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1242
+              Size (in bytes):  1236
 
               '
             products.static-data.admin.a6i.xlsx: '
@@ -32,7 +32,7 @@
               (Timestamp omitted) Posting:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  325
+                  Size (in bytes):  338
 
                   '
                 OPUS_big-rocks.journeys.a6i.xlsx: '
@@ -42,7 +42,7 @@
                   '
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2332
+                  Size (in bytes):  2345
 
                   '
   kb:
@@ -53,7 +53,7 @@
             (Timestamp omitted) Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1242
+                Size (in bytes):  1236
 
                 '
               products.static-data.admin.a6i.xlsx: '
@@ -89,7 +89,7 @@
                 (Timestamp omitted) Posting:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  325
+                    Size (in bytes):  338
 
                     '
                   OPUS_big-rocks.journeys.a6i.xlsx: '
@@ -99,7 +99,7 @@
                     '
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  2332
+                    Size (in bytes):  2345
 
                     '
     manifests:

@@ -5,4 +5,4 @@ CREATED FORM:
 		 excel_filename  = 'Jack Henry.milestone.journeys.a6i.xlsx'
 		 excel_sheet     = 'Posting Label'
 		 excel_range     = 'B2:C100'
-clientURL =          <MASKED>/envs/2003_ENV/external-collaboration
+clientURL =          <KNOWLEDGE BASE ROOT>/envs/2003_ENV/external-collaboration

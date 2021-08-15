@@ -15,7 +15,7 @@ UNCHANGED MANIFEST:
 
 ARCHIVED POSTING FROM:   
 		 posting_api     = 'milestone.journeys.a6i'
-		 filing_coords   = 'TBD - Submitted from: <MASKED>/apodeixi/test_db/knowledge-base/envs/2003_ENV/external-collaboration/journeys/Dec 2020/Jack Henry/OfficialPlan/Jack Henry.milestone.journeys.a6i.xlsx'
+		 filing_coords   = 'TBD - Submitted from: <MASKED>/envs/2003_ENV/external-collaboration/journeys/Dec 2020/Jack Henry/OfficialPlan/Jack Henry.milestone.journeys.a6i.xlsx'
 		 excel_filename  = 'Jack Henry.milestone.journeys.a6i.xlsx'
 		 excel_sheet     = 'Posting Label'
 		 excel_range     = 'B2:C1000'

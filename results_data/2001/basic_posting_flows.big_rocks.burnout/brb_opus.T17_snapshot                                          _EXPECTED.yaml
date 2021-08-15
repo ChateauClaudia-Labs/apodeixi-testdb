@@ -27,7 +27,7 @@
               (Timestamp omitted) Posting:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  357
+                  Size (in bytes):  325
 
                   '
                 FusionOpus.big-rocks.journeys.a6i.xlsx: '
@@ -42,7 +42,7 @@
                   '
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2396
+                  Size (in bytes):  2364
 
                   '
   kb:
@@ -89,7 +89,7 @@
                 (Timestamp omitted) Posting:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  357
+                    Size (in bytes):  325
 
                     '
                   FusionOpus.big-rocks.journeys.a6i.xlsx: '
@@ -104,7 +104,7 @@
                     '
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  2396
+                    Size (in bytes):  2364
 
                     '
     manifests:

@@ -27,7 +27,7 @@
               (Timestamp omitted) Posting:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  360
+                  Size (in bytes):  328
 
                   '
                 LedgerPro.big-rocks.journeys.a6i.xlsx: '
@@ -37,7 +37,7 @@
                   '
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  1904
+                  Size (in bytes):  1872
 
                   '
   kb:
@@ -84,7 +84,7 @@
                 (Timestamp omitted) Posting:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  360
+                    Size (in bytes):  328
 
                     '
                   LedgerPro.big-rocks.journeys.a6i.xlsx: '
@@ -94,7 +94,7 @@
                     '
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  1904
+                    Size (in bytes):  1872
 
                     '
     manifests:

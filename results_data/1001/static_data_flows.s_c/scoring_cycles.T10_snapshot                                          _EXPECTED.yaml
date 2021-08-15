@@ -6,22 +6,22 @@
           (Timestamp omitted) Posting:
             FORM_REQUEST_EVENT_LOG.txt: '
 
-              Size (in bytes):  347
+              Size (in bytes):  315
 
               '
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1262
+              Size (in bytes):  1230
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
 
-              Size (in bytes):  7142
+              Size (in bytes):  7161
 
               '
         scoring-cycles.static-data.admin.a6i.xlsx: '
 
-          Size (in bytes):  7452
+          Size (in bytes):  7473
 
           '
   kb:
@@ -32,22 +32,22 @@
             (Timestamp omitted) Posting:
               FORM_REQUEST_EVENT_LOG.txt: '
 
-                Size (in bytes):  347
+                Size (in bytes):  315
 
                 '
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1262
+                Size (in bytes):  1230
 
                 '
               scoring-cycles.static-data.admin.a6i.xlsx: '
 
-                Size (in bytes):  7142
+                Size (in bytes):  7161
 
                 '
           scoring-cycles.static-data.admin.a6i.xlsx: '
 
-            Size (in bytes):  7142
+            Size (in bytes):  7161
 
             '
     manifests:

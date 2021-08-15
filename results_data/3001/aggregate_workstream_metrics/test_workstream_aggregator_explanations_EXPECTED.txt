@@ -190,7 +190,7 @@ NoneType: None
 
 Problem:	PostingLabel in range 'B2:C100' lacks at least one mandatory fields: 'manifestAPI', 'data.kind', 'organization', 'estimatedBy', 'data.range', 'scenario'
 
-            signaled_from       : C:\Users\aleja\Documents\Code\chateauclaudia-labs\apodeixi\project\src\apodeixi\xli\posting_controller_utils.py
+            signaled_from       : <MASKED>/apodeixi\xli\posting_controller_utils.py
 
 Here are the functional activities that led to the problem (stack trace at the bottom):
 

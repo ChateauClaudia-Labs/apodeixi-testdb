@@ -1,0 +1,7 @@
+Store@transaction#1::Base_environment		_BASE_ENVIRONMENT
+Store@transaction#1::Current_environment		store-transaction.1
+Store@transaction#1::Ancestor_1		1002_ENV
+Store@transaction#1::Transaction_environment		store-transaction.1
+Store@transaction#1::Transaction_stack::0		store-transaction.1
+ManifestRepresenter@transaction#1::manifests::0		product.0
+ManifestRepresenter@transaction#1::manifests::1		line-of-business.1

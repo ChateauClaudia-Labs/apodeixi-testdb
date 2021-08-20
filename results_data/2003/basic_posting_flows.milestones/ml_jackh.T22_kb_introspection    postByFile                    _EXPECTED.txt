@@ -302,7 +302,7 @@ MilestonesController@transaction#12::MANIFEST_META::0::_DATA_KIND		big-rock
 MilestonesController@transaction#12::MANIFEST_META::0::_DATA_RANGE		B7:E53
 MilestonesController@transaction#12::MANIFEST_META::0::_DATA_SHEET		Assertions
 MilestonesController@transaction#12::MANIFEST_META::1::_DATA_KIND		modernization-milestone
-MilestonesController@transaction#12::MANIFEST_META::1::_DATA_RANGE		F2:J63
+MilestonesController@transaction#12::MANIFEST_META::1::_DATA_RANGE		F2:K63
 MilestonesController@transaction#12::MANIFEST_META::1::_DATA_SHEET		Assertions
 MilestonesController@transaction#12::ROW_2_UID_LINK::big-rock::0		BR1
 MilestonesController@transaction#12::ROW_2_UID_LINK::big-rock::1		BR1.B1
@@ -350,7 +350,8 @@ MilestonesController@transaction#12::ROW_2_UID_LINK::big-rock::42		BR9.B6
 MilestonesController@transaction#12::ROW_2_UID_LINK::big-rock::43		BR9.B7
 MilestonesController@transaction#12::ROW_2_UID_LINK::big-rock::44		BR9.B8
 MilestonesController@transaction#12::ROW_2_UID_LINK::big-rock::45		BR9.B9
-MilestonesController@transaction#12::ROW_2_UID_LINK::modernization-milestone::0		M5
-MilestonesController@transaction#12::ROW_2_UID_LINK::modernization-milestone::1		M6
-MilestonesController@transaction#12::ROW_2_UID_LINK::modernization-milestone::2		M7
-MilestonesController@transaction#12::ROW_2_UID_LINK::modernization-milestone::3		M8
+MilestonesController@transaction#12::ROW_2_UID_LINK::modernization-milestone::0		M1
+MilestonesController@transaction#12::ROW_2_UID_LINK::modernization-milestone::1		M2
+MilestonesController@transaction#12::ROW_2_UID_LINK::modernization-milestone::2		M5
+MilestonesController@transaction#12::ROW_2_UID_LINK::modernization-milestone::3		M3
+MilestonesController@transaction#12::ROW_2_UID_LINK::modernization-milestone::4		M4

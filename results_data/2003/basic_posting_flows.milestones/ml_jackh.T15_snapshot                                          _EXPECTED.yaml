@@ -25,7 +25,7 @@
           OfficialPlan:
             Jack Henry.milestone.journeys.a6i.xlsx: '
 
-              Size (in bytes):  20094
+              Size (in bytes):  20118
 
               '
             _ARCHIVE:
@@ -37,7 +37,7 @@
                   '
                 Jack Henry.milestone.journeys.a6i.xlsx: '
 
-                  Size (in bytes):  19566
+                  Size (in bytes):  19558
 
                   '
                 POST_EVENT_LOG.txt: '
@@ -92,7 +92,7 @@
                 '
               Jack Henry.milestone.journeys.a6i.xlsx: '
 
-                Size (in bytes):  19564
+                Size (in bytes):  19558
 
                 '
               _ARCHIVE:
@@ -104,7 +104,7 @@
                     '
                   Jack Henry.milestone.journeys.a6i.xlsx: '
 
-                    Size (in bytes):  19564
+                    Size (in bytes):  19558
 
                     '
                   POST_EVENT_LOG.txt: '
@@ -132,7 +132,7 @@
             '
           modernization-milestone.1.yaml: '
 
-            Size (in bytes):  1333
+            Size (in bytes):  1383
 
             '
         static-data:

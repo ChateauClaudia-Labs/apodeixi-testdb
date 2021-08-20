@@ -9,29 +9,29 @@ assertion:
       Theme: CAM expansion
       UID: M1
       big-rock: []
-      name: M1
-    M1-name: M1
+      name: SME market
+    M1-name: SME market
     M2:
       Date: Q1 FY21
       Theme: Margin improvement
       UID: M2
       big-rock: []
-      name: M2
-    M2-name: M2
+      name: SME market.1
+    M2-name: SME market.1
     M3:
       Date: Q4 FY21
       Theme: New UX
       UID: M3
       big-rock: []
-      name: M3
-    M3-name: M3
+      name: New UX
+    M3-name: New UX
     M4:
       Date: Q4 FY22
       Theme: Cloud Native
       UID: M4
       big-rock: []
-      name: M4
-    M4-name: M4
+      name: Cloud
+    M4-name: Cloud
   recordedBy: yourname.lastname@your_company.com
   scenario: OfficialPlan
   scoringCycle: Dec 2020

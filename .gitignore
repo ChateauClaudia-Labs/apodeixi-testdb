@@ -1,6 +1,7 @@
 envs/
 logs/
 *Thumbs.db
+~*.xlsx
 
 *_OUTPUT.yaml
 

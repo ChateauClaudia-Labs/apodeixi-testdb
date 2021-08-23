@@ -176,6 +176,7 @@ Here are the functional activities that led to the problem (stack trace at the b
 ---->	activity	Loading Excel spreadsheet
 
             excel_fullpath      : <KNOWLEDGE BASE ROOT>/envs/3001_ENV/kb/excel-postings/initiatives/FY 22/s1.w8/w8-workstream.initiatives.a6i.xlsx
+            excel sheet         : Posting Label
 
 ------------------------------------------------------------	Technical Stack Trace
 

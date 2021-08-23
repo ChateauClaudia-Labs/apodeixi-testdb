@@ -13,6 +13,8 @@ integration-tests-results:
 
   aggregate_workstream_metrics: 3001
 
+  cli.post_by_file: 8001
+
 regression-parameters:
   # For test outut that displays the size of Excel files, determines the number of bytes by which Excel file size may very
   # before declaring a regression violation

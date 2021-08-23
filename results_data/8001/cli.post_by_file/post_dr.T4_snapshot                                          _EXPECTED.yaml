@@ -1,22 +1,28 @@
-2001_ENV:
+<MASKED>.<MASKED>_sandbox:
   METADATA.yaml: '
 
-    Size (in bytes):  503
+    Size (in bytes):  563
 
     '
   external-collaboration:
     admin:
       static-data:
         _ARCHIVE:
-          (Timestamp omitted) Posting:
+          _CLI__1 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1236
+              Size (in bytes):  1653
 
               '
             products.static-data.admin.a6i.xlsx: '
 
               Size (in bytes):  16772
+
+              '
+          _CLI__2 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1250
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -29,15 +35,21 @@
       admin:
         static-data:
           _ARCHIVE:
-            (Timestamp omitted) Posting:
+            _CLI__1 Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1236
+                Size (in bytes):  1653
 
                 '
               products.static-data.admin.a6i.xlsx: '
 
                 Size (in bytes):  16772
+
+                '
+            _CLI__2 Posting:
+              POST_EVENT_LOG.txt: '
+
+                Size (in bytes):  1250
 
                 '
               scoring-cycles.static-data.admin.a6i.xlsx: '

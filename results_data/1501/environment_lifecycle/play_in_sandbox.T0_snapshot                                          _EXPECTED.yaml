@@ -1,1 +1,6 @@
-1501_ENV: {}
+1501_ENV:
+  METADATA.yaml: '
+
+    Size (in bytes):  503
+
+    '

@@ -1,4 +1,9 @@
 1501_ENV:
+  METADATA.yaml: '
+
+    Size (in bytes):  503
+
+    '
   external-collaboration:
     journeys:
       Dec 2020:

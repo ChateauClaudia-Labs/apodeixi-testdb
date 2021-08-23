@@ -1,0 +1,4 @@
+=> post --sandbox --timestamp scoring-cycles.static-data.admin.a6i.xlsx
+
+Using sandbox '<MASKED>'...
+Success

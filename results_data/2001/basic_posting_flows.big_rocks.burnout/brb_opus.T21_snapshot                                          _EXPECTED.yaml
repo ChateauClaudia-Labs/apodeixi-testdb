@@ -1,4 +1,9 @@
 2001_ENV:
+  METADATA.yaml: '
+
+    Size (in bytes):  503
+
+    '
   external-collaboration:
     admin:
       static-data:

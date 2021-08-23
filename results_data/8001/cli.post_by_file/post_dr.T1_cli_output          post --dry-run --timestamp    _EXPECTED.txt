@@ -1,0 +1,4 @@
+=> post --dry-run --timestamp products.static-data.admin.a6i.xlsx
+
+Using sandbox '<MASKED>'...
+Success

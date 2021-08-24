@@ -1,4 +1,4 @@
-Store@transaction#1::Base_environment		_BASE_ENVIRONMENT
+Store@transaction#1::Base_environment		BASE_ENVIRONMENT
 Store@transaction#1::Current_environment		store-transaction.1
 Store@transaction#1::Ancestor_1		1001_ENV
 Store@transaction#1::Transaction_environment		store-transaction.1

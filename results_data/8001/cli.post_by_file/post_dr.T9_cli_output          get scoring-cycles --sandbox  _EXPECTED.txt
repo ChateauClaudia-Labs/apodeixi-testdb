@@ -3,8 +3,9 @@
 Using sandbox '<MASKED>_sandbox'...
 
 
-Journey        Scoring cycle    Scenario    Namespace
--------------  ---------------  ----------  ------------------
-Modernization  FY 23            Official    my-corp.production
-Modernization  Dec 2020         Default     my-corp.production
+Journey        Scoring cycle    Scenario    Namespace           Environment
+-------------  ---------------  ----------  ------------------  ---------------------
+Modernization  FY 23            Official    my-corp.production  <MASKED>_sandbox
+Modernization  Dec 2020         Default     my-corp.production  <MASKED>_sandbox
 
+Success

@@ -1,0 +1,13 @@
+=> get posting-apis
+
+
+
+Posting API
+------------------------------------
+big-rocks.journeys.a6i
+milestone.journeys.a6i
+products.static-data.admin.a6i
+scoring-cycles.static-data.admin.a6i
+capability-hierarchy.bdd.kernel.a6i
+workstream.initiatives.a6i
+

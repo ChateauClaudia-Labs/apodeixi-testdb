@@ -1,0 +1,9 @@
+=> get namespaces
+
+
+
+Namespace
+--------------------
+my-corp.production
+my-corp.testing-area
+

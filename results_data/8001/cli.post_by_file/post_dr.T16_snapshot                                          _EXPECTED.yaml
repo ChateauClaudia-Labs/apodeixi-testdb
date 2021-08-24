@@ -1,22 +1,28 @@
-2001_ENV:
+<MASKED>.<MASKED>_sandbox:
   METADATA.yaml: '
 
-    Size (in bytes):  503
+    Size (in bytes):  563
 
     '
   external-collaboration:
     admin:
       static-data:
         _ARCHIVE:
-          (Timestamp omitted) Posting:
+          _CLI__1 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1236
+              Size (in bytes):  1653
 
               '
             products.static-data.admin.a6i.xlsx: '
 
               Size (in bytes):  16772
+
+              '
+          _CLI__2 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1250
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -28,27 +34,27 @@
       Dec 2020:
         FusionOpus:
           Default:
+            FusionOpus.big-rocks.journeys.a6i.xlsx: '
+
+              Size (in bytes):  7704
+
+              '
             _ARCHIVE:
-              (Timestamp omitted) Form Request:
-                FORM_REQUEST_EVENT_LOG.txt: '
-
-                  Size (in bytes):  338
-
-                  '
-              (Timestamp omitted) Posting:
-                FusionOpus.big-rocks.journeys.a6i.xlsx: '
-
-                  Size (in bytes):  19132
-
-                  '
-                OPUS_big-rocks.journeys.a6i.xlsx: '
-
-                  Size (in bytes):  25146
-
-                  '
+              _CLI__3 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2377
+                  Size (in bytes):  2405
+
+                  '
+                pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  26031
+
+                  '
+              _CLI__4 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
 
                   '
   kb:
@@ -56,15 +62,21 @@
       admin:
         static-data:
           _ARCHIVE:
-            (Timestamp omitted) Posting:
+            _CLI__1 Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1236
+                Size (in bytes):  1653
 
                 '
               products.static-data.admin.a6i.xlsx: '
 
                 Size (in bytes):  16772
+
+                '
+            _CLI__2 Posting:
+              POST_EVENT_LOG.txt: '
+
+                Size (in bytes):  1250
 
                 '
               scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -88,30 +100,25 @@
             Default:
               FusionOpus.big-rocks.journeys.a6i.xlsx: '
 
-                Size (in bytes):  19132
+                Size (in bytes):  26031
 
                 '
               _ARCHIVE:
-                (Timestamp omitted) Form Request:
-                  FORM_REQUEST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  338
-
-                    '
-                (Timestamp omitted) Posting:
-                  FusionOpus.big-rocks.journeys.a6i.xlsx: '
-
-                    Size (in bytes):  19132
-
-                    '
-                  OPUS_big-rocks.journeys.a6i.xlsx: '
-
-                    Size (in bytes):  25146
-
-                    '
+                _CLI__3 Posting:
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  2377
+                    Size (in bytes):  2405
+
+                    '
+                  pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx: '
+
+                    Size (in bytes):  26031
+
+                    '
+                _CLI__4 Form Request:
+                  FORM_REQUEST_EVENT_LOG.txt: '
+
+                    Size (in bytes):  411
 
                     '
     manifests:
@@ -122,29 +129,14 @@
             Size (in bytes):  1258
 
             '
-          big-rock-estimate.2.yaml: '
-
-            Size (in bytes):  1424
-
-            '
           big-rock.1.yaml: '
 
             Size (in bytes):  1412
 
             '
-          big-rock.2.yaml: '
-
-            Size (in bytes):  1794
-
-            '
           investment.1.yaml: '
 
             Size (in bytes):  1306
-
-            '
-          investment.2.yaml: '
-
-            Size (in bytes):  1397
 
             '
         static-data:

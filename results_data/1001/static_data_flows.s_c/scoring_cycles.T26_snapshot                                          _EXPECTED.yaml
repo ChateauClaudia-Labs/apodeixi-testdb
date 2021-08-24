@@ -8,12 +8,13 @@
     admin:
       static-data:
         _ARCHIVE:
-          (Timestamp omitted) Posting:
+          (Timestamp omitted) Form Request:
             FORM_REQUEST_EVENT_LOG.txt: '
 
               Size (in bytes):  328
 
               '
+          (Timestamp omitted) Posting:
             POST_EVENT_LOG.txt: '
 
               Size (in bytes):  1243
@@ -34,12 +35,13 @@
       admin:
         static-data:
           _ARCHIVE:
-            (Timestamp omitted) Posting:
+            (Timestamp omitted) Form Request:
               FORM_REQUEST_EVENT_LOG.txt: '
 
                 Size (in bytes):  328
 
                 '
+            (Timestamp omitted) Posting:
               POST_EVENT_LOG.txt: '
 
                 Size (in bytes):  1243

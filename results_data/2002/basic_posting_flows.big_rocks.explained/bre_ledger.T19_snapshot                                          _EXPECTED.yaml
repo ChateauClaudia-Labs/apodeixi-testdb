@@ -29,12 +29,13 @@
         LedgerPro:
           OfficialPlan:
             _ARCHIVE:
-              (Timestamp omitted) Posting:
+              (Timestamp omitted) Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
                   Size (in bytes):  341
 
                   '
+              (Timestamp omitted) Posting:
                 LedgerPro.big-rocks.journeys.a6i.xlsx: '
 
                   Size (in bytes):  21018
@@ -86,12 +87,13 @@
 
                 '
               _ARCHIVE:
-                (Timestamp omitted) Posting:
+                (Timestamp omitted) Form Request:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
                     Size (in bytes):  341
 
                     '
+                (Timestamp omitted) Posting:
                   LedgerPro.big-rocks.journeys.a6i.xlsx: '
 
                     Size (in bytes):  21018

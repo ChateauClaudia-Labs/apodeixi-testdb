@@ -1,0 +1,19 @@
+=> get form --sandbox --timestamp modernization
+
+Using sandbox '<MASKED>_sandbox'...
+
+Generated Excel form in this area:
+
+<KNOWLEDGE BASE ROOT>/envs/<MASKED>_sandbox/external-collaboration
+
+Property                                                   Value
+---------------------------------------------------------  ---------------------------------------------
+Filing Coordinates                                         Dec 2020.FusionOpus.Default
+Filename                                                   FusionOpus.big-rocks.journeys.a6i.xlsx
+Manifests Included                                         big-rock.0, big-rock-estimate.1, investment.2
+Posting API                                                big-rocks.journeys.a6i
+Excel range for updating 'big-rock' to version 2           Assertions!B2:C7
+Excel range for updating 'big-rock-estimate' to version 2  Assertions!D2:D7
+Excel range for updating 'investment' to version 2         Assertions!F2:G7
+
+Success

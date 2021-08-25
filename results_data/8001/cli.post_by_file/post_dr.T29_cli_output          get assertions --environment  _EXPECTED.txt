@@ -1,0 +1,20 @@
+=> get assertions --environment
+
+Using sandbox '<MASKED>_sandbox'...
+
+
+Kind                       Version  Estimated on        Namespace           Name                                       Environment
+-----------------------  ---------  ------------------  ------------------  -----------------------------------------  ---------------------
+big-rock-estimate                1  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  <MASKED>_sandbox
+big-rock-estimate                2  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  <MASKED>_sandbox
+big-rock                         1  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  <MASKED>_sandbox
+big-rock                         2  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  <MASKED>_sandbox
+investment                       1  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  <MASKED>_sandbox
+investment                       2  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  <MASKED>_sandbox
+modernization-milestone          1  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  <MASKED>_sandbox
+modernization-milestone          2  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  <MASKED>_sandbox
+line-of-business                 1  my-corp.production  my-corp.production  static-data                                <MASKED>_sandbox
+product                          1  my-corp.production  my-corp.production  static-data                                <MASKED>_sandbox
+scoring-cycle                    1  my-corp.production  my-corp.production  static-data                                <MASKED>_sandbox
+
+Success

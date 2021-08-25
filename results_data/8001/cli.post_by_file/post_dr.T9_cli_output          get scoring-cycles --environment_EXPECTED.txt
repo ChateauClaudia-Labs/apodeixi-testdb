@@ -1,4 +1,4 @@
-=> get scoring-cycles --sandbox
+=> get scoring-cycles --environment
 
 Using sandbox '<MASKED>_sandbox'...
 

@@ -1,4 +1,4 @@
-=> get products --sandbox
+=> get products --environment
 
 Using sandbox '<MASKED>_sandbox'...
 

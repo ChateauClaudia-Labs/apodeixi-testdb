@@ -1,4 +1,4 @@
-=> get form --sandbox --timestamp modernization
+=> get form --environment --timestamp modernization
 
 Using sandbox '<MASKED>_sandbox'...
 

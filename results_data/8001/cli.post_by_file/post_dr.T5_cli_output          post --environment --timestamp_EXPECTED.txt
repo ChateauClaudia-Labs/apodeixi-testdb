@@ -1,4 +1,4 @@
-=> post --sandbox --timestamp pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx
+=> post --environment --timestamp pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx
 
 Using sandbox '<MASKED>_sandbox'...
 

@@ -4,9 +4,9 @@ Using sandbox '<MASKED>_sandbox'...
 
 KnowledgeBase activity:
 
-Manifest                 Event      Entities added    Entities removed    Entities changed    Entities unchanged  Namespace           Name
+Manifest                 Event    Entities added    Entities removed    Entities changed    Entities unchanged    Namespace           Name
 -----------------------  -------  ----------------  ------------------  ------------------  --------------------  ------------------  -----------
-product.1.yaml           CREATED                 1                   0                   0                     0  my-corp.production  static-data
-line-of-business.1.yaml  CREATED                 1                   0                   0                     0  my-corp.production  static-data
+product.1.yaml           CREATED  P(1)                                                                            my-corp.production  static-data
+line-of-business.1.yaml  CREATED  LOB(1)                                                                          my-corp.production  static-data
 
 Success

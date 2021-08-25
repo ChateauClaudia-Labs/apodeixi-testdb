@@ -4,8 +4,8 @@ Using sandbox '<MASKED>_sandbox'...
 
 KnowledgeBase activity:
 
-Manifest              Event      Entities added    Entities removed    Entities changed    Entities unchanged  Namespace           Name
---------------------  -------  ----------------  ------------------  ------------------  --------------------  ------------------  -----------
-scoring-cycle.1.yaml  CREATED                 1                   0                   0                     0  my-corp.production  static-data
+Manifest              Event    Entities added     Entities removed    Entities changed    Entities unchanged    Namespace           Name
+--------------------  -------  -----------------  ------------------  ------------------  --------------------  ------------------  -----------
+scoring-cycle.1.yaml  CREATED  J(1), SC(2), S(2)                                                                my-corp.production  static-data
 
 Success

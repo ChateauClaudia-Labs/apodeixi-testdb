@@ -1,0 +1,13 @@
+=> post --environment --timestamp pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx
+
+Using sandbox '<MASKED>_sandbox'...
+
+KnowledgeBase activity:
+
+Manifest                  Event    Entities added    Entities removed    Entities changed    Entities unchanged    Namespace           Name
+------------------------  -------  ----------------  ------------------  ------------------  --------------------  ------------------  -----------------------------------------
+big-rock.1.yaml           CREATED  BR(5)                                                                           my-corp.production  modernization.dec-2020.fusionopus.default
+big-rock-estimate.1.yaml  CREATED  E(5)                                                                            my-corp.production  modernization.dec-2020.fusionopus.default
+investment.1.yaml         CREATED  P(5)                                                                            my-corp.production  modernization.dec-2020.fusionopus.default
+
+Success

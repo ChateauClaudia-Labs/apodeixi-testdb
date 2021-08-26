@@ -1,0 +1,14 @@
+=> get apis
+
+
+
+Posting API                           Postings filing scheme        Manifest API for posted manifests      Manifest kinds for posted manifests
+------------------------------------  ----------------------------  -------------------------------------  ---------------------------------------
+big-rocks.journeys.a6i                JourneysFilingCoordinates     delivery-planning.journeys.a6i.io/v1a  big-rock, big-rock-estimate, investment
+milestone.journeys.a6i                JourneysFilingCoordinates     delivery-planning.journeys.a6i.io/v1a  big-rock, modernization-milestone
+products.static-data.admin.a6i        StaticDataFilingCoordinates   static-data.admin.a6i.io/v1a           product, line-of-business
+scoring-cycles.static-data.admin.a6i  StaticDataFilingCoordinates   static-data.admin.a6i.io/v1a           scoring-cycle
+capability-hierarchy.bdd.kernel.a6i   None                          bdd.kernel.a6i.io/v1a                  capability-hierarchy
+workstream.initiatives.a6i            InitiativesFilingCoordinates  workstream.initiatives.a6i.io/v1a      workstream-milestone, workstream-metric
+
+Success

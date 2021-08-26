@@ -1,0 +1,12 @@
+=> post --environment --timestamp pbf_opus.v2.milestone.journeys.a6i.xlsx
+
+Using sandbox '<MASKED>_sandbox'...
+
+KnowledgeBase activity:
+
+Manifest                        Event      Entities added    Entities removed    Entities changed    Entities unchanged    Namespace           Name
+------------------------------  ---------  ----------------  ------------------  ------------------  --------------------  ------------------  -----------------------------------------
+big-rock.2.yaml                 UNCHANGED                                                            BR(4), MR(4), SR(1)   my-corp.production  modernization.dec-2020.fusionopus.default
+modernization-milestone.2.yaml  UPDATED    M(2)              M(0)                M(4)                M(0)                  my-corp.production  modernization.dec-2020.fusionopus.default
+
+Success

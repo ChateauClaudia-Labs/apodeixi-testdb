@@ -1,0 +1,10 @@
+=> get products --environment
+
+Using sandbox '<MASKED>_sandbox'...
+
+
+Product     Namespace           Environment
+----------  ------------------  ---------------------
+FusionOpus  my-corp.production  <MASKED>_sandbox
+
+Success

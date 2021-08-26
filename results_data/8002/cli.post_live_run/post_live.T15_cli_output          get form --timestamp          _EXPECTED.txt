@@ -3,7 +3,7 @@
 
 Generated Excel form in this area:
 
-<KNOWLEDGE BASE ROOT>/envs/8002_ENV/external-collaboration
+<TEST DB ROOT>/envs/8002_ENV/external-collaboration
 
 Property                                                   Value
 ---------------------------------------------------------  ---------------------------------------------

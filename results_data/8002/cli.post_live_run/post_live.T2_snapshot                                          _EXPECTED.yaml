@@ -1,17 +1,12 @@
-<MASKED>.<MASKED>_sandbox:
-  METADATA.yaml: '
-
-    Size (in bytes):  562
-
-    '
-  external-collaboration:
+kb:
+  excel-postings:
     admin:
       static-data:
         _ARCHIVE:
           _CLI__1 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1653
+              Size (in bytes):  1654
 
               '
             products.static-data.admin.a6i.xlsx: '
@@ -19,37 +14,21 @@
               Size (in bytes):  16772
 
               '
-  kb:
-    excel-postings:
-      admin:
-        static-data:
-          _ARCHIVE:
-            _CLI__1 Posting:
-              POST_EVENT_LOG.txt: '
+        products.static-data.admin.a6i.xlsx: '
 
-                Size (in bytes):  1653
+          Size (in bytes):  16772
 
-                '
-              products.static-data.admin.a6i.xlsx: '
+          '
+  manifests:
+    my-corp.production:
+      static-data:
+        line-of-business.1.yaml: '
 
-                Size (in bytes):  16772
+          Size (in bytes):  597
 
-                '
-          products.static-data.admin.a6i.xlsx: '
+          '
+        product.1.yaml: '
 
-            Size (in bytes):  16772
+          Size (in bytes):  627
 
-            '
-    manifests:
-      my-corp.production:
-        static-data:
-          line-of-business.1.yaml: '
-
-            Size (in bytes):  597
-
-            '
-          product.1.yaml: '
-
-            Size (in bytes):  627
-
-            '
+          '

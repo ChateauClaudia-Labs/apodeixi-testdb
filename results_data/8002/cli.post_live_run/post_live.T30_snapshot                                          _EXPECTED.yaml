@@ -1,17 +1,12 @@
-<MASKED>.<MASKED>_sandbox:
-  METADATA.yaml: '
-
-    Size (in bytes):  562
-
-    '
-  external-collaboration:
+kb:
+  excel-postings:
     admin:
       static-data:
         _ARCHIVE:
           _CLI__1 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1653
+              Size (in bytes):  1654
 
               '
             products.static-data.admin.a6i.xlsx: '
@@ -22,7 +17,7 @@
           _CLI__2 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1250
+              Size (in bytes):  1251
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -30,31 +25,41 @@
               Size (in bytes):  17462
 
               '
+        products.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  16772
+
+          '
+        scoring-cycles.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  17462
+
+          '
     journeys:
       Dec 2020:
         FusionOpus:
           Default:
             FusionOpus.big-rocks.journeys.a6i.xlsx: '
 
-              Size (in bytes):  7704
+              Size (in bytes):  19667
 
               '
             FusionOpus.milestone.journeys.a6i.xlsx: '
 
-              Size (in bytes):  8336
+              Size (in bytes):  19220
 
               '
             _ARCHIVE:
               _CLI__10 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  411
+                  Size (in bytes):  398
 
                   '
               _CLI__3 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2405
+                  Size (in bytes):  2406
 
                   '
                 pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx: '
@@ -65,13 +70,13 @@
               _CLI__4 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  411
+                  Size (in bytes):  398
 
                   '
               _CLI__5 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2384
+                  Size (in bytes):  2385
 
                   '
                 pbf_opus.update.big-rocks.journeys.a6i.xlsx: '
@@ -82,13 +87,13 @@
               _CLI__6 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  411
+                  Size (in bytes):  398
 
                   '
               _CLI__7 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  1869
+                  Size (in bytes):  1870
 
                   '
                 pbf_opus.v1.milestone.journeys.a6i.xlsx: '
@@ -99,13 +104,13 @@
               _CLI__8 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  411
+                  Size (in bytes):  398
 
                   '
               _CLI__9 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  1869
+                  Size (in bytes):  1870
 
                   '
                 pbf_opus.v2.milestone.journeys.a6i.xlsx: '
@@ -113,182 +118,62 @@
                   Size (in bytes):  19220
 
                   '
-  kb:
-    excel-postings:
-      admin:
-        static-data:
-          _ARCHIVE:
-            _CLI__1 Posting:
-              POST_EVENT_LOG.txt: '
+  manifests:
+    my-corp.production:
+      modernization.dec-2020.fusionopus.default:
+        big-rock-estimate.1.yaml: '
 
-                Size (in bytes):  1653
+          Size (in bytes):  1258
 
-                '
-              products.static-data.admin.a6i.xlsx: '
+          '
+        big-rock-estimate.2.yaml: '
 
-                Size (in bytes):  16772
+          Size (in bytes):  1440
 
-                '
-            _CLI__2 Posting:
-              POST_EVENT_LOG.txt: '
+          '
+        big-rock.1.yaml: '
 
-                Size (in bytes):  1250
+          Size (in bytes):  1412
 
-                '
-              scoring-cycles.static-data.admin.a6i.xlsx: '
+          '
+        big-rock.2.yaml: '
 
-                Size (in bytes):  17462
+          Size (in bytes):  1973
 
-                '
-          products.static-data.admin.a6i.xlsx: '
+          '
+        investment.1.yaml: '
 
-            Size (in bytes):  16772
+          Size (in bytes):  1306
 
-            '
-          scoring-cycles.static-data.admin.a6i.xlsx: '
+          '
+        investment.2.yaml: '
 
-            Size (in bytes):  17462
+          Size (in bytes):  1398
 
-            '
-      journeys:
-        Dec 2020:
-          FusionOpus:
-            Default:
-              FusionOpus.big-rocks.journeys.a6i.xlsx: '
+          '
+        modernization-milestone.1.yaml: '
 
-                Size (in bytes):  19667
+          Size (in bytes):  1471
 
-                '
-              FusionOpus.milestone.journeys.a6i.xlsx: '
+          '
+        modernization-milestone.2.yaml: '
 
-                Size (in bytes):  19220
+          Size (in bytes):  1938
 
-                '
-              _ARCHIVE:
-                _CLI__10 Form Request:
-                  FORM_REQUEST_EVENT_LOG.txt: '
+          '
+      static-data:
+        line-of-business.1.yaml: '
 
-                    Size (in bytes):  411
+          Size (in bytes):  597
 
-                    '
-                _CLI__3 Posting:
-                  POST_EVENT_LOG.txt: '
+          '
+        product.1.yaml: '
 
-                    Size (in bytes):  2405
+          Size (in bytes):  627
 
-                    '
-                  pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx: '
+          '
+        scoring-cycle.1.yaml: '
 
-                    Size (in bytes):  26031
+          Size (in bytes):  1160
 
-                    '
-                _CLI__4 Form Request:
-                  FORM_REQUEST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  411
-
-                    '
-                _CLI__5 Posting:
-                  POST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  2384
-
-                    '
-                  pbf_opus.update.big-rocks.journeys.a6i.xlsx: '
-
-                    Size (in bytes):  19667
-
-                    '
-                _CLI__6 Form Request:
-                  FORM_REQUEST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  411
-
-                    '
-                _CLI__7 Posting:
-                  POST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  1869
-
-                    '
-                  pbf_opus.v1.milestone.journeys.a6i.xlsx: '
-
-                    Size (in bytes):  18973
-
-                    '
-                _CLI__8 Form Request:
-                  FORM_REQUEST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  411
-
-                    '
-                _CLI__9 Posting:
-                  POST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  1869
-
-                    '
-                  pbf_opus.v2.milestone.journeys.a6i.xlsx: '
-
-                    Size (in bytes):  19220
-
-                    '
-    manifests:
-      my-corp.production:
-        modernization.dec-2020.fusionopus.default:
-          big-rock-estimate.1.yaml: '
-
-            Size (in bytes):  1258
-
-            '
-          big-rock-estimate.2.yaml: '
-
-            Size (in bytes):  1440
-
-            '
-          big-rock.1.yaml: '
-
-            Size (in bytes):  1412
-
-            '
-          big-rock.2.yaml: '
-
-            Size (in bytes):  1973
-
-            '
-          investment.1.yaml: '
-
-            Size (in bytes):  1306
-
-            '
-          investment.2.yaml: '
-
-            Size (in bytes):  1398
-
-            '
-          modernization-milestone.1.yaml: '
-
-            Size (in bytes):  1471
-
-            '
-          modernization-milestone.2.yaml: '
-
-            Size (in bytes):  1938
-
-            '
-        static-data:
-          line-of-business.1.yaml: '
-
-            Size (in bytes):  597
-
-            '
-          product.1.yaml: '
-
-            Size (in bytes):  627
-
-            '
-          scoring-cycle.1.yaml: '
-
-            Size (in bytes):  1160
-
-            '
+          '

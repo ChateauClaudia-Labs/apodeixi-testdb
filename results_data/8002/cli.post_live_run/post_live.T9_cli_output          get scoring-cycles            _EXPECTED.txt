@@ -1,0 +1,10 @@
+=> get scoring-cycles
+
+
+
+Journey        Scoring cycle    Scenario    Namespace           Environment
+-------------  ---------------  ----------  ------------------  ----------------
+Modernization  FY 23            Official    my-corp.production  BASE_ENVIRONMENT
+Modernization  Dec 2020         Default     my-corp.production  BASE_ENVIRONMENT
+
+Success

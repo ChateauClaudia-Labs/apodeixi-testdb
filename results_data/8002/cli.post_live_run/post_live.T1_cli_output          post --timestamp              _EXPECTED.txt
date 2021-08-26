@@ -1,6 +1,5 @@
-=> post --dry-run --timestamp products.static-data.admin.a6i.xlsx
+=> post --timestamp products.static-data.admin.a6i.xlsx
 
-Using sandbox '<MASKED>_sandbox'...
 
 KnowledgeBase activity:
 

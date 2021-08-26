@@ -1,0 +1,9 @@
+=> get products
+
+
+
+Product     Namespace           Environment
+----------  ------------------  ----------------
+FusionOpus  my-corp.production  BASE_ENVIRONMENT
+
+Success

@@ -1,6 +1,5 @@
-=> post --environment --timestamp pbf_opus.v1.milestone.journeys.a6i.xlsx
+=> post --timestamp pbf_opus.v1.milestone.journeys.a6i.xlsx
 
-Using sandbox '<MASKED>_sandbox'...
 
 KnowledgeBase activity:
 

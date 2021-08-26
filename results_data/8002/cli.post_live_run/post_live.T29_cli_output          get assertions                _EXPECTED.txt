@@ -1,0 +1,19 @@
+=> get assertions
+
+
+
+Kind                       Version  Estimated on        Namespace           Name                                       Environment
+-----------------------  ---------  ------------------  ------------------  -----------------------------------------  ----------------
+big-rock-estimate                1  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+big-rock-estimate                2  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+big-rock                         1  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+big-rock                         2  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+investment                       1  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+investment                       2  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+modernization-milestone          1  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+modernization-milestone          2  my-corp.production  my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+line-of-business                 1  my-corp.production  my-corp.production  static-data                                BASE_ENVIRONMENT
+product                          1  my-corp.production  my-corp.production  static-data                                BASE_ENVIRONMENT
+scoring-cycle                    1  my-corp.production  my-corp.production  static-data                                BASE_ENVIRONMENT
+
+Success

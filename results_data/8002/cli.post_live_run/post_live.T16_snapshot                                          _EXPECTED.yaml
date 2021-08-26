@@ -1,17 +1,12 @@
-<MASKED>.<MASKED>_sandbox:
-  METADATA.yaml: '
-
-    Size (in bytes):  562
-
-    '
-  external-collaboration:
+kb:
+  excel-postings:
     admin:
       static-data:
         _ARCHIVE:
           _CLI__1 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1653
+              Size (in bytes):  1654
 
               '
             products.static-data.admin.a6i.xlsx: '
@@ -22,7 +17,7 @@
           _CLI__2 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1250
+              Size (in bytes):  1251
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -30,20 +25,30 @@
               Size (in bytes):  17462
 
               '
+        products.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  16772
+
+          '
+        scoring-cycles.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  17462
+
+          '
     journeys:
       Dec 2020:
         FusionOpus:
           Default:
             FusionOpus.big-rocks.journeys.a6i.xlsx: '
 
-              Size (in bytes):  7704
+              Size (in bytes):  26031
 
               '
             _ARCHIVE:
               _CLI__3 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2405
+                  Size (in bytes):  2406
 
                   '
                 pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx: '
@@ -54,104 +59,40 @@
               _CLI__4 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  411
+                  Size (in bytes):  398
 
                   '
-  kb:
-    excel-postings:
-      admin:
-        static-data:
-          _ARCHIVE:
-            _CLI__1 Posting:
-              POST_EVENT_LOG.txt: '
+  manifests:
+    my-corp.production:
+      modernization.dec-2020.fusionopus.default:
+        big-rock-estimate.1.yaml: '
 
-                Size (in bytes):  1653
+          Size (in bytes):  1258
 
-                '
-              products.static-data.admin.a6i.xlsx: '
+          '
+        big-rock.1.yaml: '
 
-                Size (in bytes):  16772
+          Size (in bytes):  1412
 
-                '
-            _CLI__2 Posting:
-              POST_EVENT_LOG.txt: '
+          '
+        investment.1.yaml: '
 
-                Size (in bytes):  1250
+          Size (in bytes):  1306
 
-                '
-              scoring-cycles.static-data.admin.a6i.xlsx: '
+          '
+      static-data:
+        line-of-business.1.yaml: '
 
-                Size (in bytes):  17462
+          Size (in bytes):  597
 
-                '
-          products.static-data.admin.a6i.xlsx: '
+          '
+        product.1.yaml: '
 
-            Size (in bytes):  16772
+          Size (in bytes):  627
 
-            '
-          scoring-cycles.static-data.admin.a6i.xlsx: '
+          '
+        scoring-cycle.1.yaml: '
 
-            Size (in bytes):  17462
+          Size (in bytes):  1160
 
-            '
-      journeys:
-        Dec 2020:
-          FusionOpus:
-            Default:
-              FusionOpus.big-rocks.journeys.a6i.xlsx: '
-
-                Size (in bytes):  26031
-
-                '
-              _ARCHIVE:
-                _CLI__3 Posting:
-                  POST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  2405
-
-                    '
-                  pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx: '
-
-                    Size (in bytes):  26031
-
-                    '
-                _CLI__4 Form Request:
-                  FORM_REQUEST_EVENT_LOG.txt: '
-
-                    Size (in bytes):  411
-
-                    '
-    manifests:
-      my-corp.production:
-        modernization.dec-2020.fusionopus.default:
-          big-rock-estimate.1.yaml: '
-
-            Size (in bytes):  1258
-
-            '
-          big-rock.1.yaml: '
-
-            Size (in bytes):  1412
-
-            '
-          investment.1.yaml: '
-
-            Size (in bytes):  1306
-
-            '
-        static-data:
-          line-of-business.1.yaml: '
-
-            Size (in bytes):  597
-
-            '
-          product.1.yaml: '
-
-            Size (in bytes):  627
-
-            '
-          scoring-cycle.1.yaml: '
-
-            Size (in bytes):  1160
-
-            '
+          '

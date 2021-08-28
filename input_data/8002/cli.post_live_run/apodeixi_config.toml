@@ -14,3 +14,6 @@ month-fiscal-year-starts = 6
 organization = "My Corp"
 knowledge-base-areas = ["Production", "Testing Area"]
 
+[cli]
+initializer-classname = "apodeixi.cli.kb_session.KB_Session_Initializer"
+

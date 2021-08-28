@@ -16,12 +16,12 @@
 
 --------------------- Products lacking postings in the KnowledgeBase filing structure
 
-LOB: Corporate; Short Name: CCB; Name: Connected Corporate Banking
-LOB: NACM & Digital; Short Name: FCQ; Name: Credit Quest
-LOB: NACM & Digital; Short Name: MBTLOS; Name: MortgageBot LOS
-LOB: NACM & Digital; Short Name: MBTPOS; Name: MortgageBot POS
-LOB: NACM & Digital; Short Name: MLZ; Name: Malauzai
-LOB: Trade & Capital Markets; Short Name: RISK; Name: Risk
+CCB
+FCQ
+MBTLOS
+MBTPOS
+MLZ
+RISK
 
 --------------------- 'Illegitimate' products: 
 	they are missing in the Apodeixi config but appear in the KnowledgeBase

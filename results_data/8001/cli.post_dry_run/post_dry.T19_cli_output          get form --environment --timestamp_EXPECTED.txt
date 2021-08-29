@@ -4,7 +4,7 @@ Using sandbox '<MASKED>_sandbox'...
 
 Generated Excel form in this area:
 
-<TEST DB ROOT>/envs/8001_ENV/kb/envs/<MASKED>_sandbox/external-collaboration
+<TEST DB ROOT>/knowledge-base/envs/8001_ENV/kb/envs/<MASKED>_sandbox/external-collaboration
 
 Property                                                             Value
 -------------------------------------------------------------------  --------------------------------------

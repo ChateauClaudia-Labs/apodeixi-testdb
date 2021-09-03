@@ -1,0 +1,12 @@
+=> post --timestamp opus.v2.big-rocks.journeys.a6i.xlsx
+
+
+KnowledgeBase activity:
+
+Manifest                  Event    Entities added       Entities removed    Entities changed    Entities unchanged    Namespace           Name
+------------------------  -------  -------------------  ------------------  ------------------  --------------------  ------------------  -----------------------------------------
+big-rock.2.yaml           UPDATED  BR(0), MR(4), SR(1)  BR(1)               BR(1)               BR(3)                 my-corp.production  modernization.dec-2020.fusionopus.default
+big-rock-estimate.2.yaml  UPDATED  E(2)                 E(0)                E(5)                E(0)                  my-corp.production  modernization.dec-2020.fusionopus.default
+investment.2.yaml         UPDATED  P(1)                 P(0)                P(0)                P(5)                  my-corp.production  modernization.dec-2020.fusionopus.default
+
+Success

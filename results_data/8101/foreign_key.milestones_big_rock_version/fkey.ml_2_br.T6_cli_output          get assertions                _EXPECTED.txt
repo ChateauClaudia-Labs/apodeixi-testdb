@@ -1,0 +1,17 @@
+=> get assertions
+
+
+
+Kind                 Version  Estimated on         Recorded by                         Namespace           Name                                       Environment
+-----------------  ---------  -------------------  ----------------------------------  ------------------  -----------------------------------------  ----------------
+big-rock-estimate          1  2021-04-29 00:00:00  jill.thearchitect@mycorp.com        my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+big-rock-estimate          2  2021-04-29 00:00:00  jill.thearchitect@mycorp.com        my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+big-rock                   1  2021-04-29 00:00:00  jill.thearchitect@mycorp.com        my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+big-rock                   2  2021-04-29 00:00:00  jill.thearchitect@mycorp.com        my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+investment                 1  2021-04-29 00:00:00  jill.thearchitect@mycorp.com        my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+investment                 2  2021-04-29 00:00:00  jill.thearchitect@mycorp.com        my-corp.production  modernization.dec-2020.fusionopus.default  BASE_ENVIRONMENT
+line-of-business           1  2021-08-05 00:00:00  fido.cat@telrus.com                 my-corp.production  static-data                                BASE_ENVIRONMENT
+product                    1  2021-08-05 00:00:00  fido.cat@telrus.com                 my-corp.production  static-data                                BASE_ENVIRONMENT
+scoring-cycle              1  2021-08-04 00:00:00  yourname.lastname@your_company.com  my-corp.production  static-data                                BASE_ENVIRONMENT
+
+Success

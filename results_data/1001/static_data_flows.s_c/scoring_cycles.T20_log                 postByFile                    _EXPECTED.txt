@@ -1,6 +1,6 @@
 
 UPDATED MANIFEST:        
-		 apiVersion     = 'static-data.admin.a6i.io/v1a'
+		 manifest_api   = 'static-data.admin.a6i.io'
 		 namespace      = 'my-corp.testing-area'
 		 kind           = 'scoring-cycle'
 		 name           = 'static-data'
@@ -23,7 +23,7 @@ PUBLISHED OPTIONAL FORM:
 		 posting_api     = 'scoring-cycles.static-data.admin.a6i'
 		 filing_coords   = ''
 		 *** A ManifestHandle ***
-			 apiVersion     = 'static-data.admin.a6i.io/v1a'
+			 manifest_api   = 'static-data.admin.a6i.io'
 			 namespace      = 'my-corp.testing-area'
 			 kind           = 'scoring-cycle'
 			 name           = 'static-data'

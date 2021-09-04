@@ -1,13 +1,13 @@
 
 UPDATED MANIFEST:        
-		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
+		 manifest_api   = 'delivery-planning.journeys.a6i.io'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock'
 		 name           = 'modernization.dec-2020.ledgerpro.officialplan'
 		 version        = '2'
 
 UPDATED MANIFEST:        
-		 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
+		 manifest_api   = 'delivery-planning.journeys.a6i.io'
 		 namespace      = 'my-corp.production'
 		 kind           = 'big-rock-estimate'
 		 name           = 'modernization.dec-2020.ledgerpro.officialplan'
@@ -30,13 +30,13 @@ PUBLISHED OPTIONAL FORM:
 		 posting_api     = 'big-rocks.journeys.a6i'
 		 filing_coords   = 'Dec 2020.LedgerPro.OfficialPlan'
 		 *** A ManifestHandle ***
-			 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
+			 manifest_api   = 'delivery-planning.journeys.a6i.io'
 			 namespace      = 'my-corp.production'
 			 kind           = 'big-rock'
 			 name           = 'modernization.dec-2020.ledgerpro.officialplan'
 			 version        = '2'
 		 *** A ManifestHandle ***
-			 apiVersion     = 'delivery-planning.journeys.a6i.io/v1a'
+			 manifest_api   = 'delivery-planning.journeys.a6i.io'
 			 namespace      = 'my-corp.production'
 			 kind           = 'big-rock-estimate'
 			 name           = 'modernization.dec-2020.ledgerpro.officialplan'

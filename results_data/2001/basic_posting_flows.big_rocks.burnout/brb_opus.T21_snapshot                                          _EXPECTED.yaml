@@ -11,7 +11,7 @@
           (Timestamp omitted) Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1236
+              Size (in bytes):  1228
 
               '
             products.static-data.admin.a6i.xlsx: '
@@ -48,7 +48,7 @@
                   '
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2377
+                  Size (in bytes):  2353
 
                   '
   kb:
@@ -59,7 +59,7 @@
             (Timestamp omitted) Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1236
+                Size (in bytes):  1228
 
                 '
               products.static-data.admin.a6i.xlsx: '
@@ -111,7 +111,7 @@
                     '
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  2377
+                    Size (in bytes):  2353
 
                     '
     manifests:

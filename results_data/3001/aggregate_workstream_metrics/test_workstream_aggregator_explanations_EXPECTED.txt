@@ -105,7 +105,7 @@ Here are the functional activities that led to the problem (stack trace at the b
 
 ---->	activity	Processing DataFrame
 
-            tree.entity_type    : Theme
+            parser.entity_type  : Theme
             columns             : ['UID', 'Theme', 'Milestone', 'Date due', 'Task', 'Task Date', 'Dependency', 'Dependent on']
             signaled_from       : <APODEIXI INSTALLATION>/apodeixi\xli\posting_controller_utils.py
 

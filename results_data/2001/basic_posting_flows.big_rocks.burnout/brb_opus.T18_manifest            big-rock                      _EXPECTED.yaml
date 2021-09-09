@@ -2,6 +2,11 @@ apiVersion: delivery-planning.journeys.a6i.io/v1a
 assertion:
   big-rock:
     BR1:
+      Tiny rocks:
+        TR1:
+          UID: BR1.SR0.TR1
+          name: API for a very specific case
+        TR1-name: API for a very specific case
       UID: BR1
       name: B2C APIs
     BR1-name: B2C APIs

@@ -9,6 +9,20 @@ assertion:
         TR1-name: API for a very specific case
       UID: BR1
       name: B2C APIs
+      sub rocks:
+        SR1:
+          Tiny rocks:
+            TR1:
+              UID: BR1.SR1.TR1
+              name: 'This tests if parser doesn''t get confused when BR1 has two subentities:
+                sub rocks and tity-rocks'
+            TR1-name: 'This tests if parser doesn''t get confused when BR1 has two
+              subentities: sub rocks and tity-rocks'
+          UID: BR1.SR1
+          name: Forcing a sub-rock subentity competing with prior row tiny rock sub
+            entity
+        SR1-name: Forcing a sub-rock subentity competing with prior row tiny rock
+          sub entity
     BR1-name: B2C APIs
     BR2:
       UID: BR2

@@ -8,7 +8,7 @@ UID-1		{'width': 6, 'nb_lines': 1}
 Breakdown		{'width': 32, 'nb_lines': 1}
 
 total width		79
-************** Layout information for Manifest 'big-rock-estimate.1' **********
+************** Layout information for Manifest 'big-rock-estimate.2' **********
 
 layout span		[[5, 1], [8, 11]]
 hidden columns		['UID', 'bigRock', 'effort']

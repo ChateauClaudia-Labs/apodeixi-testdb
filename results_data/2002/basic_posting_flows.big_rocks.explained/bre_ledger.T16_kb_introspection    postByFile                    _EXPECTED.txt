@@ -48,12 +48,12 @@ Store@transaction#6::Ancestor_2		2002_ENV
 Store@transaction#6::Transaction_environment		store-transaction.6
 Store@transaction#6::Transaction_stack::0		store-transaction.5
 Store@transaction#6::Transaction_stack::1		store-transaction.6
-BigRocksEstimate_Controller@transaction#6::MANIFEST_META::0::_DATA_KIND		big-rock
-BigRocksEstimate_Controller@transaction#6::MANIFEST_META::0::_DATA_RANGE		E2:G54
-BigRocksEstimate_Controller@transaction#6::MANIFEST_META::0::_DATA_SHEET		broken explained
-BigRocksEstimate_Controller@transaction#6::MANIFEST_META::1::_DATA_KIND		big-rock-estimate
-BigRocksEstimate_Controller@transaction#6::MANIFEST_META::1::_DATA_RANGE		I2:L54
+BigRocksEstimate_Controller@transaction#6::MANIFEST_META::1::_DATA_KIND		big-rock
+BigRocksEstimate_Controller@transaction#6::MANIFEST_META::1::_DATA_RANGE		E2:G54
 BigRocksEstimate_Controller@transaction#6::MANIFEST_META::1::_DATA_SHEET		broken explained
+BigRocksEstimate_Controller@transaction#6::MANIFEST_META::2::_DATA_KIND		big-rock-estimate
+BigRocksEstimate_Controller@transaction#6::MANIFEST_META::2::_DATA_RANGE		I2:L54
+BigRocksEstimate_Controller@transaction#6::MANIFEST_META::2::_DATA_SHEET		broken explained
 BigRocksEstimate_Controller@transaction#6::ROW_2_UID_LINK::big-rock::0		BR1
 BigRocksEstimate_Controller@transaction#6::ROW_2_UID_LINK::big-rock::1		BR1.B1
 BigRocksEstimate_Controller@transaction#6::ROW_2_UID_LINK::big-rock::2		BR2
@@ -114,7 +114,7 @@ Store@transaction#7::Ancestor_1		2002_ENV
 Store@transaction#7::Transaction_environment		store-transaction.7
 Store@transaction#7::Transaction_stack::0		store-transaction.7
 ManifestRepresenter@transaction#7::manifests::0		big-rock.0
-ManifestRepresenter@transaction#7::manifests::1		big-rock-estimate.1
+ManifestRepresenter@transaction#7::manifests::1		big-rock-estimate.2
 ManifestRepresenter@transaction#7::links::ROW_2_UID_LINK::big-rock.0::2		BR1
 ManifestRepresenter@transaction#7::links::ROW_2_UID_LINK::big-rock.0::4		BR10
 ManifestRepresenter@transaction#7::links::ROW_2_UID_LINK::big-rock.0::7		BR2

@@ -9,7 +9,7 @@ Property                                                   Value
 ---------------------------------------------------------  ---------------------------------------------
 Filing Coordinates                                         Dec 2020.FusionOpus.Default
 Filename                                                   FusionOpus.big-rocks.journeys.a6i.xlsx
-Manifests Included                                         big-rock.0, big-rock-estimate.1, investment.2
+Manifests Included                                         big-rock.0, big-rock-estimate.2, investment.3
 Posting API                                                big-rocks.journeys.a6i
 Excel range for updating 'big-rock' to version 2           Assertions!B2:C7
 Excel range for updating 'big-rock-estimate' to version 2  Assertions!D2:D7

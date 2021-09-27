@@ -6,14 +6,14 @@ column widths		UID		{'width': 3.0, 'nb_lines': 1}
 big-rock		{'width': 50.0, 'nb_lines': 2}
 
 total width		53.0
-************** Layout information for Manifest 'big-rock-estimate.1' **********
+************** Layout information for Manifest 'big-rock-estimate.2' **********
 
 layout span		[[3, 1], [3, 6]]
 hidden columns		['UID', 'bigRock']
 column widths		effort		{'width': 6, 'nb_lines': 1}
 
 total width		6
-************** Layout information for Manifest 'investment.2' **********
+************** Layout information for Manifest 'investment.3' **********
 
 layout span		[[5, 1], [6, 6]]
 hidden columns		['UID']

@@ -11,7 +11,7 @@
           _CLI__1 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1653
+              Size (in bytes):  1637
 
               '
             products.static-data.admin.a6i.xlsx: '
@@ -22,7 +22,7 @@
           _CLI__2 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1250
+              Size (in bytes):  1242
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -36,19 +36,19 @@
           Default:
             FusionOpus.big-rocks.journeys.a6i.xlsx: '
 
-              Size (in bytes):  7704
+              Size (in bytes):  7705
 
               '
             FusionOpus.milestone.journeys.a6i.xlsx: '
 
-              Size (in bytes):  8139
+              Size (in bytes):  8142
 
               '
             _ARCHIVE:
               _CLI__3 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2405
+                  Size (in bytes):  2381
 
                   '
                 pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx: '
@@ -65,12 +65,12 @@
               _CLI__5 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2384
+                  Size (in bytes):  2360
 
                   '
                 pbf_opus.update.big-rocks.journeys.a6i.xlsx: '
 
-                  Size (in bytes):  19667
+                  Size (in bytes):  19144
 
                   '
               _CLI__6 Form Request:
@@ -82,7 +82,7 @@
               _CLI__7 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  1869
+                  Size (in bytes):  1853
 
                   '
                 pbf_opus.v1.milestone.journeys.a6i.xlsx: '
@@ -99,7 +99,7 @@
               _CLI__9 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  1869
+                  Size (in bytes):  1853
 
                   '
                 pbf_opus.v2.milestone.journeys.a6i.xlsx: '
@@ -115,7 +115,7 @@
             _CLI__1 Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1653
+                Size (in bytes):  1637
 
                 '
               products.static-data.admin.a6i.xlsx: '
@@ -126,7 +126,7 @@
             _CLI__2 Posting:
               POST_EVENT_LOG.txt: '
 
-                Size (in bytes):  1250
+                Size (in bytes):  1242
 
                 '
               scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -150,7 +150,7 @@
             Default:
               FusionOpus.big-rocks.journeys.a6i.xlsx: '
 
-                Size (in bytes):  19667
+                Size (in bytes):  19144
 
                 '
               FusionOpus.milestone.journeys.a6i.xlsx: '
@@ -162,7 +162,7 @@
                 _CLI__3 Posting:
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  2405
+                    Size (in bytes):  2381
 
                     '
                   pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx: '
@@ -179,12 +179,12 @@
                 _CLI__5 Posting:
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  2384
+                    Size (in bytes):  2360
 
                     '
                   pbf_opus.update.big-rocks.journeys.a6i.xlsx: '
 
-                    Size (in bytes):  19667
+                    Size (in bytes):  19144
 
                     '
                 _CLI__6 Form Request:
@@ -196,7 +196,7 @@
                 _CLI__7 Posting:
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  1869
+                    Size (in bytes):  1853
 
                     '
                   pbf_opus.v1.milestone.journeys.a6i.xlsx: '
@@ -213,7 +213,7 @@
                 _CLI__9 Posting:
                   POST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  1869
+                    Size (in bytes):  1853
 
                     '
                   pbf_opus.v2.milestone.journeys.a6i.xlsx: '

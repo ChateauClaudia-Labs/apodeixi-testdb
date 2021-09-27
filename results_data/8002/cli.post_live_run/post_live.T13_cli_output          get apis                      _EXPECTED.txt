@@ -3,8 +3,8 @@
 
 
 Posting API                           Postings filing scheme        Manifest API for posted manifests      Manifest kinds for posted manifests
-------------------------------------  ----------------------------  -------------------------------------  ---------------------------------------
-big-rocks.journeys.a6i                JourneysFilingCoordinates     delivery-planning.journeys.a6i.io/v1a  big-rock, big-rock-estimate, investment
+------------------------------------  ----------------------------  -------------------------------------  ----------------------------------------------------------
+big-rocks.journeys.a6i                JourneysFilingCoordinates     delivery-planning.journeys.a6i.io/v1a  big-rock, sub-product-scope, big-rock-estimate, investment
 milestone.journeys.a6i                JourneysFilingCoordinates     delivery-planning.journeys.a6i.io/v1a  big-rock, modernization-milestone
 products.static-data.admin.a6i        StaticDataFilingCoordinates   static-data.admin.a6i.io/v1a           product, line-of-business
 scoring-cycles.static-data.admin.a6i  StaticDataFilingCoordinates   static-data.admin.a6i.io/v1a           scoring-cycle

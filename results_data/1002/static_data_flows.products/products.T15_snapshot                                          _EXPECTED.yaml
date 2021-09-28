@@ -22,12 +22,12 @@
               '
             products.static-data.admin.a6i.xlsx: '
 
-              Size (in bytes):  7147
+              Size (in bytes):  7346
 
               '
         products.static-data.admin.a6i.xlsx: '
 
-          Size (in bytes):  7046
+          Size (in bytes):  7374
 
           '
   kb:
@@ -49,12 +49,12 @@
                 '
               products.static-data.admin.a6i.xlsx: '
 
-                Size (in bytes):  7147
+                Size (in bytes):  7346
 
                 '
           products.static-data.admin.a6i.xlsx: '
 
-            Size (in bytes):  7147
+            Size (in bytes):  7346
 
             '
     manifests:
@@ -67,6 +67,6 @@
             '
           product.1.yaml: '
 
-            Size (in bytes):  1025
+            Size (in bytes):  1671
 
             '

@@ -1,12 +1,15 @@
 ************** Layout information for Manifest 'product.0' **********
 
-layout span		[[3, 1], [5, 4]]
+layout span		[[3, 1], [8, 8]]
 hidden columns		['lineOfBusiness']
 column widths		UID		{'width': 3, 'nb_lines': 1}
 product		{'width': 8, 'nb_lines': 1}
 Alias names		{'width': 36, 'nb_lines': 1}
+UID-1		{'width': 5, 'nb_lines': 1}
+Sub Product		{'width': 17, 'nb_lines': 1}
+Sub product aliases		{'width': 31, 'nb_lines': 1}
 
-total width		47
+total width		100
 ************** Layout information for Manifest 'line-of-business.1' **********
 
 layout span		[[1, 1], [2, 3]]

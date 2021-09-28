@@ -1,0 +1,11 @@
+=> post --timestamp v2.products.static-data.admin.a6i.xlsx
+
+
+KnowledgeBase activity:
+
+Manifest                 Event    Entities added    Entities removed    Entities changed    Entities unchanged    Namespace           Name
+-----------------------  -------  ----------------  ------------------  ------------------  --------------------  ------------------  -----------
+product.2.yaml           UPDATED  P(1), SP(1)       P(0), SP(0)         P(3), SP(4)         P(0), SP(0)           my-corp.production  static-data
+line-of-business.2.yaml  UPDATED  LOB(1)            LOB(0)              LOB(2)              LOB(0)                my-corp.production  static-data
+
+Success

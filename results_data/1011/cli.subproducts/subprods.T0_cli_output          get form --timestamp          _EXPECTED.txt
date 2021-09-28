@@ -1,0 +1,17 @@
+=> get form --timestamp my-corp.production
+
+
+Generated Excel form in this area:
+
+<TEST DB ROOT>/knowledge-base/envs/1011_ENV/external-collaboration
+
+Property                                                      Value
+------------------------------------------------------------  -----------------------------------
+Filing Coordinates
+Filename                                                      products.static-data.admin.a6i.xlsx
+Manifests Included                                            product.0, line-of-business.1
+Posting API                                                   products.static-data.admin.a6i
+Excel range for creating first version of 'product'           Assertions!D2:G17
+Excel range for creating first version of 'line-of-business'  Assertions!B2:B17
+
+Success

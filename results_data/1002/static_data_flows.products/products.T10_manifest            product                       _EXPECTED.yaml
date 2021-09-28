@@ -6,6 +6,17 @@ assertion:
   product:
     P1:
       Alias names: My Product A, My product A, myprod A
+      Sub Product:
+        SP1:
+          Sub product aliases: Prod A enterprise, A enterprise
+          UID: P1.SP1
+          name: Prod A Enterprise
+        SP1-name: Prod A Enterprise
+        SP2:
+          Sub product aliases: Prod A express, A express
+          UID: P1.SP2
+          name: Prod A Express
+        SP2-name: Prod A Express
       UID: P1
       lineOfBusiness: LOB1
       name: MYPROD_A
@@ -18,6 +29,17 @@ assertion:
     P2-name: MYPROD_B
     P3:
       Alias names: My Product C, My product C, myprod C
+      Sub Product:
+        SP1:
+          Sub product aliases: ''
+          UID: P3.SP1
+          name: Prod C Premium
+        SP1-name: Prod C Premium
+        SP2:
+          Sub product aliases: ''
+          UID: P3.SP2
+          name: Prod C Basic
+        SP2-name: Prod C Basic
       UID: P3
       lineOfBusiness: LOB2
       name: MYPROD_C

@@ -9,7 +9,7 @@ estimatedOn		2021-08-04 00:00:00
 priorVersion.0		1
 priorVersion.1		1
 data.kind.0		product
-data.range.0		D2:F5
+data.range.0		D2:I9
 data.sheet.0		Assertions
 data.kind.1		line-of-business
 data.range.1		B2:C4

@@ -1,0 +1,73 @@
+kb:
+  excel-postings:
+    admin:
+      static-data:
+        _ARCHIVE:
+          _CLI__1 Form Request:
+            FORM_REQUEST_EVENT_LOG.txt: '
+
+              Size (in bytes):  376
+
+              '
+          _CLI__2 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1645
+
+              '
+            v1.products.static-data.admin.a6i.xlsx: '
+
+              Size (in bytes):  7341
+
+              '
+          _CLI__3 Form Request:
+            FORM_REQUEST_EVENT_LOG.txt: '
+
+              Size (in bytes):  376
+
+              '
+          _CLI__4 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1645
+
+              '
+            v2.products.static-data.admin.a6i.xlsx: '
+
+              Size (in bytes):  18228
+
+              '
+          _CLI__5 Form Request:
+            FORM_REQUEST_EVENT_LOG.txt: '
+
+              Size (in bytes):  376
+
+              '
+        products.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  18228
+
+          '
+  manifests:
+    my-corp.production:
+      static-data:
+        line-of-business.1.yaml: '
+
+          Size (in bytes):  782
+
+          '
+        line-of-business.2.yaml: '
+
+          Size (in bytes):  791
+
+          '
+        product.1.yaml: '
+
+          Size (in bytes):  1667
+
+          '
+        product.2.yaml: '
+
+          Size (in bytes):  1795
+
+          '

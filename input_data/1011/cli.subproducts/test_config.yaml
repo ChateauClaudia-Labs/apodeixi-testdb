@@ -1,0 +1,12 @@
+integration-tests-results:
+
+  cli.post_dry_run: "Test_Runner_Environment"
+
+regression-parameters:
+  # For test outut that displays the size of Excel files, determines the number of bytes by which Excel file size may very
+  # before declaring a regression violation
+  xl-tolerance: 25 #4 
+
+
+ 
+

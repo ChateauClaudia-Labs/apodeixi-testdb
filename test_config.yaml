@@ -2,6 +2,8 @@ integration-tests-results:
   static_data_flows.s_c: 1001
   static_data_flows.products: 1002
 
+  cli.subproducts: 1011
+
   environment_lifecycle: 1501
   search_big_rocks_postings: 1502
   search_milestone_postings: 1503

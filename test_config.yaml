@@ -13,6 +13,8 @@ integration-tests-results:
   basic_posting_flows.big_rocks.explained: 2002
   basic_posting_flows.milestones: 2003
 
+  cli.bigrocks_&_milestones: 2011
+
   aggregate_workstream_metrics: 3001
 
   cli.post_dry_run: 8001

@@ -1,0 +1,11 @@
+=> post --timestamp products.static-data.admin.a6i.xlsx
+
+
+KnowledgeBase activity:
+
+Manifest                 Event    Entities added    Entities removed    Entities changed    Entities unchanged    Namespace           Name
+-----------------------  -------  ----------------  ------------------  ------------------  --------------------  ------------------  -----------
+product.1.yaml           CREATED  P(1), SP(3)                                                                     intuit.innovations  static-data
+line-of-business.1.yaml  CREATED  LOB(1)                                                                          intuit.innovations  static-data
+
+Success

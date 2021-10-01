@@ -1,0 +1,16 @@
+
+[secrets]
+folder = "C:/Alex/Code/ea-journeys/secrets"
+
+[knowledge-base]
+knowledge-base-root-folder = "C:/Users/aleja/Documents/Code/chateauclaudia-labs/apodeixi/test_db/knowledge-base/envs/2011_ENV/kb"
+external-collaboration-folder = "C:/Users/aleja/Documents/Code/chateauclaudia-labs/apodeixi/test_db/knowledge-base/envs/2011_ENV/external-collaboration"
+
+[organization-settings]
+month-fiscal-year-starts = 6
+organization = "Intuit"
+knowledge-base-areas = ["Production", "Innovations"]
+
+[cli]
+initializer-classname = "apodeixi.cli.kb_session.KB_Session_Initializer"
+

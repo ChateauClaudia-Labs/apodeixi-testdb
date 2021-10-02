@@ -4,3 +4,27 @@
     Size (in bytes):  502
 
     '
+  kb:
+    manifests:
+      my-corp.production:
+        static-data:
+          line-of-business.1.yaml: '
+
+            Size (in bytes):  784
+
+            '
+          line-of-business.2.yaml: '
+
+            Size (in bytes):  791
+
+            '
+          product.1.yaml: '
+
+            Size (in bytes):  1669
+
+            '
+          product.2.yaml: '
+
+            Size (in bytes):  1540
+
+            '

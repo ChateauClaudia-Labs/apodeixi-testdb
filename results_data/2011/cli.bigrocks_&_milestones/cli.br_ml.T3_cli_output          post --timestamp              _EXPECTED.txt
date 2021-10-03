@@ -1,0 +1,12 @@
+=> post --timestamp v1.big-rocks.journeys.a6i.xlsx
+
+
+KnowledgeBase activity:
+
+Manifest                  Event    Entities added       Entities removed    Entities changed    Entities unchanged    Namespace           Name
+------------------------  -------  -------------------  ------------------  ------------------  --------------------  ------------------  -----------------------------------------------
+big-rock.1.yaml           CREATED  BR(3), MR(6), SR(2)                                                                intuit.innovations  experimental.march-2021.turbotax.iot-experiment
+sub-product-scope.1.yaml  CREATED  SP(3)                                                                              intuit.innovations  experimental.march-2021.turbotax.iot-experiment
+big-rock-estimate.1.yaml  CREATED  E(7)                                                                               intuit.innovations  experimental.march-2021.turbotax.iot-experiment
+
+Success

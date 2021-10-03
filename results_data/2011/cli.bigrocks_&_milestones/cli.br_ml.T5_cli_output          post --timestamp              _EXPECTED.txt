@@ -1,0 +1,11 @@
+=> post --timestamp v1.milestone.journeys.a6i.xlsx
+
+
+KnowledgeBase activity:
+
+Manifest                        Event      Entities added    Entities removed    Entities changed    Entities unchanged    Namespace           Name
+------------------------------  ---------  ----------------  ------------------  ------------------  --------------------  ------------------  -----------------------------------------------
+big-rock.1.yaml                 UNCHANGED                                                            BR(3), MR(6), SR(2)   intuit.innovations  experimental.march-2021.turbotax.iot-experiment
+modernization-milestone.1.yaml  CREATED    M(4)                                                                            intuit.innovations  experimental.march-2021.turbotax.iot-experiment
+
+Success

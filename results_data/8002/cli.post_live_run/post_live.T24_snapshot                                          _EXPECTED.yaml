@@ -6,7 +6,7 @@ kb:
           _CLI__1 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1654
+              Size (in bytes):  1638
 
               '
             products.static-data.admin.a6i.xlsx: '
@@ -17,7 +17,7 @@ kb:
           _CLI__2 Posting:
             POST_EVENT_LOG.txt: '
 
-              Size (in bytes):  1251
+              Size (in bytes):  1243
 
               '
             scoring-cycles.static-data.admin.a6i.xlsx: '
@@ -53,7 +53,7 @@ kb:
               _CLI__3 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2406
+                  Size (in bytes):  2382
 
                   '
                 pbf_opus.original.OPUS_big-rocks.journeys.a6i.xlsx: '
@@ -70,7 +70,7 @@ kb:
               _CLI__5 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  2385
+                  Size (in bytes):  2361
 
                   '
                 pbf_opus.update.big-rocks.journeys.a6i.xlsx: '
@@ -87,7 +87,7 @@ kb:
               _CLI__7 Posting:
                 POST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  1870
+                  Size (in bytes):  1854
 
                   '
                 pbf_opus.v1.milestone.journeys.a6i.xlsx: '
@@ -155,3 +155,9 @@ kb:
           Size (in bytes):  1160
 
           '
+    system:
+      foreign_key_contraints.1.yaml: '
+
+        Size (in bytes):  1171
+
+        '

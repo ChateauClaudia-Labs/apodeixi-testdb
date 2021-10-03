@@ -65,3 +65,9 @@
             Size (in bytes):  2426
 
             '
+      system:
+        foreign_key_contraints.1.yaml: '
+
+          Size (in bytes):  4
+
+          '

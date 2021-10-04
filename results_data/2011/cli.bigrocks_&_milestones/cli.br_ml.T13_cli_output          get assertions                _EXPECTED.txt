@@ -1,0 +1,19 @@
+=> get assertions
+
+
+
+Kind                       Version  Estimated on         Recorded by               Namespace           Name                                             Environment
+-----------------------  ---------  -------------------  ------------------------  ------------------  -----------------------------------------------  ----------------
+big-rock-estimate                1  2021-10-01 00:00:00  chavo.delocho@mx.cr       intuit.innovations  experimental.march-2021.turbotax.iot-experiment  BASE_ENVIRONMENT
+big-rock-estimate                2  2021-10-01 00:00:00  chavo.delocho@mx.cr       intuit.innovations  experimental.march-2021.turbotax.iot-experiment  BASE_ENVIRONMENT
+big-rock                         1  2021-10-01 00:00:00  chavo.delocho@mx.cr       intuit.innovations  experimental.march-2021.turbotax.iot-experiment  BASE_ENVIRONMENT
+big-rock                         2  2021-10-01 00:00:00  chavo.delocho@mx.cr       intuit.innovations  experimental.march-2021.turbotax.iot-experiment  BASE_ENVIRONMENT
+modernization-milestone          1  2021-10-02 00:00:00  julio.roca@procer.ar      intuit.innovations  experimental.march-2021.turbotax.iot-experiment  BASE_ENVIRONMENT
+modernization-milestone          2  2021-10-03 00:00:00  julio.roca@procer.ar      intuit.innovations  experimental.march-2021.turbotax.iot-experiment  BASE_ENVIRONMENT
+sub-product-scope                1  2021-10-01 00:00:00  chavo.delocho@mx.cr       intuit.innovations  experimental.march-2021.turbotax.iot-experiment  BASE_ENVIRONMENT
+sub-product-scope                2  2021-10-01 00:00:00  chavo.delocho@mx.cr       intuit.innovations  experimental.march-2021.turbotax.iot-experiment  BASE_ENVIRONMENT
+line-of-business                 1  2021-03-21 00:00:00  gerardo.chaves@intuit.cr  intuit.innovations  static-data                                      BASE_ENVIRONMENT
+product                          1  2021-03-21 00:00:00  gerardo.chaves@intuit.cr  intuit.innovations  static-data                                      BASE_ENVIRONMENT
+scoring-cycle                    1  2021-03-21 00:00:00  gerardo.chaves@intuit.cr  intuit.innovations  static-data                                      BASE_ENVIRONMENT
+
+Success

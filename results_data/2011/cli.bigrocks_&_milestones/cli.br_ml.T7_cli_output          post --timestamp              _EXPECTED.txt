@@ -1,12 +1,21 @@
 => post --timestamp v2.big-rocks.journeys.a6i.xlsx
 
+[91m
+Foreign key violation for manifest: there are 1 other manifests that reference UIDs that were removed from manifest
 
-KnowledgeBase activity:
+            Manifest            : 
+		 manifest_api   = 'delivery-planning.journeys.a6i.io'
+		 namespace      = 'intuit.innovations'
+		 kind           = 'big-rock'
+		 name           = 'experimental.march-2021.turbotax.iot-experiment'
+		 version        = '2'
+            Problem UIDs        : ['BR2.MR2.SR2']
+            Referencing manifest: 
+		 manifest_api   = 'delivery-planning.journeys.a6i.io'
+		 namespace      = 'intuit.innovations'
+		 kind           = 'modernization-milestone'
+		 name           = 'experimental.march-2021.turbotax.iot-experiment'
+		 version        = '1'
+[0m[38;5;110m
 
-Manifest                  Event    Entities added       Entities removed     Entities changed     Entities unchanged    Namespace           Name
-------------------------  -------  -------------------  -------------------  -------------------  --------------------  ------------------  -----------------------------------------------
-big-rock.2.yaml           UPDATED  BR(0), MR(0), SR(2)  BR(0), MR(0), SR(1)  BR(0), MR(0), SR(0)  BR(3), MR(6), SR(1)   intuit.innovations  experimental.march-2021.turbotax.iot-experiment
-sub-product-scope.2.yaml  UPDATED  SP(0)                SP(1)                SP(1)                SP(1)                 intuit.innovations  experimental.march-2021.turbotax.iot-experiment
-big-rock-estimate.2.yaml  UPDATED  E(0)                 E(0)                 E(7)                 E(0)                  intuit.innovations  experimental.march-2021.turbotax.iot-experiment
-
-Success
+<APODEIXI INSTALLATION>/apodeixi/test_db/knowledge-base/envs/2011_ENV/kb/logs/<MASKED>.<MASKED>_errors.txt[0m[0m

@@ -1,0 +1,197 @@
+kb:
+  excel-postings:
+    admin:
+      static-data:
+        _ARCHIVE:
+          _CLI__1 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1646
+
+              '
+            products.static-data.admin.a6i.xlsx: '
+
+              Size (in bytes):  17483
+
+              '
+          _CLI__2 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1251
+
+              '
+            scoring-cycles.static-data.admin.a6i.xlsx: '
+
+              Size (in bytes):  17502
+
+              '
+        products.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  17483
+
+          '
+        scoring-cycles.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  17502
+
+          '
+    journeys:
+      March 2021:
+        TurboTax:
+          IOT Experiment:
+            TurboTax.big-rocks.journeys.a6i.xlsx: '
+
+              Size (in bytes):  19793
+
+              '
+            TurboTax.milestone.journeys.a6i.xlsx: '
+
+              Size (in bytes):  19097
+
+              '
+            _ARCHIVE:
+              _CLI__10 Posting:
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1874
+
+                  '
+                v2.milestone.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  19097
+
+                  '
+              _CLI__11 Posting:
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  2395
+
+                  '
+                v2.big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  19793
+
+                  '
+              _CLI__12 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  403
+
+                  '
+              _CLI__13 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  403
+
+                  '
+              _CLI__3 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  403
+
+                  '
+              _CLI__4 Posting:
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  2394
+
+                  '
+                v1.big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  19273
+
+                  '
+              _CLI__5 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  403
+
+                  '
+              _CLI__6 Posting:
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1873
+
+                  '
+                v1.milestone.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  18404
+
+                  '
+              _CLI__7 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  403
+
+                  '
+              _CLI__9 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  403
+
+                  '
+  manifests:
+    intuit.innovations:
+      experimental.march-2021.turbotax.iot-experiment:
+        big-rock-estimate.1.yaml: '
+
+          Size (in bytes):  3071
+
+          '
+        big-rock-estimate.2.yaml: '
+
+          Size (in bytes):  2565
+
+          '
+        big-rock.1.yaml: '
+
+          Size (in bytes):  1979
+
+          '
+        big-rock.2.yaml: '
+
+          Size (in bytes):  2114
+
+          '
+        modernization-milestone.1.yaml: '
+
+          Size (in bytes):  1796
+
+          '
+        modernization-milestone.2.yaml: '
+
+          Size (in bytes):  1571
+
+          '
+        sub-product-scope.1.yaml: '
+
+          Size (in bytes):  1323
+
+          '
+        sub-product-scope.2.yaml: '
+
+          Size (in bytes):  1189
+
+          '
+      static-data:
+        line-of-business.1.yaml: '
+
+          Size (in bytes):  637
+
+          '
+        product.1.yaml: '
+
+          Size (in bytes):  943
+
+          '
+        scoring-cycle.1.yaml: '
+
+          Size (in bytes):  1448
+
+          '
+    system:
+      foreign_key_contraints.1.yaml: '
+
+        Size (in bytes):  1983
+
+        '

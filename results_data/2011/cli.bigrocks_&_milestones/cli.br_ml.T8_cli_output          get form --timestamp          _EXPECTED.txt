@@ -6,9 +6,9 @@ Generated Excel form in this area:
 <TEST DB ROOT>/knowledge-base/envs/2011_ENV/external-collaboration
 
 Property                                                         Value
----------------------------------------------------------------  -------------------------------------
+---------------------------------------------------------------  -------------------------------------------------
 Filing Coordinates                                               March 2021.TurboTax.IOT Experiment
-Filename                                                         TurboTax.milestone.journeys.a6i.xlsx
+Filename                                                         TurboTax.Experimental.milestone.journeys.a6i.xlsx
 Manifests Included                                               big-rock.0, modernization-milestone.1
 Posting API                                                      milestone.journeys.a6i
 Read-only Excel range for 'big-rock'                             Assertions!B9:G20

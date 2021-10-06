@@ -6,9 +6,9 @@ Generated Excel form in this area:
 <TEST DB ROOT>/knowledge-base/envs/8002_ENV/external-collaboration
 
 Property                                                             Value
--------------------------------------------------------------------  --------------------------------------
+-------------------------------------------------------------------  ----------------------------------------------------
 Filing Coordinates                                                   Dec 2020.FusionOpus.Default
-Filename                                                             FusionOpus.milestone.journeys.a6i.xlsx
+Filename                                                             FusionOpus.modernization.milestone.journeys.a6i.xlsx
 Manifests Included                                                   big-rock.0, modernization-milestone.1
 Posting API                                                          milestone.journeys.a6i
 Read-only Excel range for 'big-rock'                                 Assertions!B5:G14

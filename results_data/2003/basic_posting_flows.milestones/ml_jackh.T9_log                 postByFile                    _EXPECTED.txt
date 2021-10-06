@@ -15,14 +15,14 @@ UNCHANGED MANIFEST:
 
 ARCHIVED POSTING FROM:   
 		 posting_api     = 'milestone.journeys.a6i'
-		 filing_coords   = 'TBD - Submitted from: <KNOWLEDGE BASE ROOT>/envs/2003_ENV/external-collaboration/journeys/Dec 2020/Jack Henry/OfficialPlan/Jack Henry.milestone.journeys.a6i.xlsx'
-		 excel_filename  = 'Jack Henry.milestone.journeys.a6i.xlsx'
+		 filing_coords   = 'TBD - Submitted from: <KNOWLEDGE BASE ROOT>/envs/2003_ENV/external-collaboration/journeys/Dec 2020/Jack Henry/OfficialPlan/Jack Henry.modernization.milestone.journeys.a6i.xlsx'
+		 excel_filename  = 'Jack Henry.modernization.milestone.journeys.a6i.xlsx'
 		 excel_sheet     = 'Posting Label'
 		 excel_range     = 'B2:C1000'
              TO:         
 		 posting_api     = 'milestone.journeys.a6i'
 		 filing_coords   = 'Dec 2020.Jack Henry.OfficialPlan._ARCHIVE.(Timestamp omitted) Posting'
-		 excel_filename  = 'Jack Henry.milestone.journeys.a6i.xlsx'
+		 excel_filename  = 'Jack Henry.modernization.milestone.journeys.a6i.xlsx'
 		 excel_sheet     = 'Posting Label'
 		 excel_range     = 'B2:C1000'
 

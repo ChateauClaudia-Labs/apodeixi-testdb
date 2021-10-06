@@ -2,7 +2,7 @@
 CREATED FORM:        
 		 posting_api     = 'milestone.journeys.a6i'
 		 filing_coords   = 'Dec 2020.Jack Henry.OfficialPlan'
-		 excel_filename  = 'Jack Henry.milestone.journeys.a6i.xlsx'
+		 excel_filename  = 'Jack Henry.modernization.milestone.journeys.a6i.xlsx'
 		 excel_sheet     = 'Posting Label'
 		 excel_range     = 'B2:C100'
 clientURL =          <KNOWLEDGE BASE ROOT>/envs/2003_ENV/external-collaboration

@@ -7,9 +7,9 @@ Generated Excel form in this area:
 <TEST DB ROOT>/knowledge-base/envs/8001_ENV/kb/envs/<MASKED>_sandbox/external-collaboration
 
 Property                                                   Value
----------------------------------------------------------  ---------------------------------------------
+---------------------------------------------------------  ----------------------------------------------------
 Filing Coordinates                                         Dec 2020.FusionOpus.Default
-Filename                                                   FusionOpus.big-rocks.journeys.a6i.xlsx
+Filename                                                   FusionOpus.modernization.big-rocks.journeys.a6i.xlsx
 Manifests Included                                         big-rock.0, big-rock-estimate.2, investment.3
 Posting API                                                big-rocks.journeys.a6i
 Excel range for updating 'big-rock' to version 2           Assertions!B2:C7

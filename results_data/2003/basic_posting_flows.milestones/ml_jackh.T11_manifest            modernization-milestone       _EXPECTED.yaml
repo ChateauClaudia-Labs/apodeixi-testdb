@@ -16,8 +16,8 @@ assertion:
       Theme: Margin improvement
       UID: M2
       big-rock: []
-      name: SME market.1
-    M2-name: SME market.1
+      name: SME market
+    M2-name: SME market
     M3:
       Date: Q4 FY21
       Theme: New UX

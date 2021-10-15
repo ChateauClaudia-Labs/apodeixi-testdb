@@ -36,19 +36,19 @@
           Default:
             FusionOpus.modernization.big-rocks.journeys.a6i.xlsx: '
 
-              Size (in bytes):  7703
+              Size (in bytes):  7624
 
               '
             FusionOpus.modernization.milestone.journeys.a6i.xlsx: '
 
-              Size (in bytes):  8332
+              Size (in bytes):  8152
 
               '
             _ARCHIVE:
               _CLI__10 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  428
+                  Size (in bytes):  442
 
                   '
               _CLI__3 Posting:
@@ -65,7 +65,7 @@
               _CLI__4 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  428
+                  Size (in bytes):  442
 
                   '
               _CLI__5 Posting:
@@ -82,7 +82,7 @@
               _CLI__6 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  428
+                  Size (in bytes):  442
 
                   '
               _CLI__7 Posting:
@@ -99,7 +99,7 @@
               _CLI__8 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  428
+                  Size (in bytes):  442
 
                   '
               _CLI__9 Posting:
@@ -168,7 +168,7 @@
                 _CLI__10 Form Request:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  428
+                    Size (in bytes):  442
 
                     '
                 _CLI__3 Posting:
@@ -185,7 +185,7 @@
                 _CLI__4 Form Request:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  428
+                    Size (in bytes):  442
 
                     '
                 _CLI__5 Posting:
@@ -202,7 +202,7 @@
                 _CLI__6 Form Request:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  428
+                    Size (in bytes):  442
 
                     '
                 _CLI__7 Posting:
@@ -219,7 +219,7 @@
                 _CLI__8 Form Request:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  428
+                    Size (in bytes):  442
 
                     '
                 _CLI__9 Posting:

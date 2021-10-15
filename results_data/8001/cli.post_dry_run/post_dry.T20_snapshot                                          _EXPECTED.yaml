@@ -36,12 +36,12 @@
           Default:
             FusionOpus.modernization.big-rocks.journeys.a6i.xlsx: '
 
-              Size (in bytes):  7704
+              Size (in bytes):  7624
 
               '
             FusionOpus.modernization.milestone.journeys.a6i.xlsx: '
 
-              Size (in bytes):  8016
+              Size (in bytes):  7802
 
               '
             _ARCHIVE:
@@ -59,7 +59,7 @@
               _CLI__4 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  428
+                  Size (in bytes):  442
 
                   '
               _CLI__5 Posting:
@@ -76,7 +76,7 @@
               _CLI__6 Form Request:
                 FORM_REQUEST_EVENT_LOG.txt: '
 
-                  Size (in bytes):  428
+                  Size (in bytes):  442
 
                   '
   kb:
@@ -140,7 +140,7 @@
                 _CLI__4 Form Request:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  428
+                    Size (in bytes):  442
 
                     '
                 _CLI__5 Posting:
@@ -157,7 +157,7 @@
                 _CLI__6 Form Request:
                   FORM_REQUEST_EVENT_LOG.txt: '
 
-                    Size (in bytes):  428
+                    Size (in bytes):  442
 
                     '
     manifests:

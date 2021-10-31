@@ -1,0 +1,120 @@
+kb:
+  excel-postings:
+    admin:
+      static-data:
+        _ARCHIVE:
+          _CLI__1 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1655
+
+              '
+            products.static-data.admin.a6i.xlsx: '
+
+              Size (in bytes):  17735
+
+              '
+          _CLI__2 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1250
+
+              '
+            scoring-cycles.static-data.admin.a6i.xlsx: '
+
+              Size (in bytes):  17690
+
+              '
+        products.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  17735
+
+          '
+        scoring-cycles.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  17690
+
+          '
+    journeys:
+      FY 22:
+        Astrea:
+          Official:
+            Astrea.modernization.big-rocks.journeys.a6i.xlsx: '
+
+              Size (in bytes):  19288
+
+              '
+            _ARCHIVE:
+              _CLI__3 Posting:
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1794
+
+                  '
+                v1.big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  18452
+
+                  '
+              _CLI__4 Posting:
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1794
+
+                  '
+                v2.big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  19288
+
+                  '
+  manifests:
+    cicloquimica.production:
+      modernization.fy-22.astrea.official:
+        big-rock-estimate.1.yaml: '
+
+          Size (in bytes):  1869
+
+          '
+        big-rock-estimate.2.yaml: '
+
+          Size (in bytes):  2005
+
+          '
+        big-rock.1.yaml: '
+
+          Size (in bytes):  1785
+
+          '
+        big-rock.2.yaml: '
+
+          Size (in bytes):  1877
+
+          '
+      static-data:
+        line-of-business.1.yaml: '
+
+          Size (in bytes):  647
+
+          '
+        product.1.yaml: '
+
+          Size (in bytes):  687
+
+          '
+        scoring-cycle.1.yaml: '
+
+          Size (in bytes):  901
+
+          '
+    system:
+      foreign_key_contraints.1.yaml: '
+
+        Size (in bytes):  4
+
+        '
+  reports:
+    <MASKED>.<MASKED>_big-rock_v1-v2_diff.xlsx: '
+
+      Size (in bytes):  5660
+
+      '

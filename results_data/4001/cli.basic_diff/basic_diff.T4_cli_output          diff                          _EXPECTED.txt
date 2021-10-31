@@ -1,0 +1,15 @@
+=> diff
+
+
+big-rock v1-v2:
+
+Diff Type       Entity                             Field     Original Value    New Value
+--------------  ---------------------------------  --------  ----------------  ------------------------
+ENTITY ADDED    BR4: Events
+ENTITY ADDED    BR2.MR3: Support UI
+ENTITY REMOVED  BR3.MR2: MQ Replacement
+FIELD CHANGED   BR2.MR2: Admin UI (minus support)  Mid Rock  Admin UI          Admin UI (minus support)
+
+
+<APODEIXI INSTALLATION>/apodeixi/test_db/knowledge-base/envs/4001_ENV/kb/reports/<MASKED>.<MASKED>_big-rock_v1-v2_diff.xlsx
+Success

@@ -1,0 +1,156 @@
+apiVersion: delivery-planning.journeys.a6i.io/v1a
+assertion:
+  effort:
+    E1:
+      UID: E1
+      name: DERIVED
+      ? &id001 !!python/tuple
+      - Premium
+      - FY 19
+      : 1
+      ? &id002 !!python/tuple
+      - Premium
+      - FY 20
+      : 2
+      ? &id003 !!python/tuple
+      - Premium
+      - FY 21
+      : 3
+      ? &id004 !!python/tuple
+      - State
+      - FY 19
+      : 4
+      ? &id005 !!python/tuple
+      - State
+      - FY 20
+      : 5
+      ? &id006 !!python/tuple
+      - State
+      - FY 21
+      : 6
+      ? &id007 !!python/tuple
+      - Professional
+      - FY 19
+      : 7
+      ? &id008 !!python/tuple
+      - Professional
+      - FY 20
+      : 8
+      ? &id009 !!python/tuple
+      - Professional
+      - FY 21
+      : 9
+      bigRock: BR1.MR1
+    E1-name: DERIVED
+    E2:
+      UID: E2
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 0
+      *id005: 0
+      *id006: 0
+      *id007: 3
+      *id008: 2
+      *id009: 1
+      bigRock: BR1.MR2
+    E2-name: DERIVED
+    E3:
+      UID: E3
+      name: DERIVED
+      *id001: 1
+      *id002: 2
+      *id003: 3
+      *id004: 4
+      *id005: 5
+      *id006: 6
+      *id007: 7
+      *id008: 8
+      *id009: 9
+      bigRock: BR2.MR1
+    E3-name: DERIVED
+    E4:
+      UID: E4
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 8
+      *id005: 8
+      *id006: 8
+      *id007: 4
+      *id008: 4
+      *id009: 4
+      bigRock: BR2.MR2.SR1
+    E4-name: DERIVED
+    E5:
+      UID: E5
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 0
+      *id005: 0
+      *id006: 0
+      *id007: 9
+      *id008: 8
+      *id009: 7
+      bigRock: BR2.MR2.SR2
+    E5-name: DERIVED
+    E6:
+      UID: E6
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 0
+      *id005: 0
+      *id006: 0
+      *id007: 7
+      *id008: 8
+      *id009: 9
+      bigRock: BR3.MR1
+    E6-name: DERIVED
+    E7:
+      UID: E7
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 0
+      *id005: 0
+      *id006: 0
+      *id007: 12
+      *id008: 13
+      *id009: 14
+      bigRock: BR3.MR2
+    E7-name: DERIVED
+  entity_type: Effort
+  estimatedBy: chespirito@mx.cr
+  estimatedOn: &id010 2021-10-01 00:00:00
+  planType: Agile
+  recordedBy: chavo.delocho@mx.cr
+  scenario: IOT Experiment
+  scoringCycle: March 2021
+  scoringMaturity: ''
+  variant: explained
+kind: big-rock-estimate
+metadata:
+  labels:
+    estimatedBy: chespirito@mx.cr
+    estimatedOn: *id010
+    journey: Experimental
+    knowledgeBase: innovations
+    organization: intuit
+    planType: Agile
+    product: TurboTax
+    recordedBy: chavo.delocho@mx.cr
+    scenario: IOT Experiment
+    scoringCycle: March 2021
+    scoringMaturity: ''
+    variant: explained
+    version: 1
+  name: experimental.march-2021.turbotax.iot-experiment
+  namespace: intuit.innovations
+  version: 1

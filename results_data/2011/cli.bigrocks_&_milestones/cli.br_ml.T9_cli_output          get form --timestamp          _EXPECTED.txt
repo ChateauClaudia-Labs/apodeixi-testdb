@@ -13,6 +13,6 @@ Manifests Included                                         big-rock.0, sub-produ
 Posting API                                                big-rocks.journeys.a6i
 Excel range for updating 'big-rock' to version 2           Assertions!B5:G16
 Excel range for updating 'sub-product-scope' to version 2  Assertions!H2:K26
-Excel range for updating 'big-rock-estimate' to version 2  Assertions!L4:T13
+Excel range for updating 'big-rock-estimate' to version 2  Assertions!L4:T16
 
 Success

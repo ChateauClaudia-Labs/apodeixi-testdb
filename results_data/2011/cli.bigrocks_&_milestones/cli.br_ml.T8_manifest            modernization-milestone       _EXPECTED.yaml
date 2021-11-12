@@ -1,0 +1,70 @@
+apiVersion: delivery-planning.journeys.a6i.io/v1a
+assertion:
+  entity_type: Milestone
+  estimatedBy: gato.felix@salga.ar
+  estimatedOn: &id001 2021-10-02 00:00:00
+  milestone:
+    M1:
+      Date for Premium: Q4 FY 22
+      Date for Professional: Q4 FY 22
+      Date for State: Q4 FY 22
+      Theme: Lo basico
+      UID: M1
+      big-rock:
+      - BR1.MR1
+      - BR2.MR1
+      name: MVP Premium
+    M1-name: MVP Premium
+    M2:
+      Date for Premium: ''
+      Date for Professional: Q4 FY 22
+      Date for State: Q4 FY 22
+      Theme: ''
+      UID: M2
+      big-rock:
+      - BR2.MR2.SR1
+      name: MVP State
+    M2-name: MVP State
+    M3:
+      Date for Premium: ''
+      Date for Professional: Q4 FY 22
+      Date for State: ''
+      Theme: For early adopters in Norte America
+      UID: M3
+      big-rock:
+      - BR1.MR2
+      - BR2.MR2.SR2
+      name: MVP Professional
+    M3-name: MVP Professional
+    M4:
+      Date for Premium: ''
+      Date for Professional: Q2 FY 23
+      Date for State: ''
+      Theme: Mass distribution worldwide
+      UID: M4
+      big-rock:
+      - BR3.MR1
+      - BR3.MR2
+      name: GA Professional
+    M4-name: GA Professional
+  recordedBy: julio.roca@procer.ar
+  scenario: IOT Experiment
+  scoringCycle: March 2021
+  scoringMaturity: ''
+kind: modernization-milestone
+metadata:
+  labels:
+    estimatedBy: gato.felix@salga.ar
+    estimatedOn: *id001
+    journey: Experimental
+    knowledgeBase: innovations
+    organization: intuit
+    product: TurboTax
+    recordedBy: julio.roca@procer.ar
+    scenario: IOT Experiment
+    scoringCycle: March 2021
+    scoringMaturity: ''
+    version: 1
+  name: experimental.march-2021.turbotax.iot-experiment
+  namespace: intuit.innovations
+  version: 1

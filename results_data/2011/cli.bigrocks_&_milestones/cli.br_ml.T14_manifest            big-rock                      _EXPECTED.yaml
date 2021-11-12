@@ -1,0 +1,84 @@
+apiVersion: delivery-planning.journeys.a6i.io/v1a
+assertion:
+  big-rock:
+    BR1:
+      Mid Rock:
+        MR1:
+          UID: BR1.MR1
+          name: 5G
+        MR1-name: 5G
+        MR2:
+          UID: BR1.MR2
+          name: Satellite
+        MR2-name: Satellite
+      UID: BR1
+      name: Cellular
+    BR1-name: Cellular
+    BR2:
+      Mid Rock:
+        MR1:
+          UID: BR2.MR1
+          name: Beep detectors
+        MR1-name: Beep detectors
+        MR2:
+          Small Rock:
+            SR1:
+              UID: BR2.MR2.SR1
+              name: Basic
+            SR1-name: Basic
+          UID: BR2.MR2
+          name: Voice recognition
+        MR2-name: Voice recognition
+      UID: BR2
+      name: Sound sensors
+    BR2-name: Sound sensors
+    BR3:
+      Mid Rock:
+        MR1:
+          UID: BR3.MR1
+          name: Smell (air analysis)
+        MR1-name: Smell (air analysis)
+        MR2:
+          Small Rock:
+            SR1:
+              UID: BR3.MR2.SR1
+              name: Minerals
+            SR1-name: Minerals
+            SR2:
+              UID: BR3.MR2.SR2
+              name: Chemical
+            SR2-name: Chemical
+          UID: BR3.MR2
+          name: Surface composition
+        MR2-name: Surface composition
+      UID: BR3
+      name: Chemical analysis
+    BR3-name: Chemical analysis
+  entity_type: Big Rock
+  estimatedBy: chespirito@mx.cr
+  estimatedOn: &id001 2021-10-01 00:00:00
+  planType: Agile
+  recordedBy: chavo.delocho@mx.cr
+  scenario: IOT Experiment
+  scoringCycle: March 2021
+  scoringMaturity: ''
+  variant: explained
+kind: big-rock
+metadata:
+  labels:
+    estimatedBy: chespirito@mx.cr
+    estimatedOn: *id001
+    journey: Experimental
+    knowledgeBase: innovations
+    organization: intuit
+    planType: Agile
+    product: TurboTax
+    recordedBy: chavo.delocho@mx.cr
+    scenario: IOT Experiment
+    scoringCycle: March 2021
+    scoringMaturity: ''
+    variant: explained
+    version: 2
+  name: experimental.march-2021.turbotax.iot-experiment
+  namespace: intuit.innovations
+  version: 2

@@ -1,0 +1,126 @@
+apiVersion: delivery-planning.journeys.a6i.io/v1a
+assertion:
+  effort:
+    E1:
+      UID: E1
+      name: DERIVED
+      ? &id001 !!python/tuple
+      - Premium
+      - FY 19
+      : 1
+      ? &id002 !!python/tuple
+      - Premium
+      - FY 20
+      : 2
+      ? &id003 !!python/tuple
+      - Premium
+      - FY 21
+      : 3
+      ? &id004 !!python/tuple
+      - Professional
+      - FY 19
+      : 7
+      ? &id005 !!python/tuple
+      - Professional
+      - FY 20
+      : 8
+      ? &id006 !!python/tuple
+      - Professional
+      - FY 21
+      : 9
+      bigRock: BR1.MR1
+    E1-name: DERIVED
+    E2:
+      UID: E2
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 3
+      *id005: 2
+      *id006: 1
+      bigRock: BR1.MR2
+    E2-name: DERIVED
+    E3:
+      UID: E3
+      name: DERIVED
+      *id001: 1
+      *id002: 2
+      *id003: 3
+      *id004: 7
+      *id005: 8
+      *id006: 9
+      bigRock: BR2.MR1
+    E3-name: DERIVED
+    E4:
+      UID: E4
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 4
+      *id005: 4
+      *id006: 4
+      bigRock: BR2.MR2.SR1
+    E4-name: DERIVED
+    E5:
+      UID: E5
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 70
+      *id005: 80
+      *id006: 90
+      bigRock: BR3.MR1
+    E5-name: DERIVED
+    E6:
+      UID: E6
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 12
+      *id005: 13
+      *id006: 14
+      bigRock: BR3.MR2.SR1
+    E6-name: DERIVED
+    E7:
+      UID: E7
+      name: DERIVED
+      *id001: 0
+      *id002: 0
+      *id003: 0
+      *id004: 1012
+      *id005: 1013
+      *id006: 1014
+      bigRock: BR3.MR2.SR2
+    E7-name: DERIVED
+  entity_type: Effort
+  estimatedBy: chespirito@mx.cr
+  estimatedOn: &id007 2021-10-01 00:00:00
+  planType: Agile
+  recordedBy: chavo.delocho@mx.cr
+  scenario: IOT Experiment
+  scoringCycle: March 2021
+  scoringMaturity: ''
+  variant: explained
+kind: big-rock-estimate
+metadata:
+  labels:
+    estimatedBy: chespirito@mx.cr
+    estimatedOn: *id007
+    journey: Experimental
+    knowledgeBase: innovations
+    organization: intuit
+    planType: Agile
+    product: TurboTax
+    recordedBy: chavo.delocho@mx.cr
+    scenario: IOT Experiment
+    scoringCycle: March 2021
+    scoringMaturity: ''
+    variant: explained
+    version: 2
+  name: experimental.march-2021.turbotax.iot-experiment
+  namespace: intuit.innovations
+  version: 2

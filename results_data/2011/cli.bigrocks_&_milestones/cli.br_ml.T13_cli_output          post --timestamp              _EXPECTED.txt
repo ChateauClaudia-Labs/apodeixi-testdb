@@ -7,6 +7,6 @@ Manifest                  Event    Entities added       Entities removed     Ent
 ------------------------  -------  -------------------  -------------------  -------------------  --------------------  ------------------  -----------------------------------------------
 big-rock.2.yaml           UPDATED  BR(0), MR(0), SR(2)  BR(0), MR(0), SR(1)  BR(0), MR(0), SR(0)  BR(3), MR(6), SR(1)   intuit.innovations  experimental.march-2021.turbotax.iot-experiment
 sub-product-scope.2.yaml  UPDATED  SP(0)                SP(1)                SP(1)                SP(1)                 intuit.innovations  experimental.march-2021.turbotax.iot-experiment
-big-rock-estimate.2.yaml  UPDATED  E(0)                 E(0)                 E(7)                 E(0)                  intuit.innovations  experimental.march-2021.turbotax.iot-experiment
+big-rock-estimate.2.yaml  UPDATED  E(2)                 E(2)                 E(5)                 E(0)                  intuit.innovations  experimental.march-2021.turbotax.iot-experiment
 
 Success

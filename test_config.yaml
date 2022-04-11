@@ -25,7 +25,7 @@ integration-tests-results:
   foreign_key.milestones_big_rock_version: 8101
 
 regression-parameters:
-  # For test outut that displays the size of Excel files, determines the number of bytes by which Excel file size may very
+  # For test output that displays the size of Excel files, determines the number of bytes by which Excel file size may very
   # before declaring a regression violation
   xl-tolerance: 25 #4 
 

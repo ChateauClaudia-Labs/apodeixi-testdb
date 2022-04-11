@@ -1,13 +1,10 @@
 
 [secrets]
-folder = "C:/Alex/Code/ea-journeys/secrets"
+folder = "${TEST_DB_DIR}/secrets"
 
 [knowledge-base]
-knowledge-base-root-folder = "C:/Users/aleja/Documents/Code/chateauclaudia-labs/apodeixi/test_db/knowledge-base/envs/8002_ENV/kb"
-external-collaboration-folder = "C:/Users/aleja/Documents/Code/chateauclaudia-labs/apodeixi/test_db/knowledge-base/envs/8002_ENV/external-collaboration"
-
-#knowledge-base-root-folder = "C:/Users/aleja/tmp/tmp_test_Db/knowledge-base"
-#external-collaboration-folder = "C:/Users/aleja/tmp/tmp_test_Db/share-point"
+knowledge-base-root-folder = "${TEST_DB_DIR}/knowledge-base/envs/8002_ENV/kb"
+external-collaboration-folder = "${TEST_DB_DIR}/knowledge-base/envs/8002_ENV/external-collaboration"
 
 [organization-settings]
 month-fiscal-year-starts = 6

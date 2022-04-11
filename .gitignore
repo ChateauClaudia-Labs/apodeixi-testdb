@@ -8,3 +8,5 @@ logs/
 *_OUTPUT.txt
 
 shutil_store/
+
+tmp/

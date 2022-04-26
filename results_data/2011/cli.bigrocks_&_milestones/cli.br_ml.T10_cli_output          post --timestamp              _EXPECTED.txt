@@ -18,4 +18,4 @@ Foreign key violation for manifest: there are 1 other manifests that reference U
 		 version        = '1'
 [0m[38;5;110m
 
-<APODEIXI INSTALLATION>/apodeixi/test_db/knowledge-base/envs/2011_ENV/kb/logs/<MASKED>.<MASKED>_errors.txt[0m[0m
+<APODEIXI INSTALLATION>/apodeixi-testdb/knowledge-base/envs/2011_ENV/kb/logs/<MASKED>.<MASKED>_errors.txt[0m[0m

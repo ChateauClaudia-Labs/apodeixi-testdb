@@ -7,4 +7,4 @@ Excel form needs to be refreshed and re-submitted because it does not reference 
             latest version      : 2
 [0m[38;5;110m
 
-<APODEIXI INSTALLATION>/apodeixi/test_db/knowledge-base/envs/8101_ENV/kb/logs/<MASKED>.<MASKED>_errors.txt[0m[0m
+<APODEIXI INSTALLATION>/apodeixi-testdb/knowledge-base/envs/8101_ENV/kb/logs/<MASKED>.<MASKED>_errors.txt[0m[0m

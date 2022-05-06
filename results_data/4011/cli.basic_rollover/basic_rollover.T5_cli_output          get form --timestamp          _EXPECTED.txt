@@ -1,0 +1,17 @@
+=> get form --timestamp modernization
+
+
+Generated Excel form in this area:
+
+<TEST DB ROOT>/knowledge-base/envs/4011_ENV/external-collaboration
+
+Property                                                   Value
+---------------------------------------------------------  ------------------------------------------------
+Filing Coordinates                                         FY 23.Astrea.Official
+Filename                                                   Astrea.modernization.big-rocks.journeys.a6i.xlsx
+Manifests Included                                         big-rock.0, big-rock-estimate.2
+Posting API                                                big-rocks.journeys.a6i
+Excel range for updating 'big-rock' to version 3           Assertions!B2:G12
+Excel range for updating 'big-rock-estimate' to version 3  Assertions!H2:J12
+
+Success

@@ -1,0 +1,10 @@
+=> post --timestamp scoring-cycles.static-data.admin.a6i.xlsx
+
+
+KnowledgeBase activity:
+
+Manifest              Event    Entities added     Entities removed    Entities changed    Entities unchanged    Namespace                Name
+--------------------  -------  -----------------  ------------------  ------------------  --------------------  -----------------------  -----------
+scoring-cycle.1.yaml  CREATED  J(2), SC(2), S(2)                                                                cicloquimica.production  static-data
+
+Success

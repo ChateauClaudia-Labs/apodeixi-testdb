@@ -18,6 +18,7 @@ integration-tests-results:
   aggregate_workstream_metrics: 3001
 
   cli.basic_diff: 4001
+  cli.basic_rollover: 4011
 
   cli.post_dry_run: 8001
   cli.post_live_run: 8002

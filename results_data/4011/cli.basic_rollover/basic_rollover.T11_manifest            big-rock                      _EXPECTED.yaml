@@ -1,0 +1,74 @@
+apiVersion: delivery-planning.journeys.a6i.io/v1a
+assertion:
+  big-rock:
+    BR1:
+      UID: BR1
+      name: Containerization
+    BR1-name: Containerization
+    BR2:
+      Mid Rock:
+        MR1:
+          Small Rock:
+            SR1:
+              UID: BR2.MR1.SR1
+              name: MM UI
+            SR1-name: MM UI
+            SR2:
+              UID: BR2.MR1.SR2
+              name: FX UI
+            SR2-name: FX UI
+          UID: BR2.MR1
+          name: Front UI
+        MR1-name: Front UI
+        MR2:
+          UID: BR2.MR2
+          name: Admin UI (minus support)
+        MR2-name: Admin UI (minus support)
+        MR3:
+          UID: BR2.MR3
+          name: Support UI
+        MR3-name: Support UI
+      UID: BR2
+      name: New UX
+    BR2-name: New UX
+    BR3:
+      Mid Rock:
+        MR1:
+          UID: BR3.MR1
+          name: Oracle replacement
+        MR1-name: Oracle replacement
+      UID: BR3
+      name: Stack simplification
+    BR3-name: Stack simplification
+    BR4:
+      UID: BR4
+      name: Events
+    BR4-name: Events
+  entity_type: Big Rock
+  estimatedBy: alejandro@chateaclaudia-labs.com
+  estimatedOn: &id001 2021-10-30 00:00:00
+  planType: Standard
+  recordedBy: alejandro@chateaclaudia-labs.com
+  scenario: Official
+  scoringCycle: FY 23
+  scoringMaturity: ''
+  variant: explained
+kind: big-rock
+metadata:
+  labels:
+    estimatedBy: alejandro@chateaclaudia-labs.com
+    estimatedOn: *id001
+    journey: modernization
+    knowledgeBase: production
+    organization: cicloquimica
+    planType: Standard
+    product: Astrea
+    recordedBy: alejandro@chateaclaudia-labs.com
+    scenario: Official
+    scoringCycle: FY 23
+    scoringMaturity: ''
+    variant: explained
+    version: 4
+  name: modernization.fy-23.astrea.official
+  namespace: cicloquimica.production
+  version: 4

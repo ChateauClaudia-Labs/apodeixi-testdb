@@ -1,0 +1,17 @@
+=> get form --timestamp modernization
+
+
+Generated Excel form in this area:
+
+<TEST DB ROOT>/knowledge-base/envs/4021_ENV/external-collaboration
+
+Property                                                         Value
+---------------------------------------------------------------  ------------------------------------------------
+Filing Coordinates                                               FY 23.Astrea.Official
+Filename                                                         Astrea.modernization.milestone.journeys.a6i.xlsx
+Manifests Included                                               big-rock.0, modernization-milestone.1
+Posting API                                                      milestone.journeys.a6i
+Read-only Excel range for 'big-rock'                             Assertions!B7:G16
+Excel range for updating 'modernization-milestone' to version 4  Assertions!H2:L26
+
+Success

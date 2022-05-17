@@ -1,0 +1,11 @@
+=> post --timestamp Astrea.modernization.milestone.journeys.a6i.xlsx
+
+
+KnowledgeBase activity:
+
+Manifest                        Event      Entities added    Entities removed    Entities changed    Entities unchanged    Namespace                Name
+------------------------------  ---------  ----------------  ------------------  ------------------  --------------------  -----------------------  -----------------------------------
+big-rock.3.yaml                 UNCHANGED                                                            BR(3), MR(4), SR(2)   cicloquimica.production  modernization.fy-23.astrea.official
+modernization-milestone.3.yaml  UPDATED    M(0)              M(0)                M(0)                M(4)                  cicloquimica.production  modernization.fy-23.astrea.official
+
+Success

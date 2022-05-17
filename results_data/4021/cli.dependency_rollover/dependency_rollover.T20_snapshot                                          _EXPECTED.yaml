@@ -1,0 +1,263 @@
+kb:
+  excel-postings:
+    admin:
+      static-data:
+        _ARCHIVE:
+          _CLI__1 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1673
+
+              '
+            products.static-data.admin.a6i.xlsx: '
+
+              Size (in bytes):  17735
+
+              '
+          _CLI__2 Posting:
+            POST_EVENT_LOG.txt: '
+
+              Size (in bytes):  1268
+
+              '
+            scoring-cycles.static-data.admin.a6i.xlsx: '
+
+              Size (in bytes):  15503
+
+              '
+        products.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  17735
+
+          '
+        scoring-cycles.static-data.admin.a6i.xlsx: '
+
+          Size (in bytes):  15503
+
+          '
+    journeys:
+      FY 22:
+        Astrea:
+          Official:
+            Astrea.modernization.big-rocks.journeys.a6i.xlsx: '
+
+              Size (in bytes):  18452
+
+              '
+            Astrea.modernization.milestone.journeys.a6i.xlsx: '
+
+              Size (in bytes):  16374
+
+              '
+            _ARCHIVE:
+              _CLI__3 Posting:
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1812
+
+                  '
+                v1.big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  18452
+
+                  '
+              _CLI__4 Posting:
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1826
+
+                  '
+                v1.milestone.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  16374
+
+                  '
+              _CLI__5 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+              _CLI__6 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+      FY 23:
+        Astrea:
+          Official:
+            Astrea.modernization.big-rocks.journeys.a6i.xlsx: '
+
+              Size (in bytes):  7643
+
+              '
+            Astrea.modernization.milestone.journeys.a6i.xlsx: '
+
+              Size (in bytes):  7806
+
+              '
+            _ARCHIVE:
+              _CLI__10 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+              _CLI__11 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+              _CLI__12 Posting:
+                Astrea.modernization.milestone.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  7860
+
+                  '
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1924
+
+                  '
+              _CLI__13 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+              _CLI__14 Posting:
+                Astrea.modernization.big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  7643
+
+                  '
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1910
+
+                  '
+              _CLI__15 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+              _CLI__16 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+              _CLI__17 Posting:
+                Astrea.modernization.milestone.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  7806
+
+                  '
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1924
+
+                  '
+              _CLI__18 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+              _CLI__7 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+              _CLI__8 Form Request:
+                FORM_REQUEST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  411
+
+                  '
+              _CLI__9 Posting:
+                Astrea.modernization.big-rocks.journeys.a6i.xlsx: '
+
+                  Size (in bytes):  7590
+
+                  '
+                POST_EVENT_LOG.txt: '
+
+                  Size (in bytes):  1909
+
+                  '
+  manifests:
+    cicloquimica.production:
+      modernization.fy-22.astrea.official:
+        big-rock-estimate.1.yaml: '
+
+          Size (in bytes):  1869
+
+          '
+        big-rock.1.yaml: '
+
+          Size (in bytes):  1785
+
+          '
+        modernization-milestone.1.yaml: '
+
+          Size (in bytes):  1388
+
+          '
+      modernization.fy-23.astrea.official:
+        big-rock-estimate.2.yaml: '
+
+          Size (in bytes):  1918
+
+          '
+        big-rock-estimate.3.yaml: '
+
+          Size (in bytes):  1863
+
+          '
+        big-rock.2.yaml: '
+
+          Size (in bytes):  1840
+
+          '
+        big-rock.3.yaml: '
+
+          Size (in bytes):  1785
+
+          '
+        modernization-milestone.2.yaml: '
+
+          Size (in bytes):  1443
+
+          '
+        modernization-milestone.3.yaml: '
+
+          Size (in bytes):  1388
+
+          '
+      static-data:
+        line-of-business.1.yaml: '
+
+          Size (in bytes):  647
+
+          '
+        product.1.yaml: '
+
+          Size (in bytes):  687
+
+          '
+        scoring-cycle.1.yaml: '
+
+          Size (in bytes):  1247
+
+          '
+    system:
+      foreign_key_contraints.1.yaml: '
+
+        Size (in bytes):  3486
+
+        '

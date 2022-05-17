@@ -19,6 +19,7 @@ integration-tests-results:
 
   cli.basic_diff: 4001
   cli.basic_rollover: 4011
+  cli.dependency_rollover: 4021
 
   cli.post_dry_run: 8001
   cli.post_live_run: 8002

@@ -1,0 +1,11 @@
+=> post --timestamp Astrea.modernization.big-rocks.journeys.a6i.xlsx
+
+
+KnowledgeBase activity:
+
+Manifest                  Event    Entities added       Entities removed     Entities changed     Entities unchanged    Namespace                Name
+------------------------  -------  -------------------  -------------------  -------------------  --------------------  -----------------------  -----------------------------------
+big-rock.2.yaml           UPDATED  BR(0), MR(0), SR(0)  BR(0), MR(0), SR(0)  BR(0), MR(0), SR(0)  BR(3), MR(4), SR(2)   cicloquimica.production  modernization.fy-23.astrea.official
+big-rock-estimate.2.yaml  UPDATED  E(7)                 E(7)                 E(0)                 E(0)                  cicloquimica.production  modernization.fy-23.astrea.official
+
+Success
